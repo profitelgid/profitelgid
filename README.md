@@ -1,6 +1,8 @@
-# create-svelte
+# profi-telgid
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+* Live site: https://profitelgid.ee/
+* Deployment: https://profi-telgid.vercel.app/
+* API endpoint: https://apps.crewnew.com/v1/graphql
 
 ## Creating a project
 
