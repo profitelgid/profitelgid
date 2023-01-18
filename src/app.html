@@ -4,9 +4,120 @@
 		<meta charset="utf-8" />
 		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
 		<meta name="viewport" content="width=device-width" />
+		<!-- <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"> -->
 		%sveltekit.head%
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="https://profitelgid.ee/skin/frontend/default/hellowired/css/widgets.css"
+			media="all"
+		/>
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="https://profitelgid.ee/skin/frontend/default/hellowired/css/styles.css"
+			media="all"
+		/>
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="https://profitelgid.ee/skin/frontend/default/hellowired/css/responsive.css"
+			media="all"
+		/>
+		<link
+			rel="stylesheet"
+			type="text/css"
+			href="https://profitelgid.ee/skin/frontend/default/hellowired/css/custom.css"
+			media="all"
+		/>
+
+		<script type="text/javascript" src="https://profitelgid.ee/js/prototype/prototype.js"></script>
+		<script type="text/javascript" src="https://profitelgid.ee/js/varien/js.js"></script>
+		<!--search form-->
+		<script type="text/javascript" src="https://profitelgid.ee/js/varien/menu.js"></script>
+		<!--dropdown menu-->
+		<script
+			type="text/javascript"
+			src="https://profitelgid.ee/skin/frontend/default/hellowired/js/jquery-1.7.1.min.js"
+		></script>
+		<!--front slider-->
+		<script
+			type="text/javascript"
+			src="https://profitelgid.ee/skin/frontend/default/hellowired/js/hello.jquery.js"
+		></script>
+		<!--front slider-->
+		<script
+			type="text/javascript"
+			src="https://profitelgid.ee/skin/frontend/default/hellowired/js/cufon-yui.js"
+		></script>
+		<!--front slider-->
+		<script
+			type="text/javascript"
+			src="https://profitelgid.ee/skin/frontend/default/hellowired/js/jquery.cycle.all.js"
+		></script>
+		<!--front slider-->
+		<script
+			type="text/javascript"
+			src="https://profitelgid.ee/skin/frontend/default/hellowired/js/custom.js"
+		></script>
+		<!--front slider-->
+
+		<!--[if IE]>
+			<script
+				type="text/javascript"
+				src="http://profitelgid.ee/skin/frontend/default/hellowired/js/respond.min.js"
+			></script>
+		<![endif]-->
+		<!--[if lt IE 8]>
+			<link
+				rel="stylesheet"
+				type="text/css"
+				href="http://profitelgid.ee/skin/frontend/default/hellowired/css/styles-ie.css"
+				media="all"
+			/>
+		<![endif]-->
+		<!--[if lt IE 7]>
+			<script type="text/javascript" src="http://profitelgid.ee/js/lib/ds-sleight.js"></script>
+			<script
+				type="text/javascript"
+				src="http://profitelgid.ee/skin/frontend/default/hellowired/js/pngfix.js"
+			></script>
+			<script
+				type="text/javascript"
+				src="http://profitelgid.ee/skin/frontend/default/hellowired/js/ie6.js"
+			></script>
+		<![endif]-->
+
+		<!-- Facebook Pixel Code -->
+		<script>
+			!(function (f, b, e, v, n, t, s) {
+				if (f.fbq) return;
+				n = f.fbq = function () {
+					n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments);
+				};
+				if (!f._fbq) f._fbq = n;
+				n.push = n;
+				n.loaded = !0;
+				n.version = '2.0';
+				n.queue = [];
+				t = b.createElement(e);
+				t.async = !0;
+				t.src = v;
+				s = b.getElementsByTagName(e)[0];
+				s.parentNode.insertBefore(t, s);
+			})(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
+
+			fbq('init', '1736146693326734');
+			fbq('track', 'PageView');
+		</script>
+		<noscript
+			><img
+				height="1"
+				width="1"
+				style="display: none"
+				src="https://www.facebook.com/tr?id=1736146693326734&ev=PageView&noscript=1"
+		/></noscript>
+		<!-- End Facebook Pixel Code -->
 	</head>
-	<body data-sveltekit-preload-data="hover">
-		<div style="display: contents">%sveltekit.body%</div>
-	</body>
+	%sveltekit.body%
 </html>
