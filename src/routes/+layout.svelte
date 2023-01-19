@@ -1,22 +1,30 @@
+<script>
+	import SidebarRight from '../lib/components/SidebarRight.svelte';
+	import Header from '../lib/components/Header.svelte';
+	import Footer from '../lib/components/Footer.svelte';
+	import Sidebar from '../lib/components/Sidebar.svelte';
+</script>
+
 <svelte:head>
 	<style>
 		@import 'src/styles/navbar.css';
 	</style>
 </svelte:head>
-<script>
-	import Navigation from '../lib/components/Navigation.svelte';
-	import Header from '../lib/components/Header.svelte';
-	import Footer from '../lib/components/Footer.svelte';
-</script>
 <body class="catalog-category-view categorypath-telkide-myyk-pop-up-html category-pop-up">
 	<div class="wrapper">
 		<div class="inner-wrapper">
 			<div class="page">
 				<div class="header-container">
-				<Header/>		
-				<Navigation/>
-					<Footer/>
-					
+					<Header />
+					<div class="main-container col3-layout">
+						<div class="main row">			
+							<Sidebar />
+							<slot />
+							<SidebarRight />
+						</div>
+					</div>
+					<Footer />
+
 					<!--Start of Tawk.to Script-->
 					<script type="text/javascript">
 						var Tawk_API = Tawk_API || {},
