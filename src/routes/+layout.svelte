@@ -7,7 +7,7 @@
 
 <svelte:head>
 	<style>
-		@import 'src/styles/navbar.css';
+		@import '/src/styles/navbar.css';
 	</style>
 </svelte:head>
 <body class="catalog-category-view categorypath-telkide-myyk-pop-up-html category-pop-up">
