@@ -1,4 +1,4 @@
-.navbar {
+#navbar {
 	float: left;
 	height: 44px;
 	font-size: 13px;
@@ -12,16 +12,17 @@
 	margin-right: 10px;
 }
 
+#navbar:hover .dropdown-content{
+  display: block;
+}
+
 #navbar a {
 	color: white;
 	text-decoration: none;
 }
 
-/* .dropdown::after {
-  content: '\f0d7';
-} */
-
 .dropdown-content {
+  display: none;
 	visibility: hidden;
   position: absolute;
   margin-top: 11px;
