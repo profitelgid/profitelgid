@@ -24,7 +24,6 @@
 						</div>
 					</div>
 					<Footer />
-
 					<!--Start of Tawk.to Script-->
 					<script type="text/javascript">
 						var Tawk_API = Tawk_API || {},
