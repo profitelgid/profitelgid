@@ -1,7 +1,10 @@
+<script>
+  const year = new Date().getFullYear();
+</script>
 <div class="copyright">
   <div class="f-left">
     <address>
-      &copy; 2016
+      &copy; {year}
       Profitelgid.ee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
         href="http://www.profitelgid.ee/est/priva">Privaatsuspoliitika</a
       >
