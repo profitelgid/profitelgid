@@ -1,13 +1,13 @@
 <script>
-	import SidebarRight from '../lib/components/SidebarRight.svelte';
-	import Header from '../lib/components/Header.svelte';
-	import Footer from '../lib/components/Footer.svelte';
-	import Sidebar from '../lib/components/Sidebar.svelte';
+	import SidebarRight from '$lib/components/SidebarRight.svelte';
+	import Header from '$lib/components/Header.svelte';
+	import Footer from '$lib/components/Footer.svelte';
+	import Sidebar from '$lib/components/Sidebar.svelte';
 </script>
 
 <svelte:head>
 	<style>
-		@import '/src/styles/navbar.css';
+		@import '/styles/navbar.css';
 	</style>
 </svelte:head>
 <body class="catalog-category-view categorypath-telkide-myyk-pop-up-html category-pop-up">

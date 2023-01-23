@@ -1,6 +1,6 @@
 <script lang="ts">
 	export let data: any;
-	import SubCategories from '../../../../lib/components/SubCategories.svelte';
+	import SubCategories from '$lib/components/SubCategories.svelte';
 	const parent: String = "7";
 </script>
 
