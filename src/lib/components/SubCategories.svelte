@@ -10,7 +10,7 @@
                 class="product-image"
             >
                 <img
-                    src="http://profitelgid.ee/telk-pilt/laotelgid/A/hall-laotelk-170.jpg"
+                    src="http://cms.crewnew.com/assets/deb43c91-cb9f-44f2-a7cf-c1f418f85950"
                     width="170"
                     height="170"
                     alt="A-tüüpi soodne laotelk"
@@ -23,15 +23,15 @@
                             href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
                             title="A-tüüpi soodne laotelk"
                         >
-                            A-tüüpi laotelgid</a
+                        Popup Home (soodsaim)</a
                         >
                     </h2>
-                    <p>Soodsaima ruutmeetri hinnaga laotelk turul.</p>
+                    <p>Soodne valik väheseks kodukasutuseks</p>
 
                     <div class="price-box">
                         <p class="special-price">
                             <span class="price-label"> Hinnad alates:</span>
-                            <span class="price" id="product-price-101"> €375,00 </span>
+                            <span class="price" id="product-price-101"> 105,66€ </span>
                         </p>
                     </div>
 
@@ -44,9 +44,9 @@
                         >
                     </p>
                     <div class="desc std">
-                        <strong>Värvid:</strong> Valge, hall, tumeroheline<br /><strong>Kattematerjal:</strong
+                        <strong>Kattematerjal:</strong
                         >
-                        Tulekindel 600g/m<sup>2</sup> PVC<br />
+                        Polüester (190g/m2) veekindel<br />
                         <a
                             href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
                             title="A-tüüpi soodne laotelk"
@@ -64,7 +64,7 @@
                 class="product-image"
             >
                 <img
-                    src="http://profitelgid.ee/telk-pilt/laotelgid/U/valge-laotelk-170.jpg"
+                    src="http://cms.crewnew.com/assets/236e358d-575c-4040-bec2-0236e6377663"
                     width="170"
                     height="170"
                     alt="B-tüüpi  vastupidav laotelk"
@@ -77,15 +77,15 @@
                             href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
                             title="B-tüüpi  vastupidav laotelk"
                         >
-                            B-tüüpi laotelgid</a
+                        Popup Classic Alu (kergtelgid)</a
                         >
                     </h2>
-                    <p>Vastupidavama konstruktsiooniga laotelk.</p>
+                    <p>Kerge ja soodne laadatelk</p>
 
                     <div class="price-box">
                         <p class="special-price">
                             <span class="price-label"> Hinnad alates:</span>
-                            <span class="price" id="product-price-101"> €1100,00 </span>
+                            <span class="price" id="product-price-101"> 335€ </span>
                         </p>
                     </div>
 
@@ -98,10 +98,10 @@
                         >
                     </p>
                     <div class="desc std">
-                        <strong>Värvid:</strong> valge, hall ja tumeroheline<br /><strong
+                        <strong
                             >Kattematerjal:</strong
                         >
-                        Tulekindel ülitugev 800-900g/m<sup>2</sup> PVC (5.a. garantii!)<br />
+                        Polüester/PVC (300D) 100% veekindel<br />
                         <a
                             href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
                             title="B-tüüpi  vastupidav laotelk"

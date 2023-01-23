@@ -1,0 +1,15 @@
+query GetChildCategories {
+	products_categories(
+		where: { _and: { parent_id: { _eq: 7 }, status: { _eq: "published" } } }
+		order_by: { sort: asc }
+	) {
+		name
+		description_short
+		slug
+		coating_material
+		image
+		products(order_by: { selling_price: asc }, limit: 1, where: { status: { _eq: "published" } }) {
+			selling_price
+		}
+	}
+}
