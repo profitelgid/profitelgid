@@ -33,7 +33,7 @@
       <li class="dropdown">
         <a href="/">
           <span>Telkide &amp; peoinventari rent</span>
-          <img alt="clickable" src="/src/assets/images/menu_bullet.png" style="margin-left: 5px;">
+          <img alt="clickable" src="/images/menu_bullet.png" style="margin-left: 5px;">
           <div class="arrow"></div>
         </a>
         <ul>
@@ -59,7 +59,7 @@
       <li class="dropdown">
         <a href="/">
           <span>Telkide &amp; peoinventari müük</span>
-          <img alt="clickable" src="/src/assets/images/menu_bullet.png" style="margin-left: 5px;">
+          <img alt="clickable" src="/images/menu_bullet.png" style="margin-left: 5px;">
         </a>
         <ul>
           <div class="dropdown-content">
@@ -89,7 +89,7 @@
               <a href="/est/telkide-myyk/pop-up.html">
                 <span>Pop-up kergtelgid</span>
               </a>
-              <span class="arrow" lang="6"><img alt="clickable" src="/src/assets/images/menu_bullet.png" style="float:right; transform: rotate(270deg);"></span>
+              <span class="arrow" lang="6"><img alt="clickable" src="/images/menu_bullet.png" style="float:right; transform: rotate(270deg);"></span>
               <ul>
                 <div class="dropdown-content dropdown-content-2">
                 <li class="">
@@ -139,7 +139,7 @@
               <a href="/est/telkide-myyk/laotelgid.html">
                 <span>Laotelgid &amp; tulekindlad telgid</span>
               </a>
-              <span class="arrow" lang="6"><img alt="clickable" src="/src/assets/images/menu_bullet.png" style="margin-left: 5px; float:right; transform: rotate(270deg);"></span>
+              <span class="arrow" lang="6"><img alt="clickable" src="/images/menu_bullet.png" style="margin-left: 5px; float:right; transform: rotate(270deg);"></span>
               <ul>
                 <div class="dropdown-content dropdown-content-2">
                 <li>
