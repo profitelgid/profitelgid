@@ -68,14 +68,12 @@
 
 				<div class="product-tabs-content" id="product_tabs_additional_contents">
 					<table class="data-table" id="product-attribute-specs-table">
-						<col width="25%" />
-
-						<col />
-
+						<col width="50%" />
 						<tbody>
 							{#each data.cms.products as item}
 								<tr>
-									<th class="label">{item.title} ({item.colors[0]})</th>
+									<th class="label">{item.title}</th>
+									<td>{item.colors[0]}</td>
 									<td class="data"> HIND: {Math.ceil(item.selling_price / 10) * 10}€ </td>
 								</tr>
 							{/each}
