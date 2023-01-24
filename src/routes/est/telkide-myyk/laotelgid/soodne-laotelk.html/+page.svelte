@@ -225,10 +225,10 @@
 						<col />
 
 						<tbody>
-							{#each data.cms.products as pageitem}
+							{#each data.cms.products as item}
 								<tr>
-									<th class="label">{pageitem.title}</th>
-									<td class="data"> HIND: {pageitem.selling_price}€ </td>
+									<th class="label">{item.title}</th>
+									<td class="data"> HIND: {Math.ceil(item.selling_price / 10) * 10}€ </td>
 								</tr>
 							{/each}
 						</tbody>
