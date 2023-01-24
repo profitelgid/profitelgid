@@ -143,7 +143,7 @@
               <ul>
                 <div class="dropdown-content dropdown-content-2">
                 <li>
-                  <a href="https://profitelgid.ee/est/telkide-myyk/profitelk-muuk.html">
+                  <a href="/est/telkide-myyk/laotelgid/soodne-laotelk.html">
                     <span>A-tüüpi laotelgid</span>
                   </a>
                 </li>
