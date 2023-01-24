@@ -10,7 +10,7 @@ export async function load() {
             query: `
             query CategoryProducts {
                 products_categories_by_pk(id: 25) {
-                  products {
+                  products(order_by: {selling_price: asc}) {
                     title
                     selling_price
                   }
