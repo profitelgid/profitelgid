@@ -244,29 +244,8 @@
 
 		<div class="product-collateral">
 			<div class="product-tabs">
-				<h2 class="tab-title"><span class="tabs-controller">Seinad ja värvid</span></h2>
-
-				<div class="product-tabs-content" id="product_tabs_description_contents">
-					<div>
-						<p>
-							Telki võib kasutada varjualusena ilma seinteta, katta kinni osad seinad või kõik
-							seinad. Seinte lisamine ja ära võtmine on minutite küsimus!
-						</p>
-
-						<p>
-							Saadaolevad värvid: hall, valge, tumeroheline, roheline, sinine, punane ning nagu
-							piltidelt näha triibulised jabkombinatsioonid, kus katus ja katuse küljest tulevad
-							jalad on ühte värvi ja seinad teist värvi. Pikema tarneajaga on võimalik lasta toota
-							ükskõik kui keerukaid värvilahendusi, tehases otse peale digitrükk, erikujulised aknad
-							jne. jne.
-						</p>
-					</div>
-				</div>
-			</div>
-
-			<div class="product-tabs">
 				<h2 class="tab-title">
-					<span class="tabs-controller">Mõned umbkaudsed näidishinnad eri mõõtudel</span>
+					<span class="tabs-controller">Mõned näidishinnad eri mõõtudel</span>
 				</h2>
 
 				<div class="product-tabs-content" id="product_tabs_additional_contents">
