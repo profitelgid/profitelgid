@@ -44,11 +44,11 @@
 								class="group"
 								rel="group"
 								href="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
-								title="Kõrgemad ja madalamad tugevad profitelgid"
+								title="{image.directus_file.title}"
 							>
 								<img class="productImage"
 									src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
-									alt="Kõrgemad ja tugevad profitelgid"
+									alt="{image.directus_file.title}"
 								/>
 							</a>
 						</li>

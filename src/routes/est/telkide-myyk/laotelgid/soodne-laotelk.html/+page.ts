@@ -18,6 +18,7 @@ export async function load() {
                   products_categories_files {
                     directus_file {
                       filename_disk
+                      title
                     }
                   }
                   name
