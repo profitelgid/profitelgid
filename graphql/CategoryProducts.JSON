@@ -1,0 +1,647 @@
+{
+	"data": {
+		"products_categories_by_pk": {
+			"products": [
+				{
+					"title": "6x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2993.22
+				},
+				{
+					"title": "6x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2980.58
+				},
+				{
+					"title": "5x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2923.78
+				},
+				{
+					"title": "6x10m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2923.78
+				},
+				{
+					"title": "4x10m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2838.58
+				},
+				{
+					"title": "6x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2838.58
+				},
+				{
+					"title": "6x8m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2696.58
+				},
+				{
+					"title": "5x12m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3575.44
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3586.62
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 3559.02
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 3448.62
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3421.02
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3310.62
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 3283.02
+				},
+				{
+					"title": "3x14m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3172.62
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3145.02
+				},
+				{
+					"title": "6x20m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 6109.06
+				},
+				{
+					"title": "8x16m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5975.06
+				},
+				{
+					"title": "8x16m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 5975.06
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5894.66
+				},
+				{
+					"title": "8x16m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 5894.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5841.06
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5626.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5573.06
+				},
+				{
+					"title": "6x18m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 5492.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5358.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 5358.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 5358.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 5331.86
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 5171.06
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 5157.66
+				},
+				{
+					"title": "6x16m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 5144.26
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 5077.26
+				},
+				{
+					"title": "5x18m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 5050.46
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 4889.66
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO",
+					"selling_price": 2027.94
+				},
+				{
+					"title": "4x12m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3020.82
+				},
+				{
+					"title": "6x10m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3007.02
+				},
+				{
+					"title": "5x8m Laotelk Premium",
+					"selling_price": 1288.5
+				},
+				{
+					"title": "3x6m Laotelk Premium",
+					"selling_price": 1258.5
+				},
+				{
+					"title": "4x6m Laotelk Premium PRO",
+					"selling_price": 1228.5
+				},
+				{
+					"title": "4x8m Laotelk Premium",
+					"selling_price": 1183.5
+				},
+				{
+					"title": "3x6m Laotelk Premium PRO",
+					"selling_price": 1048.5
+				},
+				{
+					"title": "4x6m Laotelk Premium",
+					"selling_price": 973.5
+				},
+				{
+					"title": "3x4m Laotelk Premium",
+					"selling_price": 958.5
+				},
+				{
+					"title": "4x4m Laotelk Premium PRO",
+					"selling_price": 943.5
+				},
+				{
+					"title": "3x4m Laotelk Premium PRO",
+					"selling_price": 838.5
+				},
+				{
+					"title": "3x6m Laotelk Premium",
+					"selling_price": 838.5
+				},
+				{
+					"title": "3x4m Laotelk Premium",
+					"selling_price": 658.5
+				},
+				{
+					"title": "3x2m Laotelk Premium",
+					"selling_price": 478.5
+				},
+				{
+					"title": "3x8m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 1867.34
+				},
+				{
+					"title": "5x6m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 1838.14
+				},
+				{
+					"title": "4x6m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 1808.94
+				},
+				{
+					"title": "4x10m Laotelk Premium PRO",
+					"selling_price": 1750.54
+				},
+				{
+					"title": "4x8m Laotelk Premium",
+					"selling_price": 1750.54
+				},
+				{
+					"title": "6x6m Laotelk Premium PRO",
+					"selling_price": 1662.94
+				},
+				{
+					"title": "4x6m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 1648.5
+				},
+				{
+					"title": "5x6m Laotelk Premium PRO",
+					"selling_price": 1498.5
+				},
+				{
+					"title": "5x10m Laotelk Premium",
+					"selling_price": 1498.5
+				},
+				{
+					"title": "3x6m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 1438.5
+				},
+				{
+					"title": "4x8m Laotelk Premium PRO",
+					"selling_price": 1423.5
+				},
+				{
+					"title": "4x6m Laotelk Premium",
+					"selling_price": 1348.5
+				},
+				{
+					"title": "4x10m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2696.58
+				},
+				{
+					"title": "5x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2696.58
+				},
+				{
+					"title": "4x10m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2597.18
+				},
+				{
+					"title": "6x8m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2554.58
+				},
+				{
+					"title": "4x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2511.98
+				},
+				{
+					"title": "5x8m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2384.18
+				},
+				{
+					"title": "4x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2341.58
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO",
+					"selling_price": 2334.54
+				},
+				{
+					"title": "6x12m Laotelk Premium",
+					"selling_price": 2173.94
+				},
+				{
+					"title": "6x6m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2159.34
+				},
+				{
+					"title": "4x8m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2130.14
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3997.04
+				},
+				{
+					"title": "8x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3942.64
+				},
+				{
+					"title": "4x16m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3942.64
+				},
+				{
+					"title": "5x14m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3942.64
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3915.44
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 3806.64
+				},
+				{
+					"title": "8x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3806.64
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 3670.64
+				},
+				{
+					"title": "3x16m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3602.64
+				},
+				{
+					"title": "5x16m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 4554.64
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 4350.64
+				},
+				{
+					"title": "5x10m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2966.38
+				},
+				{
+					"title": "5x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 2838.58
+				},
+				{
+					"title": "3x12m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 2824.38
+				},
+				{
+					"title": "4x14m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3531.42
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 3407.22
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO",
+					"selling_price": 3145.02
+				},
+				{
+					"title": "8x8m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 3942.64
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3915.44
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 3670.64
+				},
+				{
+					"title": "4x18m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 4473.04
+				},
+				{
+					"title": "8x10m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 4350.64
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 4350.64
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 4282.64
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 4214.64
+				},
+				{
+					"title": "8x8m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 4214.64
+				},
+				{
+					"title": "8x8m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 4078.64
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 4078.64
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 4078.64
+				},
+				{
+					"title": "8x8m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 4024.24
+				},
+				{
+					"title": "8x36m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 12862.66
+				},
+				{
+					"title": "6x36m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 11924.66
+				},
+				{
+					"title": "6x36m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 11388.66
+				},
+				{
+					"title": "6x32m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 10718.66
+				},
+				{
+					"title": "6x32m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 10182.66
+				},
+				{
+					"title": "6x30m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 10048.66
+				},
+				{
+					"title": "6x30m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 9646.66
+				},
+				{
+					"title": "8x24m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 9378.66
+				},
+				{
+					"title": "8x24m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 9244.66
+				},
+				{
+					"title": "8x24m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 9110.66
+				},
+				{
+					"title": "8x24m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 9070.46
+				},
+				{
+					"title": "6x28m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 8963.26
+				},
+				{
+					"title": "8x24m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 8842.66
+				},
+				{
+					"title": "5x30m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 8802.46
+				},
+				{
+					"title": "8x24m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 8708.66
+				},
+				{
+					"title": "8x24m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 8561.26
+				},
+				{
+					"title": "8x24m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 8561.26
+				},
+				{
+					"title": "6x24m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 7717.06
+				},
+				{
+					"title": "6x24m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 7341.86
+				},
+				{
+					"title": "6x22m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 7073.86
+				},
+				{
+					"title": "5x24m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 7047.06
+				},
+				{
+					"title": "6x22m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 6698.66
+				},
+				{
+					"title": "5x24m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 6698.66
+				},
+				{
+					"title": "6x20m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 6430.66
+				},
+				{
+					"title": "4x20m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 4889.66
+				},
+				{
+					"title": "6x16m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 4889.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 4809.26
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 4728.86
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 4758.64
+				},
+				{
+					"title": "8x16m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5894.66
+				},
+				{
+					"title": "4x24m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 5867.86
+				},
+				{
+					"title": "6x18m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 5760.66
+				},
+				{
+					"title": "8x16m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 5707.06
+				},
+				{
+					"title": "8x16m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5707.06
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 5626.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 5626.66
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 5626.66
+				},
+				{
+					"title": "5x20m Laotelk Premium PRO+ 2,6m külje kõrgus",
+					"selling_price": 5599.86
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 4622.64
+				},
+				{
+					"title": "8x10m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 4622.64
+				},
+				{
+					"title": "6x12m Laotelk Premium PRO+ 4,0m külje kõrgus",
+					"selling_price": 4622.64
+				},
+				{
+					"title": "8x12m Laotelk Premium PRO+ 3,0m külje kõrgus",
+					"selling_price": 4609.04
+				},
+				{
+					"title": "8x10m Laotelk Premium PRO+ 3,6m külje kõrgus",
+					"selling_price": 4568.24
+				}
+			],
+			"name": "A-tüüpi laotelgid",
+			"title": "A-tüüpi soodsamad laotelgid",
+			"coating_material": "PVC 500+h/m2 (tulekindel)",
+			"description": "<p>K&otilde;ik telgid on&nbsp;<a class=\"group\" title=\"&Uuml;litugeva raamiga telgid\" href=\"http://profitelgid.ee/telk-pilt/profitelgid/tugev-profitelk.jpg\" rel=\"group\">&uuml;litugeva kalvaniseeritud roostevaba terasraamiga</a>, mis korralikult kinnitatuna on aastaringselt kasutatav. Paksu PVC kattega telke v&otilde;ib julgelt aastaringselt ka p&otilde;hjamaa kliimas kasutada.</p>\n<p>Profiseeria telgid on saadaval erinevates m&otilde;&otilde;tudes. Antud kategoorias toodud tooted ja hinnad v&otilde;ivad veidi erineda tegelikkusest ja uuendatakse kord kuus. Seega palume konkreetsema soovi korral &uuml;hendust v&otilde;tta ning kirjutada, mis on soovitav miinimum/maksimum pikkus, laius kui ka k&otilde;rgus. Oluline on ka teada, mis pinnasele on plaan telk paigaldada. All paremal nurgas on oranž kontaktvormi, kust saab kogu info meile saata ning saame teha hinnapakkumise.</p>\n<p><strong>Antud kategooria telke on saadaval v&auml;ga erinevates suurustes - v&auml;ga v&auml;iksest kuni v&auml;ga suurteni. Akendega, akendeta, PVC v&otilde;i tulekindla PVC kattega, madalast k&otilde;rgeni jne. Anna meile oma soovidest teada!</strong></p>\n<p>K&otilde;ik telgi raami osad on v&auml;lja vahetatavad, kui telk peaks kannatada saama. Samuti on m&uuml;&uuml;gil vahendid kattematerjali parandamiseks ning v&otilde;imalus soetada eraldi ka uus katus v&otilde;i k&uuml;ljepaan(id). Soovitame kindlasti telkide lisavarustuse alt soetada ka jalaraskuseid ning alati telk korralikult maa k&uuml;lge kinnitada, mis tagab telgil pikema eluea!</p>",
+			"description_short": "Soodsaima ruutmeetri hinnaga aastaringselt kasutatav laotelk",
+			"image": "a31206e7-2c47-4b82-b5f7-6bc474e50014",
+			"title_tag": "Soodsad & ülitugevad aastaringselt kasutatavad PVC laotelgid",
+			"title_og": null,
+			"parent_id": 5,
+			"meta_description": null,
+			"keywords": null,
+			"image_og": "7bea20ef-ae4b-4ec1-8708-78d88ec60869",
+			"description_og": null,
+			"products_categories_files": [
+				{
+					"directus_file": {
+						"filename_disk": "e3779a1c-ac0b-4805-b854-bae493e2a2ad.png"
+					}
+				},
+				{
+					"directus_file": {
+						"filename_disk": "e55756f4-02f2-402a-92f2-ea41bc18e60c.png"
+					}
+				},
+				{
+					"directus_file": {
+						"filename_disk": "e93773b4-b36b-4fdb-a079-d52a1623406b.png"
+					}
+				},
+				{
+					"directus_file": {
+						"filename_disk": "ab36efb1-8484-4f5b-b97f-d2f496ed4651.png"
+					}
+				},
+				{
+					"directus_file": {
+						"filename_disk": "2bbb569c-23a4-4fc7-ad28-09ef7111f574.jpg"
+					}
+				},
+				{
+					"directus_file": {
+						"filename_disk": "bc341dff-ea37-4edb-a1ea-74a1173bfe60.jpg"
+					}
+				},
+				{
+					"directus_file": {
+						"filename_disk": "8964e042-42fc-41cf-9173-9f4bca456de3.jpg"
+					}
+				},
+				{
+					"directus_file": {
+						"filename_disk": "e67b6fe2-0906-4e36-b652-a84515c15b7c.jpg"
+					}
+				}
+			]
+		}
+	}
+}
