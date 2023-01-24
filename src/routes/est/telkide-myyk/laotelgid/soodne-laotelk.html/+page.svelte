@@ -28,7 +28,7 @@
 					<img
 						id="image"
 						style="height:350px"
-						src="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat-profiteltat.jpg"
+						src="https://cms.crewnew.com/assets/{data.cms.image}"
 						alt="Tugevad profitelgid"
 						title="Tugevad profitelgid"
 					/>
@@ -215,7 +215,7 @@
 		<div class="product-collateral">
 			<div class="product-tabs">
 				<h2 class="tab-title">
-					<span class="tabs-controller">Mõned näidishinnad eri mõõtudel</span>
+					<span class="tabs-controller">Hinnad eri mõõtudel, mudelitel ja värvidel</span>
 				</h2>
 
 				<div class="product-tabs-content" id="product_tabs_additional_contents">
@@ -227,7 +227,7 @@
 						<tbody>
 							{#each data.cms.products as item}
 								<tr>
-									<th class="label">{item.title}</th>
+									<th class="label">{item.title} ({item.colors[0]})</th>
 									<td class="data"> HIND: {Math.ceil(item.selling_price / 10) * 10}€ </td>
 								</tr>
 							{/each}

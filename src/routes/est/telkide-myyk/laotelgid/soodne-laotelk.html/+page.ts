@@ -13,6 +13,7 @@ export async function load() {
                   products(order_by: {selling_price: asc}) {
                     title
                     selling_price
+                    colors
                   }
                   name
                   title
