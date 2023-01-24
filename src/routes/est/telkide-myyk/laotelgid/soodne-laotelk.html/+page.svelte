@@ -1,6 +1,7 @@
 <script lang="ts">
 	export let data: any;
 </script>
+
 <div class="col-main span9">
 	<div id="messages_product_view" />
 
@@ -15,41 +16,7 @@
 
 				<div class="short-description">
 					<div class="std">
-						<p />
-
-						<p>
-							Kõik telgid on <a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/tugev-profitelk.jpg"
-								title="Ülitugeva raamiga telgid">ülitugeva terasraamiga</a
-							>, mis korralikult kinnitatuna on aastaringselt kasutatav. Paksu PVC kattega telke
-							võib julgelt aastaringselt ka põhjamaa kliimas kasutada.
-						</p>
-
-						<p>
-							Profiseeria telgid on saadaval erinevates mõõtudes. Antud kategoorias toodud tooted ja
-							hinnad on vaid näidised ja seega palume konkreetsema soovi korral ühendust võtta ning
-							kirjutada, mis mõõtudes ja mis värvi telki soovite ja kindlasti ka, kunas ja kus peab
-							telk kohal olema. Samuti on oluline teada, mis pinnasele on plaan telk paigaldada. All
-							paremal nurgas on oranž kontaktvormi / live chat'i link, kust saab kogu info meile
-							saata ning saame teha hinnapakkumise.
-						</p>
-						<p>
-							<strong
-								>Antud kategooria telke on saadaval väga erinevates suurustes - väga väiksest kuni
-								väga suurteni. Akendega, akendeta, PVC, tulekindla PVC või PE kattega, madalast
-								kõrgeni jne. Anna meile oma soovidest teada!</strong
-							>
-						</p>
-
-						<p>
-							Kõik telgi raami osad on välja vahetatavad, kui telk peaks kannatada saama. Samuti on
-							müügil vahendid kattematerjali parandamiseks ning võimalus soetada eraldi ka uus katus
-							või küljepaan(id). Soovitame kindlasti telkide lisavarustuse alt soetada ka
-							jalaraskuseid ning alati telk korralikult maa külge kinnitada, mis tagab telgil pikema
-							eluea!
-						</p>
+						{@html data.cms.description}
 					</div>
 				</div>
 
@@ -258,6 +225,7 @@
 						<col />
 
 						<tbody>
+							{}
 							<tr
 								><th class="label">2x3m PE</th>
 
