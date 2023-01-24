@@ -30,7 +30,7 @@
 		<ol class="products-list" id="products-list">
 			<li class="item">
 				<a
-					href="http://profitelgid.ee/est/telkide-myyk/laotelgid/soodne-laotelk.html"
+					href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
 					title="A-tüüpi soodne laotelk"
 					class="product-image"
 				>
@@ -45,7 +45,7 @@
 					<div class="f-fix">
 						<h2 class="product-name">
 							<a
-								href="http://profitelgid.ee/est/telkide-myyk/laotelgid/soodne-laotelk.html"
+								href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
 								title="A-tüüpi soodne laotelk"
 							>
 								A-tüüpi laotelgid</a
@@ -74,7 +74,7 @@
 							>
 							Tulekindel 600g/m<sup>2</sup> PVC<br />
 							<a
-								href="http://profitelgid.ee/est/telkide-myyk/laotelgid/soodne-laotelk.html"
+								href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
 								title="A-tüüpi soodne laotelk"
 								class="link-more">Vaata lähemalt >></a
 							>
@@ -85,7 +85,7 @@
 
 			<li class="item">
 				<a
-					href="http://profitelgid.ee/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+					href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
 					title="B-tüüpi  vastupidav laotelk"
 					class="product-image"
 				>
@@ -100,7 +100,7 @@
 					<div class="f-fix">
 						<h2 class="product-name">
 							<a
-								href="http://profitelgid.ee/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+								href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
 								title="B-tüüpi  vastupidav laotelk"
 							>
 								B-tüüpi laotelgid</a
@@ -130,7 +130,7 @@
 							>
 							Tulekindel ülitugev 800-900g/m<sup>2</sup> PVC (5.a. garantii!)<br />
 							<a
-								href="http://profitelgid.ee/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+								href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
 								title="B-tüüpi  vastupidav laotelk"
 								class="link-more">Vaata lähemalt >></a
 							>

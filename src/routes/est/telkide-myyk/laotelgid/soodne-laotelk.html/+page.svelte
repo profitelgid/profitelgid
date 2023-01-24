@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { scale } from 'svelte/transition';
+
 	export let data: any;
 </script>
 
@@ -9,13 +11,13 @@
 		<div class="product-essential">
 			<div class="product-shop">
 				<div class="product-name">
-					<h1>{data.cms.title}</h1>
+					<h1 in:scale>{data.cms.title}</h1>
 				</div>
 
 				<ul class="add-to-links" />
 
 				<div class="short-description">
-					<div class="std">
+					<div class="std" in:scale>
 						{@html data.cms.description}
 					</div>
 				</div>
@@ -25,7 +27,7 @@
 
 			<div class="product-img-box">
 				<p class="product-image">
-					<img
+					<img in:scale
 						id="image"
 						style="height:350px"
 						src="https://cms.crewnew.com/assets/{data.cms.image}"
@@ -46,7 +48,7 @@
 								href="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
 								title="{image.directus_file.title}"
 							>
-								<img class="productImage"
+								<img in:scale class="productImage"
 									src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
 									alt="{image.directus_file.title}"
 								/>
@@ -71,7 +73,7 @@
 						<col width="50%" />
 						<tbody>
 							{#each data.cms.products as item}
-								<tr>
+								<tr in:scale>
 									<th class="label">{item.title}</th>
 									<td>{item.colors[0]}</td>
 									<td class="data"> HIND: {Math.ceil(item.selling_price / 10) * 10}€ </td>
