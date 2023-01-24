@@ -15,6 +15,11 @@ export async function load() {
                     selling_price
                     colors
                   }
+                  products_categories_files {
+                    directus_file {
+                      filename_disk
+                    }
+                  }
                   name
                   title
                   image

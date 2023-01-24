@@ -38,173 +38,21 @@
 					<h2>KLÕPSA, ET NÄHA PILTE SUURELT!</h2>
 
 					<ul>
+						{#each data.cms.products_categories_files as image}
 						<li>
 							<a
 								class="group"
 								rel="group"
-								href="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat-profiteltat.jpg"
+								href="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
 								title="Kõrgemad ja madalamad tugevad profitelgid"
 							>
-								<img
-									src="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat-profiteltat-s.jpg"
+								<img class="productImage"
+									src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
 									alt="Kõrgemad ja tugevad profitelgid"
 								/>
 							</a>
 						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat2.jpg"
-								title="Tugeva raamiga profitelgid"
-							>
-								<img
-									src="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat2-s.jpg"
-									alt="Tugeva raamiga profitelgid"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat3.jpg"
-								title="Tugevad profitelgid"
-							>
-								<img
-									src="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat3-s.jpg"
-									alt="Tugevad profitelgid"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat4.jpg"
-								title="Mööda maad jooksev karkass tagamaks suuremat tugevust"
-							>
-								<img
-									src="http://profitelgid.ee/est/teltta-kuva/vahvat/vahvat4-s.jpg"
-									alt="Mööda maad jooksev karkass tagamaks suuremat tugevust"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/3x6m-profi.jpg"
-								title="Roheline katus ning valged seinad"
-							>
-								<img
-									src="http://profitelgid.ee/telk-pilt/profitelgid/3x6m-profi-s.jpg"
-									alt="Roheline katus ning valged seinad"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/tugev-profitelk.jpg"
-								title="Ülitugeva raamiga telgid"
-							>
-								<img
-									src="http://profitelgid.ee/telk-pilt/profitelgid/tugev-profitelk-s.jpg"
-									alt="Ülitugeva raamiga telgid"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/5x6punasetriibuline.jpg"
-								title="Punasetriibuline"
-							>
-								<img
-									src="http://profitelgid.ee/telk-pilt/profitelgid/5x6punasetriibuline-s.jpg"
-									alt="Punasetriibuline"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/4x8sinisetriibuline.jpg"
-								title="Sinisetriibuline"
-							>
-								<img
-									src="http://profitelgid.ee/telk-pilt/profitelgid/4x8sinisetriibuline-s.jpg"
-									alt="Sinisetriibuline"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/4x10rohelisetriibuline_akendega.jpg"
-								title="Rohelisetriibuline telk"
-							>
-								<img
-									src="http://profitelgid.ee/telk-pilt/profitelgid/4x10rohelisetriibuline_akendega-s.jpg"
-									alt="Rohelisetriibuline telk"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/6x12_profitelk_kylg.jpg"
-								title="Akendega profitelk"
-							>
-								<img
-									src="http://profitelgid.ee/telk-pilt/profitelgid/6x12_profitelk_kylg-s.jpg"
-									alt="Akendega profitelk"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/roheline-profitelk.jpg"
-								title="Üleni tumeroheline profitelk"
-							>
-								<img
-									src="http://profitelgid.ee/telk-pilt/profitelgid/roheline-profitelk-s.jpg"
-									alt="Üleni tumeroheline profitelk"
-								/>
-							</a>
-						</li>
-
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://profitelgid.ee/telk-pilt/profitelgid/suur-peotelk.jpg"
-								title="Suur peotelk"
-							>
-								<img
-									src="http://profitelgid.ee/telk-pilt/profitelgid/suur-peotelk-s.jpg"
-									alt="Suur peotelk"
-								/>
-							</a>
-						</li>
+						{/each}
 					</ul>
 				</div>
 			</div>
@@ -371,3 +219,8 @@
 		</div>
 	</div>
 </div>
+<style>
+	.productImage {
+		height: 60px;
+	}
+</style>
