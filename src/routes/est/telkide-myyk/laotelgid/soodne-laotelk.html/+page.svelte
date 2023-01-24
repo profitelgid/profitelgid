@@ -1,3 +1,6 @@
+<script lang="ts">
+	export let data: any;
+</script>
 <div class="col-main span9">
 	<div id="messages_product_view" />
 
@@ -5,7 +8,7 @@
 		<div class="product-essential">
 			<div class="product-shop">
 				<div class="product-name">
-					<h1>Tugevad profitelgid aastaringseks kasutuseks</h1>
+					<h1>{data.cms.title}</h1>
 				</div>
 
 				<ul class="add-to-links" />
