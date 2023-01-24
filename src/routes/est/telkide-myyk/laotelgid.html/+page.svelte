@@ -1,6 +1,9 @@
+<script>
+	import { scale } from 'svelte/transition';
+</script>
 <div class="col-main span6">
 	<div>
-		<h1>
+		<h1 in:scale>
 			<img
 				src="http://profitelgid.ee/telk-pilt/laotelgid/statik-logo.png"
 				align="right"
@@ -10,7 +13,7 @@
 			Laotelgid & tulekindlad telgid
 		</h1>
 		<br />
-		<p>
+		<p in:scale>
 			Profiseeria laotelgid on saadaval väga erinevates pikkustes, laiustes ja kõrgustes. Antud
 			kategoorias on kõik tooted ja hinnad vaid näidised ja seega palume ühendust võtta ning
 			kirjutada, mis on minimaalsed-maksimaalsed mõõdud, mida soovite ja kindlasti ka, kunas jakus
@@ -18,7 +21,7 @@
 			oranž kontaktvormi / live chat'i link, kust saab kogu info meile saata ning saame teha
 			hinnapakkumise.
 		</p>
-		<p>
+		<p in:scale>
 			<strong
 				>Kõikidele meie müüdavatele laotelkidele on võimalik osta varuosasid ning uusi
 				kattematerjale nii, et meie laotelgid on soodsaim lahendus ka pikemas perspektiivis.</strong
@@ -26,7 +29,7 @@
 		</p>
 	</div>
 
-	<div class="category-products">
+	<div class="category-products" in:scale>
 		<ol class="products-list" id="products-list">
 			<li class="item">
 				<a
@@ -56,7 +59,7 @@
 						<div class="price-box">
 							<p class="special-price">
 								<span class="price-label"> Hinnad alates:</span>
-								<span class="price" id="product-price-101"> €375,00 </span>
+								<span class="price" id="product-price-101"> 480€ </span>
 							</p>
 						</div>
 
@@ -111,7 +114,7 @@
 						<div class="price-box">
 							<p class="special-price">
 								<span class="price-label"> Hinnad alates:</span>
-								<span class="price" id="product-price-101"> €1100,00 </span>
+								<span class="price" id="product-price-101"> 1100€ </span>
 							</p>
 						</div>
 
