@@ -10,15 +10,14 @@
 		@import '/styles/navbar.css';
 	</style>
 </svelte:head>
-<body class="catalog-category-view">
+<body class="catalog-product-view">
 	<div class="wrapper">
 		<div class="inner-wrapper">
 			<div class="page">
 				<div class="header-container">
 					<Header />
-					<div class="main-container col3-layout">
+					<div class="main-container col2-right-layout">
 						<div class="main row">			
-							<Sidebar />
 							<slot />
 							<SidebarRight />
 						</div>
