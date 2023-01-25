@@ -103,11 +103,6 @@
                   </a>
                 </li>
                 <li class="">
-                  <a href="/est/telkide-myyk/pop-up/premium-popup.html">
-                    <span>Premium pop-up telgid</span>
-                  </a>
-                </li>
-                <li class="">
                   <a href="/est/telkide-myyk/pop-up/kuuskant-hex-profi-popup.html">
                     <span>PRO seeria popup telgid</span>
                   </a>
