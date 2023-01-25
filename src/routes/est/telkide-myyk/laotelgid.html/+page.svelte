@@ -38,7 +38,7 @@
 					class="product-image"
 				>
 					<img
-						src="http://profitelgid.ee/telk-pilt/laotelgid/A/hall-laotelk-170.jpg"
+						src="https://cms.crewnew.com/assets/a31206e7-2c47-4b82-b5f7-6bc474e50014"
 						width="170"
 						height="170"
 						alt="A-tüüpi soodne laotelk"
@@ -51,10 +51,10 @@
 								href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
 								title="A-tüüpi soodne laotelk"
 							>
-								A-tüüpi laotelgid</a
+								PVC laotelgid Premium, PRO & PRO+</a
 							>
 						</h2>
-						<p>Soodsaima ruutmeetri hinnaga laotelk turul.</p>
+						<p>Soodsaima ruutmeetri hinnaga aastaringselt kasutatav laotelk.</p>
 
 						<div class="price-box">
 							<p class="special-price">
@@ -73,9 +73,9 @@
 							>
 						</p>
 						<div class="desc std">
-							<strong>Värvid:</strong> Valge, hall, tumeroheline<br /><strong>Kattematerjal:</strong
+							<strong>Kattematerjal:</strong
 							>
-							Tulekindel 600g/m<sup>2</sup> PVC<br />
+							PVC 500-550g/m² (tulekindel)<br />
 							<a
 								href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
 								title="A-tüüpi soodne laotelk"
@@ -89,14 +89,14 @@
 			<li class="item">
 				<a
 					href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
-					title="B-tüüpi  vastupidav laotelk"
+					title="Tööstuslikud PVC hallid"
 					class="product-image"
 				>
 					<img
-						src="http://profitelgid.ee/telk-pilt/laotelgid/U/valge-laotelk-170.jpg"
+						src="https://i.imgur.com/HiXenY4.png"
 						width="170"
 						height="170"
-						alt="B-tüüpi  vastupidav laotelk"
+						alt="Tööstuslikud PVC hallid"
 					/></a
 				>
 				<div class="product-shop">
@@ -104,12 +104,12 @@
 						<h2 class="product-name">
 							<a
 								href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
-								title="B-tüüpi  vastupidav laotelk"
+								title="Tööstuslikud PVC hallid"
 							>
-								B-tüüpi laotelgid</a
+								Tööstuslikud PVC hallid</a
 							>
 						</h2>
-						<p>Vastupidavama konstruktsiooniga laotelk.</p>
+						<p>Tugevaima konstruktsiooniga, pingutussüsteemide ja suurema kõrgusega PVC laohallid.</p>
 
 						<div class="price-box">
 							<p class="special-price">
@@ -128,13 +128,13 @@
 							>
 						</p>
 						<div class="desc std">
-							<strong>Värvid:</strong> valge, hall ja tumeroheline<br /><strong
+							<strong
 								>Kattematerjal:</strong
 							>
-							Tulekindel ülitugev 800-900g/m<sup>2</sup> PVC (5.a. garantii!)<br />
+							PVC 550g/m², PVC 720g/m² Prime (tulekindel) 15a. garantii!<br />
 							<a
 								href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
-								title="B-tüüpi  vastupidav laotelk"
+								title="Tööstuslikud PVC hallid"
 								class="link-more">Vaata lähemalt >></a
 							>
 						</div>

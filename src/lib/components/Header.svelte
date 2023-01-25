@@ -144,12 +144,12 @@
                 <div class="dropdown-content dropdown-content-2">
                 <li>
                   <a href="/est/telkide-myyk/laotelgid/soodne-laotelk.html">
-                    <span>A-tüüpi laotelgid</span>
+                    <span>PVC laotelgid</span>
                   </a>
                 </li>
                 <li>
                   <a href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html">
-                    <span>B-tüüpi laotelgid</span>
+                    <span>Tööstuslikud PVC hallid</span>
                   </a>
                 </li>
               </div>
