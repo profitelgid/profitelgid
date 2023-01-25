@@ -38,7 +38,6 @@ export async function load() {
         )
     });
     const json = await data.json();
-    console.log(json.data.products_categories_by_pk);
     return {
         cms: json.data.products_categories_by_pk
     };

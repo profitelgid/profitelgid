@@ -27,8 +27,9 @@
 
 			<div class="product-img-box">
 				<p class="product-image">
-					<img in:scale
-						id="image"
+					<img
+						in:scale
+						class="mainImage"
 						style="height:350px"
 						src="https://cms.crewnew.com/assets/{data.cms.image}"
 						alt="Tugevad profitelgid"
@@ -41,19 +42,21 @@
 
 					<ul>
 						{#each data.cms.products_categories_files as image}
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
-								title="{image.directus_file.title}"
-							>
-								<img in:scale class="productImage"
-									src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
-									alt="{image.directus_file.title}"
-								/>
-							</a>
-						</li>
+							<li>
+								<a
+									class="group"
+									rel="group"
+									href="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
+									title={image.directus_file.title}
+								>
+									<img
+										in:scale
+										class="productImage"
+										src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
+										alt={image.directus_file.title}
+									/>
+								</a>
+							</li>
 						{/each}
 					</ul>
 				</div>
@@ -219,8 +222,14 @@
 		</div>
 	</div>
 </div>
+
 <style>
 	.productImage {
 		height: 60px;
+	}
+	.mainImage {
+		width: 350px;
+		padding-bottom: 4em;
+		padding-top: 2em;
 	}
 </style>
