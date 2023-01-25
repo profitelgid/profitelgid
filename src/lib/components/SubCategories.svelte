@@ -5,23 +5,23 @@
     <ol class="products-list" id="products-list">
         <li class="item">
             <a
-                href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-                title="A-tüüpi soodne laotelk"
+                href="/est/telkide-myyk/pop-up/popup-koduaeda.html"
+                title="PopUp"
                 class="product-image"
             >
                 <img
                     src="http://cms.crewnew.com/assets/deb43c91-cb9f-44f2-a7cf-c1f418f85950"
                     width="170"
                     height="170"
-                    alt="A-tüüpi soodne laotelk"
+                    alt="PopUp"
                 /></a
             >
             <div class="product-shop">
                 <div class="f-fix">
                     <h2 class="product-name">
                         <a
-                            href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-                            title="A-tüüpi soodne laotelk"
+                            href="/est/telkide-myyk/pop-up/popup-koduaeda.html"
+                            title="PopUp"
                         >
                         Popup Home (soodsaim)</a
                         >
@@ -48,8 +48,8 @@
                         >
                         Polüester (190g/m2) veekindel<br />
                         <a
-                            href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-                            title="A-tüüpi soodne laotelk"
+                            href="/est/telkide-myyk/pop-up/popup-koduaeda.html"
+                            title="PopUp"
                             class="link-more">Vaata lähemalt >></a
                         >
                     </div>
@@ -59,7 +59,7 @@
 
         <li class="item">
             <a
-                href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+                href="/est/telkide-myyk/pop-up/soodsad-easyup.html"
                 title="Classic Alu Easyup laadatelk"
                 class="product-image"
             >
@@ -74,7 +74,7 @@
                 <div class="f-fix">
                     <h2 class="product-name">
                         <a
-                            href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+                            href="/est/telkide-myyk/pop-up/soodsad-easyup.html"
                             title="Classic Alu Easyup laadatelk"
                         >
                         Popup Classic Alu (kergtelgid)</a
@@ -103,7 +103,7 @@
                         >
                         Polüester/PVC (300D) 100% veekindel<br />
                         <a
-                            href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+                            href="/est/telkide-myyk/pop-up/soodsad-easyup.html"
                             title="Classic Alu Easyup laadatelk"
                             class="link-more">Vaata lähemalt >></a
                         >
@@ -113,7 +113,7 @@
         </li>
         <li class="item">
             <a
-                href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+                href="/est/telkide-myyk/pop-up/kuuskant-hex-profi-popup.html"
                 title="Profiseeria pop-up PRO"
                 class="product-image"
             >
@@ -128,7 +128,7 @@
                 <div class="f-fix">
                     <h2 class="product-name">
                         <a
-                            href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+                            href="/est/telkide-myyk/pop-up/kuuskant-hex-profi-popup.html"
                             title="Classic Alu Easyup laadatelk"
                         >
                         Profiseeria pop-up PRO</a
@@ -157,7 +157,7 @@
                         >
                         Polüester/PVC (650D) 100% veekindel, UV kindel<br />
                         <a
-                            href="/est/telkide-myyk/laotelgid/vastupidav-laotelk.html"
+                            href="/est/telkide-myyk/pop-up/kuuskant-hex-profi-popup.html"
                             title="Classic Alu Easyup laadatelk"
                             class="link-more">Vaata lähemalt >></a
                         >
