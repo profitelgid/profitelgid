@@ -74,32 +74,20 @@
 </div>
 <div class="main-container col3-layout">
 	<div class="main row">
-		
-		
-
 		<div class="col-left sidebar span3">
 			<div class="block block-leftnav">
-			  <div class="block-title"><strong><span>{items.products_category.name}</span></strong></div>
-			  <div class="block-content">
-				<ul id="leftnav">
-					{#each items.products_category.products_categories as cat}
-				  <li
-					class="level0 nav-1"
-				  >
-					<a
-					  href="/est/telkide-myyk/pop-up/{cat.slug}.html"
-					  ><span>{cat.name}</span></a
-					>
-				  </li>
-				  {/each}
-				</ul>
-			  </div>
+				<div class="block-title"><strong><span>{items.products_category.name}</span></strong></div>
+				<div class="block-content">
+					<ul id="leftnav">
+						{#each items.products_category.products_categories as cat}
+							<li class="level0 nav-1">
+								<a href="/est/telkide-myyk/pop-up/{cat.slug}.html"><span>{cat.name}</span></a>
+							</li>
+						{/each}
+					</ul>
+				</div>
 			</div>
-		  </div>
-
-
-
-
+		</div>
 
 		<div class="col-main span6" in:scale>
 			<div class="category-products">
@@ -113,8 +101,7 @@
 							>
 								<img
 									src="http://cms.crewnew.com/assets/{product.image}"
-									width="170"
-									height="170"
+									class="product"
 									alt="PopUp ehk EasyUp telgid"
 								/></a
 							>
@@ -169,5 +156,8 @@
 		width: 350px;
 		padding-bottom: 4em;
 		padding-top: 2em;
+	}
+	.product {
+		width: 13em;
 	}
 </style>
