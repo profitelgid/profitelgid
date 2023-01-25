@@ -9,7 +9,7 @@
 </script>
 
 <div class="main-container col2-right-layout">
-	<div class="main row">
+	<div class="main row" in:scale>
 		<div class="col-main span9">
 			<div id="messages_product_view" />
 
