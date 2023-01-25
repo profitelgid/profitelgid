@@ -15,6 +15,13 @@ export const load = ({ fetch, params }) => {
                         colors
                         image
                       }
+                      products_category {
+                        name
+                        products_categories(where: {status: {_eq: "published"}}, order_by: {sort: asc}) {
+                          name
+                          slug
+                        }
+                      }
                       name
                       title
                       coating_material

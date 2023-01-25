@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { scale } from 'svelte/transition';
-	import Sidebar from '$lib/components/Sidebar.svelte';
 	import SidebarRelated from '$lib/components/SidebarRelated.svelte';
 	import SidebarRight from '$lib/components/SidebarRight.svelte';
 
@@ -75,7 +74,33 @@
 </div>
 <div class="main-container col3-layout">
 	<div class="main row">
-		<Sidebar />
+		
+		
+
+		<div class="col-left sidebar span3">
+			<div class="block block-leftnav">
+			  <div class="block-title"><strong><span>{items.products_category.name}</span></strong></div>
+			  <div class="block-content">
+				<ul id="leftnav">
+					{#each items.products_category.products_categories as cat}
+				  <li
+					class="level0 nav-1"
+				  >
+					<a
+					  href="/est/telkide-myyk/pop-up/{cat.slug}.html"
+					  ><span>{cat.name}</span></a
+					>
+				  </li>
+				  {/each}
+				</ul>
+			  </div>
+			</div>
+		  </div>
+
+
+
+
+
 		<div class="col-main span6" in:scale>
 			<div class="category-products">
 				<ol class="products-list" id="products-list">
