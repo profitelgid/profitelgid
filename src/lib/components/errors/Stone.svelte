@@ -13,7 +13,7 @@
 			<h1 class="text-center text-4xl font-bold py-5">FATAALNE KIVI ERROR NR 4758r56</h1>
 			<img
 				class="errorMess mx-auto pb-5 max-w-lg h-auto rounded-lg"
-				src="https://projects.crewnew.com/error-messages/error475-stone/1.png"
+				src="https://projects.crewnew.com/error-messages/error475-stone/1-et.png"
 				alt="Fataalne ERRIRRRIIIRIRRR"
 			/>
 		</div>
@@ -22,7 +22,7 @@
 			<h1 class="text-center text-4xl font-bold py-5">PÄRISELT KAA?</h1>
 			<img
 				class="errorMess mx-auto pb-5 max-w-lg h-auto rounded-lg"
-				src="https://projects.crewnew.com/error-messages/error475-stone/2.png"
+				src="https://projects.crewnew.com/error-messages/error475-stone/2-et.png"
 				alt="Fataalne ERRIRRRIIIRIRRR"
 			/>
 		</div>
@@ -34,10 +34,16 @@
 
 <button
 	on:click={stoned}
-	class="bg-brightRedLight hover:bg-brightRed text-white font-bold py-2 px-4 rounded">KEERA KIVI</button
+	class="button">KEERA KIVI>></button
 >
 <style>
 	.errorMess {
 		width: 70em;
+	}
+	.button {
+		font-size: 2em;
+		color: blue;
+		margin-bottom: 1em;
+		border: 1px;
 	}
 </style>

@@ -8,16 +8,21 @@
 	<p>&nbsp;</p>
 </div>
 
-<button class="bg-brightRedLight hover:bg-brightRed text-white font-bold py-2 px-4 rounded"
-	><a href="https://www.youtube.com/watch?v=mHvBvkSCx2w">JEP, SEE ON ERROR</a></button
+<button class="button"
+	><a href="https://www.youtube.com/watch?v=mHvBvkSCx2w">JEP, SEE ON ERROR>></a></button
 > <br />
-<button class="bg-brightRedLight hover:bg-brightRed text-white font-bold py-2 px-4 rounded"
+<button class="button"
 	><a href="https://www.youtube.com/watch?v=mHvBvkSCx2w" target="_blank" rel="noreferrer"
-		>NOPE, SEE ON FEATUUR</a
+		>NOPE, SEE ON UUS ÄGE FEATUUR>></a
 	></button
 >
 <style>
 	.errorMess {
 		width: 70em;
+	}
+	.button {
+		font-size: 2em;
+		margin-bottom: 1em;
+		border: 1px;
 	}
 </style>
