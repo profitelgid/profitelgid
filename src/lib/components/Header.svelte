@@ -63,18 +63,6 @@
         </a>
         <ul>
           <div class="dropdown-content">
-            <!--
-              <li>
-                <a href="/est/telkide-myyk/soodus.html">
-                  <span>PAKKUMISED</span>
-                </a>
-              </li>
-            -->
-            <li>
-              <a href="/est/telkide-myyk/kasutatud-kuulutused.html">
-                <span>Leiunurk, kasutatud </span>
-              </a>
-            </li>
             <li>
               <a href="/est/telkide-myyk/moodul-pro.html">
                 <span>EasyFlex PRO moodultelgid</span>
