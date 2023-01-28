@@ -15,13 +15,13 @@
 				<li class="item">
 					<a
 						href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-						title="PopUp ehk EasyUp telgid"
+						title="Peoinventari müük"
 						class="product-image"
 					>
 						<img
 							src="http://cms.crewnew.com/assets/{product.image}"
 							class="product"
-							alt="PopUp ehk EasyUp telgid"
+							alt="Peoinventari müük"
 						/></a
 					>
 					<div class="product-shop">
@@ -29,7 +29,7 @@
 							<h2 class="product-name">
 								<a
 									href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-									title="PopUp ehk EasyUp telgid"
+									title="Peoinventari müük"
 								>
 									{product.title}</a
 								>
@@ -42,19 +42,9 @@
 								</p>
 							</div>
 
-							<p>
-								<button type="button" title="Vaata tooteid" class="button btn-cart"
-									><span><span>Vaata tooteid</span></span></button
-								>
-							</p>
+						
 							<div class="desc std">
-								<strong>Värvid:</strong>
-								{product.colors}<br />
-								<a
-									href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-									title="PopUp ehk EasyUp telgid"
-									class="link-more">Vaata lähemalt >></a
-								>
+								{@html product.description}
 							</div>
 						</div>
 					</div>
