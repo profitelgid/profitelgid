@@ -24,7 +24,7 @@
 		{#if message == 2}
 			<Stone />
 		{/if}
-		<p class="p-8 text-blue-500"><button on:click={nextError}>I don't like this error ➡️</button></p>
+		<p class="p-8 text-blue-500"><button on:click={nextError}>Mulle ei meeldi see error ➡️</button></p>
 	</div>
 </section>
 <style>
