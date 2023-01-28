@@ -63,11 +63,11 @@
         </a>
         <ul>
           <div class="dropdown-content">
-            <li>
+<!--             <li>
               <a href="/est/telkide-myyk/moodul-pro.html">
                 <span>EasyFlex PRO moodultelgid</span>
               </a>
-            </li>
+            </li> -->
             <li>
               <a href="/est/telkide-myyk/profitelk-muuk.html">
                 <span>Tugevad profitelgid</span>
