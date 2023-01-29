@@ -32,7 +32,7 @@
 			<img on:click={closeModal} id="close" width="20" src="/images/x.png" alt="X" />
 		</div>
 	{/if}
-	{#if title}<h1>{title}</h1>{/if}
+	{#if title}<h1 class="modal-title">{title}</h1>{/if}
 	<div class="content">
 		<slot />
 	</div>
@@ -42,6 +42,10 @@
 </div>
 
 <style>
+	.modal-title {
+		font-weight: bold;
+		font-size: large;
+	}
 	#messages {
 		padding: 10px;
 	}

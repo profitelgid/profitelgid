@@ -5,18 +5,20 @@
 
 	let modal = false;
 	let image : string;
+	let imageDesc: string;
 	import Modal from '$lib/components/Modal.svelte';
-	function switchModal(img : string) {
+	function switchModal(img : string, desc: string) {
 		modal = !modal;
 		image = img;
+		imageDesc = desc;
 	}
 </script>
 
 {#if modal}
-	<Modal on:cancel={() => switchModal("")}
+	<Modal title={imageDesc} on:cancel={() => switchModal("", "")}
 		><img
 			src="http://cms.crewnew.com/assets/{image}"
-			alt={data.cms.title}
+			alt={imageDesc}
 		/></Modal
 	>
 {/if}
@@ -60,7 +62,7 @@
 						<li>
 							<button
 								class="group"
-								on:click={() => switchModal(image.directus_file.filename_disk)}
+								on:click={() => switchModal(image.directus_file.filename_disk, image.directus_file.title)}
 							>
 								<img in:scale class="productImage"
 									src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
