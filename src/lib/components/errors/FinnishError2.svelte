@@ -18,7 +18,7 @@
 >
 <style>
 	.errorMess {
-		width: 70em;
+		width: 95%;
 	}
 	.button {
 		font-size: 2em;

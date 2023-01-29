@@ -1,6 +1,6 @@
-<h1 class="button">Error juhtus, ja see on Sinu süü. Luuser!</h1>
+<h1 class="title">Error juhtus, ja see on Sinu süü. Luuser!</h1>
 <img
-	class="errorMess mx-auto pb-5 max-w-lg h-auto rounded-lg"
+	class="errorMess"
 	src="https://projects.crewnew.com/error-messages/expected/as-expected-et.png"
 	alt="Oih kurja!"
 />
@@ -15,7 +15,7 @@
 </button>
 <style>
 	.errorMess {
-		width: 70em;
+		width: 95%;
 	}
 	.button {
 		font-size: 2em;

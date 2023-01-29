@@ -19,7 +19,7 @@
 		</div>
 	{:else}
 		<div transition:slide>
-			<h1 class="text-center text-4xl font-bold py-5">PÄRISELT KAA?</h1>
+			<h1 class="title">PÄRISELT KAA?</h1>
 			<img
 				class="errorMess mx-auto pb-5 max-w-lg h-auto rounded-lg"
 				src="https://projects.crewnew.com/error-messages/error475-stone/2-et.png"
@@ -38,7 +38,7 @@
 >
 <style>
 	.errorMess {
-		width: 70em;
+		width: 95%;
 	}
 	.button {
 		font-size: 2em;
