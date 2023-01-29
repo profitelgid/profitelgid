@@ -1,7 +1,23 @@
 <script lang="ts">
-	export let data: any;
 	import { scale } from 'svelte/transition';
+	import Modal from '$lib/components/Modal.svelte';
+
+	let modal = false;
+	export let data: any;
+
+	function switchModal() {
+		modal = !modal;
+	}
 </script>
+
+{#if modal}
+	<Modal on:cancel={switchModal}
+		><img
+			src="http://cms.crewnew.com/assets/d3fb7101-c8c1-44ff-8d2b-8826da6bdc9e"
+			alt={data.cms.title}
+		/></Modal
+	>
+{/if}
 
 <div class="col-main span6" in:scale>
 	<div>
@@ -13,7 +29,7 @@
 			{#each data.cms.products as product}
 				<li class="item">
 					{#if product.image}
-						<button class="product-image">
+						<button class="product-image" on:click={switchModal}>
 							<img
 								src="http://cms.crewnew.com/assets/{product.image}"
 								class="product"
@@ -25,7 +41,7 @@
 						<div class="f-fix">
 							<h2 class="product-name">
 								{#if product.image}
-									<button class="product-url">
+									<button class="product-url" on:click={switchModal}>
 										{product.title}
 									</button>
 								{:else}
