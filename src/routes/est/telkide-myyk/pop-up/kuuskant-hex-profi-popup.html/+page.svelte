@@ -5,7 +5,23 @@
 
 	export let data: any;
 	const items = data.item.data.products_categories_by_pk;
+
+	let modal = false;
+	let image: string;
+	let imageDesc: string;
+	import Modal from '$lib/components/Modal.svelte';
+	function switchModal(img: string, desc: string) {
+		modal = !modal;
+		image = img;
+		imageDesc = desc;
+	}
 </script>
+
+{#if modal}
+	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
+		><img src="http://cms.crewnew.com/assets/{image}" alt={imageDesc} /></Modal
+	>
+{/if}
 
 <div class="main-container col2-right-layout">
 	<div class="main row" in:scale>
@@ -47,18 +63,18 @@
 							<ul>
 								{#each items.products_categories_files as image}
 									<li>
-										<a
+										<button
 											class="group"
-											rel="group"
-											href="https://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
-											title="https://cms.crewnew.com/assets/{image.directus_file.title}"
+											on:click={() =>
+												switchModal(image.directus_file.filename_disk, image.directus_file.title)}
 										>
 											<img
+												in:scale
 												class="productImage"
-												src="https://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
-												alt="https://cms.crewnew.com/assets/{image.directus_file.title}"
+												src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
+												alt={image.directus_file.title}
 											/>
-										</a>
+										</button>
 									</li>
 								{/each}
 							</ul>
@@ -150,7 +166,9 @@
 
 <style>
 	.productImage {
-		height: 60px;
+		object-fit: cover;
+		width: 65px;
+		height: 65px;
 	}
 	.mainImage {
 		width: 350px;
@@ -159,5 +177,11 @@
 	}
 	.product {
 		width: 13em;
+	}
+	.group {
+		padding: 0;
+		border: none;
+		background: none;
+		cursor: pointer;
 	}
 </style>
