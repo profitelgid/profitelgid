@@ -31,7 +31,7 @@
                     <div class="price-box">
                         <p class="special-price">
                             <span class="price-label"> Hinnad alates:</span>
-                            <span class="price" id="product-price-101"> 106€ </span>
+                            <span class="price" id="product-price-101"> 139€ </span>
                         </p>
                     </div>
 
