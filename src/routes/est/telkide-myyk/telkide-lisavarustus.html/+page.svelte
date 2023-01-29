@@ -1,11 +1,11 @@
 <script lang="ts">
 	import { scale } from 'svelte/transition';
-	import Modal from '$lib/components/Modal.svelte';
+
+	export let data: any;
 
 	let modal = false;
 	let image : string;
-	export let data: any;
-
+	import Modal from '$lib/components/Modal.svelte';
 	function switchModal(img : string) {
 		modal = !modal;
 		image = img;
