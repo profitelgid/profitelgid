@@ -1,4 +1,4 @@
-<h1 class="text-center text-4xl font-bold py-5">Error juhtus, ja see on Sinu süü. Luuser!</h1>
+<h1 class="button">Error juhtus, ja see on Sinu süü. Luuser!</h1>
 <img
 	class="errorMess mx-auto pb-5 max-w-lg h-auto rounded-lg"
 	src="https://projects.crewnew.com/error-messages/expected/as-expected-et.png"
@@ -21,5 +21,8 @@
 		font-size: 2em;
 		margin-bottom: 1em;
 		border: 1px;
+	}
+	.title {
+		margin: 1em;
 	}
 </style>

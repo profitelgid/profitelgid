@@ -10,7 +10,7 @@
 <div class="min-h-[420px]">
 	{#if page}
 		<div transition:slide>
-			<h1 class="text-center text-4xl font-bold py-5">FATAALNE KIVI ERROR NR 4758r56</h1>
+			<h1 class="title">FATAALNE KIVI ERROR NR 4758r56</h1>
 			<img
 				class="errorMess mx-auto pb-5 max-w-lg h-auto rounded-lg"
 				src="https://projects.crewnew.com/error-messages/error475-stone/1-et.png"
@@ -45,5 +45,8 @@
 		color: blue;
 		margin-bottom: 1em;
 		border: 1px;
+	}
+	.title {
+		margin: 1em;
 	}
 </style>
