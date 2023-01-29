@@ -110,26 +110,31 @@
 				<ol class="products-list" id="products-list">
 					{#each items.products as product}
 						<li class="item">
-							<a
-								href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-								title="PopUp ehk EasyUp telgid"
-								class="product-image"
-							>
-								<img
-									src="http://cms.crewnew.com/assets/{product.image}"
-									class="product"
-									alt="PopUp ehk EasyUp telgid"
-								/></a
-							>
+							{#if product.image}
+								<button
+									class="product-image"
+									on:click={() => switchModal(product.image, product.title)}
+								>
+									<img
+										src="http://cms.crewnew.com/assets/{product.image}"
+										class="product"
+										alt={product.title}
+									/>
+								</button>
+							{/if}
 							<div class="product-shop">
 								<div class="f-fix">
 									<h2 class="product-name">
-										<a
-											href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-											title="PopUp ehk EasyUp telgid"
-										>
-											{product.title}</a
-										>
+										{#if product.image}
+											<button
+												class="product-url"
+												on:click={() => switchModal(product.image, product.title)}
+											>
+												{product.title}
+											</button>
+										{:else}
+											{product.title}
+										{/if}
 									</h2>
 
 									<div class="price-box">
@@ -139,19 +144,9 @@
 										</p>
 									</div>
 
-									<p>
-										<button type="button" title="Vaata tooteid" class="button btn-cart"
-											><span><span>Vaata tooteid</span></span></button
-										>
-									</p>
 									<div class="desc std">
 										<strong>Värvid:</strong>
 										{product.colors}<br />
-										<a
-											href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-											title="PopUp ehk EasyUp telgid"
-											class="link-more">Vaata lähemalt >></a
-										>
 									</div>
 								</div>
 							</div>
@@ -183,5 +178,26 @@
 		border: none;
 		background: none;
 		cursor: pointer;
+	}
+	.product-url {
+		border: none;
+		background: none;
+		cursor: pointer;
+		font-weight: bold;
+		font-size: large;
+		text-decoration: underline;
+	}
+	button.product-url:hover {
+		border-bottom: 1px dotted #000;
+		text-decoration: none;
+	}
+	.product-image {
+		padding: 0;
+		border: none;
+		background: none;
+		cursor: pointer;
+	}
+	.product:hover {
+		width: 100%;
 	}
 </style>
