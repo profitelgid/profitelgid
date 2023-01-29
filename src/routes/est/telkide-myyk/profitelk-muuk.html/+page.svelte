@@ -237,6 +237,7 @@
 	.productImage {
 		object-fit: cover;
 		width: 65px;
+		height: 65px;
 	}
 	.mainImage {
 		width:350px;
@@ -248,7 +249,5 @@
 		border: none;
 		background: none;
 		cursor: pointer;
-		height: 60px;
-		width: 60px;
 	}
 </style>
