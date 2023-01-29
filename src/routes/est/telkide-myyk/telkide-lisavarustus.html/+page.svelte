@@ -3,17 +3,19 @@
 	import Modal from '$lib/components/Modal.svelte';
 
 	let modal = false;
+	let image : string;
 	export let data: any;
 
-	function switchModal() {
+	function switchModal(img : string) {
 		modal = !modal;
+		image = img;
 	}
 </script>
 
 {#if modal}
-	<Modal on:cancel={switchModal}
+	<Modal on:cancel={() => switchModal("")}
 		><img
-			src="http://cms.crewnew.com/assets/d3fb7101-c8c1-44ff-8d2b-8826da6bdc9e"
+			src="http://cms.crewnew.com/assets/{image}"
 			alt={data.cms.title}
 		/></Modal
 	>
@@ -29,7 +31,7 @@
 			{#each data.cms.products as product}
 				<li class="item">
 					{#if product.image}
-						<button class="product-image" on:click={switchModal}>
+						<button class="product-image" on:click={() => switchModal(product.image)}>
 							<img
 								src="http://cms.crewnew.com/assets/{product.image}"
 								class="product"
@@ -41,7 +43,7 @@
 						<div class="f-fix">
 							<h2 class="product-name">
 								{#if product.image}
-									<button class="product-url" on:click={switchModal}>
+									<button class="product-url" on:click={() => switchModal(product.image)}>
 										{product.title}
 									</button>
 								{:else}
