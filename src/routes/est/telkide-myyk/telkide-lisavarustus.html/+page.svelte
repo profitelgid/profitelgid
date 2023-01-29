@@ -1,7 +1,6 @@
 <script lang="ts">
 	export let data: any;
-	import { scale } from 'svelte/transition';	
-	console.log(data);
+	import { scale } from 'svelte/transition';
 </script>
 
 <div class="col-main span6" in:scale>
@@ -13,26 +12,25 @@
 		<ol class="products-list" id="products-list">
 			{#each data.cms.products as product}
 				<li class="item">
-					<a
-						href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-						title="Peoinventari müük"
-						class="product-image"
-					>
-						<img
-							src="http://cms.crewnew.com/assets/{product.image}"
-							class="product"
-							alt="Peoinventari müük"
-						/></a
-					>
+					{#if product.image}
+						<button class="product-image">
+							<img
+								src="http://cms.crewnew.com/assets/{product.image}"
+								class="product"
+								alt={data.cms.title}
+							/>
+						</button>
+					{/if}
 					<div class="product-shop">
 						<div class="f-fix">
 							<h2 class="product-name">
-								<a
-									href="/est/telkide-myyk/laotelgid/soodne-laotelk.html"
-									title="Peoinventari müük"
-								>
-									{product.title}</a
-								>
+								{#if product.image}
+									<button class="product-url">
+										{product.title}
+									</button>
+								{:else}
+									{product.title}
+								{/if}
 							</h2>
 
 							<div class="price-box">
@@ -41,11 +39,11 @@
 									<span class="price" id="product-price-101"> {product.selling_price} </span>
 								</p>
 							</div>
-
-						
-							<div class="desc std">
-								{@html product.description}
-							</div>
+							{#if product.description}
+								<div class="desc std">
+									{@html product.description}
+								</div>
+							{/if}
 						</div>
 					</div>
 				</li>
@@ -55,8 +53,28 @@
 </div>
 
 <style>
-	.cat_image {
-		float: right;
-		margin-left: 7px;
+	.product {
+		width: 80%;
+	}
+	.product-image {
+		padding: 0;
+		border: none;
+		background: none;
+		cursor: pointer;
+	}
+	.product-url {
+		border: none;
+		background: none;
+		cursor: pointer;
+		font-weight: bold;
+		font-size: large;
+		text-decoration: underline;
+	}
+	button.product-url:hover {
+		border-bottom: 1px dotted #000;
+		text-decoration: none;
+	}
+	.product:hover {
+		width: 85%;
 	}
 </style>
