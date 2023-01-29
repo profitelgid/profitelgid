@@ -2,7 +2,23 @@
 	import { scale } from 'svelte/transition';
 
 	export let data: any;
+
+	let modal = false;
+	let image: string;
+	let imageDesc: string;
+	import Modal from '$lib/components/Modal.svelte';
+	function switchModal(img: string, desc: string) {
+		modal = !modal;
+		image = img;
+		imageDesc = desc;
+	}
 </script>
+
+{#if modal}
+	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
+		><img src="http://cms.crewnew.com/assets/{image}" alt={imageDesc} /></Modal
+	>
+{/if}
 
 <div class="col-main span9">
 	<div id="messages_product_view" />
@@ -27,7 +43,8 @@
 
 			<div class="product-img-box">
 				<p class="product-image">
-					<img in:scale
+					<img
+						in:scale
 						class="mainImage"
 						src="https://cms.crewnew.com/assets/{data.cms.image}"
 						alt="Tugevad profitelgid"
@@ -40,19 +57,20 @@
 
 					<ul>
 						{#each data.cms.products_categories_files as image}
-						<li>
-							<a
-								class="group"
-								rel="group"
-								href="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
-								title="{image.directus_file.title}"
-							>
-								<img in:scale class="productImage"
-									src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
-									alt="{image.directus_file.title}"
-								/>
-							</a>
-						</li>
+							<li>
+								<button
+									class="group"
+									on:click={() =>
+										switchModal(image.directus_file.filename_disk, image.directus_file.title)}
+								>
+									<img
+										in:scale
+										class="productImage"
+										src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
+										alt={image.directus_file.title}
+									/>
+								</button>
+							</li>
 						{/each}
 					</ul>
 				</div>
@@ -218,13 +236,22 @@
 		</div>
 	</div>
 </div>
+
 <style>
 	.productImage {
-		height: 60px;
+		object-fit: cover;
+		width: 65px;
+		height: 65px;
 	}
 	.mainImage {
-		width:350px;
+		width: 350px;
 		padding-bottom: 4em;
 		padding-top: 2em;
+	}
+	.group {
+		padding: 0;
+		border: none;
+		background: none;
+		cursor: pointer;
 	}
 </style>
