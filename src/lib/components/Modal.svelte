@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { scale } from 'svelte/transition';
 	import { createEventDispatcher } from 'svelte';
 	const dispatch = createEventDispatcher();
@@ -6,7 +6,7 @@
 	let width = '40rem';
 	let left = 'calc(50% - 20rem)';
 
-	export let title = null;
+	export let title : string = "";
 	export let wide = false;
 	export let closable = 'yes';
 
