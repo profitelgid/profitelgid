@@ -13,7 +13,7 @@
 			<h1 class="title">FATAALNE KIVI ERROR NR 4758r56</h1>
 			<img
 				class="errorMess mx-auto pb-5 max-w-lg h-auto rounded-lg"
-				src="https://projects.crewnew.com/error-messages/error475-stone/1-et.png"
+				src="https://projects.crewnew.com/error-messages/est/01-error475-kivi/1-et.png"
 				alt="Fataalne ERRIRRRIIIRIRRR"
 			/>
 		</div>
@@ -22,7 +22,7 @@
 			<h1 class="title">PÄRISELT KAA?</h1>
 			<img
 				class="errorMess mx-auto pb-5 max-w-lg h-auto rounded-lg"
-				src="https://projects.crewnew.com/error-messages/error475-stone/2-et.png"
+				src="https://projects.crewnew.com/error-messages/est/01-error475-kivi/2-et.png"
 				alt="Fataalne ERRIRRRIIIRIRRR"
 			/>
 		</div>

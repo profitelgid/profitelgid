@@ -1,7 +1,7 @@
 <h1 class="title">Error juhtus, ja see on Sinu süü. Luuser!</h1>
 <img
 	class="errorMess"
-	src="https://projects.crewnew.com/error-messages/expected/as-expected-et.png"
+	src="https://projects.crewnew.com/error-messages/est/02-arvata-oli/as-expected-et.png"
 	alt="Oih kurja!"
 />
 <div>
