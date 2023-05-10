@@ -6,14 +6,14 @@
     <address>
       &copy; {year}
       PVCfactory.ee&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a
-        href="http://pvcfactory.ee/est/priva">Privaatsuspoliitika</a
+        href="/est/priva">Privaatsuspoliitika</a
       >
-      | <a href="http://www.profitelgid.ee/est/term">Tingimused & reeglid</a> |
-      <a href="http://www.profitelgid.ee/est/term#tagastus">Tagastus & garantii</a>
+      | <a href="/est/term">Tingimused & reeglid</a> |
+      <a href="/est/term#tagastus">Tagastus & garantii</a>
     </address>
   </div>
   <div class="f-right">
-    <a href="http://pvcfactory.ee/est/abs-invest/">Kontaktinfo</a>
+    <a href="/est/abs-invest/">Kontaktinfo</a>
   </div>
   <div style="clear:both;" />
 </div>

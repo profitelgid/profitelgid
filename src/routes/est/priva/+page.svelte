@@ -26,13 +26,15 @@
 			<div class="product-shop">
 				<div class="product-name">
 					<h1>Privaatsus ja isiklukud andmed</h1>
+					<p>&nbsp;</p>
 				</div>
 
 				<ul class="add-to-links" />
 
 				<div class="short-description">
 					<div class="std" in:scale>
-						<h1>Privaatsus ja isiklukud andmed</h1>    </div><div class="std">
+						<h1>Privaatsuspoliitika ning isiklike andmetega töötlemine</h1>    </div><div class="std">
+							<p>&nbsp;</p>
 							<p><strong>Andmete kaitse &amp; privaatsus</strong></p>
 							<p>Meil on karm poliitika, et me ei jaga kunagi mitte mingeid kliendi andmeid mitte &uuml;hegi teise ettev&otilde;ttega. Samuti ei saada me ka ise kunagi r&auml;mpsposti. Kui oled vabatahtlikult ise liitunud meie uudiskirjaga siis saadame maksimaalselt 3 kirja aastas parimate pakkumistega v&otilde;i loosime v&auml;lja lisavarustust. Kui Sa aga pole uudiskirjaga liitunud siis me ei saada Sulle &uuml;htegi kirja mitte kunagi!&nbsp;</p>
 							<p><strong>Turvaline online poodlemine</strong></p>
