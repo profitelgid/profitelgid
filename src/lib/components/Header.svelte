@@ -3,12 +3,12 @@
     <strong>Telkide, peoinventaari ja lavade müük ja rent.</strong>
     <a
       href="/est"
-      title="Telkide, peoinventaari ja lavade müük ja rent."
+      title="Telkide, PVC laohallide ja lavade müük ja rent."
       class="logo"
     >
       <img
         src="http://pvcfactory.ee/skin/frontend/default/hellowired/images/logo.gif"
-        alt="Telkide, peoinventaari ja lavade müük ja rent."
+        alt="PVC telkide, PVC hallide ja PVC laohallide müük."
       /></a
     >
   </h1>
