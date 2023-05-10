@@ -47,7 +47,7 @@
 								>Kui &uuml;ritus on ukse ees ja soovite <span style="color:red"
 									>KIIRESTI TELEFONI TEEL</span
 								>
-								&uuml;hendust saada siis: 515 9889 & 52 0123 7</strong
+								&uuml;hendust saada siis: 515 9889 & 64 8644</strong
 							>
 						</p>
 						<p>
