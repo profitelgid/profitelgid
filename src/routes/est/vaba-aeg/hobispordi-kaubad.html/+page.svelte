@@ -55,7 +55,7 @@
 
 			<li class="item">
 				<a
-					href="basseinid-veehoidlad.html"
+					href="/est/vaba-aeg/hobispordi-kaubad/basseinid-veehoidlad"
 					title="Basseinid ja PVC veehoidlad"
 					class="product-image"
 				>
@@ -70,7 +70,7 @@
 					<div class="f-fix">
 						<h2 class="product-name">
 							<a
-								href="basseinid-veehoidlad.html"
+								href="/est/vaba-aeg/hobispordi-kaubad/basseinid-veehoidlad"
 								title="Basseinid ja PVC veehoidlad"
 							>
 							Basseinid / Veehoidlad</a
@@ -81,12 +81,12 @@
 						<div class="price-box">
 							<p class="special-price">
 								<span class="price-label"> Hinnad alates:</span>
-								<span class="price" id="product-price-101"> 335€ </span>
+								<span class="price" id="product-price-101"> 175€ </span>
 							</p>
 						</div>
 						<div class="desc std">
 							<a
-								href="basseinid-veehoidlad.html"
+								href="/est/vaba-aeg/hobispordi-kaubad/basseinid-veehoidlad"
 								title="Basseinid ja PVC veehoidlad"
 								class="link-more">Vaata lähemalt >></a
 							>
@@ -96,7 +96,7 @@
 			</li>
 			<li class="item">
 				<a
-					href="lauajalgpall.html"
+					href=/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html
 					title=" Lauajalgpalli lauad"
 					class="product-image"
 				>
@@ -111,7 +111,7 @@
 					<div class="f-fix">
 						<h2 class="product-name">
 							<a
-								href="lauajalgpall.html"
+								href=/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html
 								title=" Lauajalgpalli lauad"
 							>
 							Lauajalgpalli lauad</a
@@ -122,12 +122,12 @@
 						<div class="price-box">
 							<p class="special-price">
 								<span class="price-label"> Hinnad alates:</span>
-								<span class="price" id="product-price-101"> 440€ </span>
+								<span class="price" id="product-price-101"> 90.85€ </span>
 							</p>
 						</div>
 						<div class="desc std">
 							<a
-								href="lauajalgpall.html"
+								href=/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html
 								title=" Lauajalgpalli laud"
 								class="link-more">Vaata lähemalt >></a
 							>
