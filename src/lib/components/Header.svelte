@@ -131,7 +131,7 @@
         </a>
       </li>
       <li>
-        <a href="http://www.profitelgid.ee/est/abs-invest">Kontakt</a>
+        <a href="/est/abs-invest">Kontakt</a>
       </li>
       <!--
         <li>
