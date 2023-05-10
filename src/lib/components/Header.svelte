@@ -7,7 +7,7 @@
       class="logo"
     >
       <img
-        src="http://profitelgid.ee/skin/frontend/default/hellowired/images/logo.gif"
+        src="http://pvcfactory.ee/skin/frontend/default/hellowired/images/logo.gif"
         alt="Telkide, peoinventaari ja lavade müük ja rent."
       /></a
     >

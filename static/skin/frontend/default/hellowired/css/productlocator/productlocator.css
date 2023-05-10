@@ -1,0 +1,13 @@
+#map-canvas{ width: 200px !important; height: 220px !important; position: absolute !important; margin-top: 5px;}
+.map { min-height: 350px;}
+.map .map-title{ background: none repeat scroll 0 0 #679100; font-size: 15px; color: #FFF; margin-bottom: 10px;}
+.map-title span{ margin-left: 5px; }
+a.direction { padding: 10px;}
+.fieldset .hor-scroll { position: relative!important; top: 20px!important;}
+.map-details { margin: 10px 0; overflow: hidden;}
+.location_head { font-size: 14px;}
+.location_tip { color: #999;}
+#searchTextField { -moz-box-sizing: border-box; padding: 5px; height: 26px; width: 100%; box-sizing: border-box; -webkit-box-sizing: border-box; line-height: 16px; border: 1px solid #D9D9D7;}
+#fancy #loc { left: 34px; position: absolute; width: 220px; z-index: 1; border: 1px solid #D9D9D7; margin-top: 2px; height: 26px; line-height: 16px;}
+.ui-autocomplete { position: absolute; cursor: default;z-index:30 !important;}  
+.no_map_error { color: #EA0909; display: block; font-size: 18px; font-weight: bold; position: relative; text-align: center; top: -2px; width: 100%; }
