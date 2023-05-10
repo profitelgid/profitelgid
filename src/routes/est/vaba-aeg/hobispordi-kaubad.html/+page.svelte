@@ -21,7 +21,7 @@
 	<div class="category-products">
 		<ol class="products-list" id="products-list">
 			<li class="item">
-				<a href="piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki" class="product-image">
+				<a href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki" class="product-image">
 					<img
 						src="http://cms.crewnew.com/assets/8df700df-46e7-43df-b6c2-145bb874fd4b.jpg"
 						width="170"
@@ -32,7 +32,7 @@
 				<div class="product-shop">
 					<div class="f-fix">
 						<h2 class="product-name">
-							<a href="piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki">
+							<a href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki">
 								Piljardilauad, Pinksilauad, Õhuhoki</a
 							>
 						</h2>
@@ -41,11 +41,11 @@
 						<div class="price-box">
 							<p class="special-price">
 								<span class="price-label"> Hinnad alates:</span>
-								<span class="price" id="product-price-101"> 139€ </span>
+								<span class="price" id="product-price-101"> 129€ </span>
 							</p>
 						</div>
 						<div class="desc std">
-							<a href="piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki" class="link-more"
+							<a href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki" class="link-more"
 								>Vaata lähemalt >></a
 							>
 						</div>
