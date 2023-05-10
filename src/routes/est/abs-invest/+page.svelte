@@ -32,23 +32,29 @@
 
 				<div class="short-description">
 					<div class="std" in:scale>
-						<p><strong>Kontor:</strong> V&otilde;ru 4/6, Tartu 51010. Vahelaod
-							asuvad Aakres ja Leedus. Tootmine Poolas.<strong>
-							</strong>.</p>
-						<h2>Kontaktvorm</h2>
-						<p>All paremas nurgas oranž kontaktvorm saadab e-maili <strong><a
-									href="mailto:myyk@pvcfactory.ee">info@pvcfactory.ee</a></strong>
+						<p>
+							<strong>Kontor:</strong> V&otilde;ru 4/6, Tartu 51010. Vahelaod asuvad Aakres ja
+							Leedus. Tootmine Poolas.<strong />.
 						</p>
-						<p><img style="float: right; margin: 5px;"
-								src="http://profitelgid.ee/sms/sms.jpg"
-								alt="Saada SMS telgiproffidele" width="120" /><strong>
-								<strong>Kui &uuml;ritus on ukse ees ja soovite <span
-										style="color:red">KIIRESTI TELEFONI TEEL</span>
-									&uuml;hendust saada siis: 515 9889 & 52 0123 7</p>
-						<p><em>Baltic24 OÜ (Reg. nr: 14282580 / KMKR: EE102286997) - Eesti
-								tarned</em><br />
-							<em>Innovate Invest OÜ (Reg. nr: 14504365 / KMKR: EE102077931) -
-								Otsetarned Saksamaalt</em><br />
+						<h2>Kontaktvorm</h2>
+						<p>
+							All paremas nurgas oranž kontaktvorm saadab e-maili <strong
+								><a href="mailto:myyk@pvcfactory.ee">info@pvcfactory.ee</a></strong
+							>
+						</p>
+						<p>
+							<strong
+								>Kui &uuml;ritus on ukse ees ja soovite <span style="color:red"
+									>KIIRESTI TELEFONI TEEL</span
+								>
+								&uuml;hendust saada siis: 515 9889 & 52 0123 7</strong
+							>
+						</p>
+						<p>
+							<em>Baltic24 OÜ (Reg. nr: 14282580 / KMKR: EE102286997) - Eesti tarned</em><br />
+							<em
+								>Innovate Invest OÜ (Reg. nr: 14504365 / KMKR: EE102077931) - Otsetarned Saksamaalt</em
+							><br />
 						</p>
 					</div>
 				</div>

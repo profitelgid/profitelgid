@@ -112,12 +112,12 @@
 							<tr>
 								<td>
 									<a
-										href="http://profitelgid.ee/est/telkide-myyk/teisaldatav-garaaz-telk.html"
+										href="/est/telkide-myyk/teisaldatav-garaaz-telk.html"
 										title="Telk garaaž tugev"
 										class="product-image"
 									>
 										<img
-											src="http://profitelgid.ee/telk-pilt/garaaz/garaaz-telk-125.jpg"
+											src="/telk-pilt/garaaz/garaaz-telk-125.jpg"
 											width="125"
 											height="125"
 											alt="Garaaž telk talveks"
@@ -126,7 +126,7 @@
 
 									<h3 class="product-name">
 										<a
-											href="http://profitelgid.ee/est/telkide-myyk/teisaldatav-garaaz-telk.html"
+											href="/est/telkide-myyk/teisaldatav-garaaz-telk.html"
 											title="Garaažtelgid"
 										>
 											Teisaldatavad garaažid aastaringseks kasutuseks</a
@@ -136,12 +136,12 @@
 
 								<td>
 									<a
-										href="http://profitelgid.ee/est/telkide-myyk/moodul-pro.html"
+										href="/est/telkide-myyk/moodul-pro.html"
 										title="EasyFlex PRO suured moodultelgid"
 										class="product-image"
 									>
 										<img
-											src="http://profitelgid.ee/telk-pilt/easy-flex/easyflex1-125.jpg"
+											src="/telk-pilt/easy-flex/easyflex1-125.jpg"
 											width="125"
 											height="125"
 											alt="EasyFlex PRO suured moodultelgid"
@@ -150,7 +150,7 @@
 
 									<h3 class="product-name">
 										<a
-											href="http://profitelgid.ee/est/telkide-myyk/moodul-pro.html"
+											href="/est/telkide-myyk/moodul-pro.html"
 											title="EasyFlex PRO suured moodultelgid"
 										>
 											EasyFlex PRO suured moodultelgid aastaringseks kasutuseks</a
@@ -160,12 +160,12 @@
 
 								<td>
 									<a
-										href="http://profitelgid.ee/est/telkide-myyk/laotelgid.html"
+										href="/est/telkide-myyk/laotelgid.html"
 										title="Tulekindlad laotelgid"
 										class="product-image"
 									>
 										<img
-											src="http://profitelgid.ee/telk-pilt/laotelgid/6x24_hall_xxl_4m-s.jpg"
+											src="/telk-pilt/laotelgid/6x24_hall_xxl_4m-s.jpg"
 											width="125"
 											height="125"
 											alt="Tulekindlad laotelgid"
@@ -174,7 +174,7 @@
 
 									<h3 class="product-name">
 										<a
-											href="http://profitelgid.ee/est/telkide-myyk/laotelgid.html"
+											href="/est/telkide-myyk/laotelgid.html"
 											title="Tulekindlad laotelgid"
 											>Tulekindlad laotelgid aastaringseks kasutuseks</a
 										>
@@ -183,12 +183,12 @@
 
 								<td>
 									<a
-										href="http://profitelgid.ee/est/telkide-myyk/laotelgid.html"
+										href="/est/telkide-myyk/laotelgid.html"
 										title="PVC hallid ja kaarhallid"
 										class="product-image"
 									>
 										<img
-											src="http://profitelgid.ee/telk-pilt/pvc-hallid/pvc-hallid.jpg"
+											src="/telk-pilt/pvc-hallid/pvc-hallid.jpg"
 											width="125"
 											height="125"
 											alt="PVC hallid ja kaarhallid"
@@ -197,7 +197,7 @@
 
 									<h3 class="product-name">
 										<a
-											href="http://profitelgid.ee/est/telkide-myyk/laotelgid.html"
+											href="/est/telkide-myyk/laotelgid.html"
 											title="PVC hallid ja kaarhallid">PVC hallid ja kaarhallid</a
 										>
 									</h3>
@@ -205,12 +205,12 @@
 
 								<td>
 									<a
-										href="http://profitelgid.ee/est/telkide-myyk/pop-up/kuuskant-hex-profi-popup.html"
+										href="/est/telkide-myyk/pop-up/kuuskant-hex-profi-popup.html"
 										title="Pop-up PRO HEX moodulitest 2x2m kuni 8x400m telgid"
 										class="product-image"
 									>
 										<img
-											src="http://profitelgid.ee/telk-pilt/pop-up/pro-hex/popup-lava-125.jpg"
+											src="/telk-pilt/pop-up/pro-hex/popup-lava-125.jpg"
 											width="125"
 											height="125"
 											alt="Pop-up PRO HEX moodulitest 2x2m kuni 8x400m telgid"
@@ -219,7 +219,7 @@
 
 									<h3 class="product-name">
 										<a
-											href="http://profitelgid.ee/est/telkide-myyk/pop-up/kuuskant-hex-profi-popup.html"
+											href="/est/telkide-myyk/pop-up/kuuskant-hex-profi-popup.html"
 											title="Pop-up PRO HEX moodulitest 2x2m kuni 8x400m telgid"
 										>
 											Pop-up PRO HEX moodulitest 2x2m kuni 8x400m telgid</a

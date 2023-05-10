@@ -5,7 +5,7 @@
 	<div>
 		<h1 in:scale>
 			<img
-				src="http://profitelgid.ee/telk-pilt/laotelgid/statik-logo.png"
+				src="/telk-pilt/laotelgid/statik-logo.png"
 				align="right"
 				alt="Pop-up teltat"
 				title="Pop-up kergtelgid"
@@ -68,7 +68,7 @@
 								type="button"
 								title="Vaata tooteid"
 								class="button btn-cart"
-								onclick="setLocation('http://profitelgid.ee/est/telkide-myyk/laotelgid/soodne-laotelk.html')"
+								onclick="setLocation('/est/telkide-myyk/laotelgid/soodne-laotelk.html')"
 								><span><span>Vaata tooteid</span></span></button
 							>
 						</p>
@@ -123,7 +123,7 @@
 								type="button"
 								title="Vaata tooteid"
 								class="button btn-cart"
-								onclick="setLocation('http://profitelgid.ee/est/telkide-myyk/laotelgid/vastupidav-laotelk.html')"
+								onclick="setLocation('/est/telkide-myyk/laotelgid/vastupidav-laotelk.html')"
 								><span><span>Vaata tooteid</span></span></button
 							>
 						</p>

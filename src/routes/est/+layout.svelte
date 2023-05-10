@@ -21,32 +21,32 @@
 									<slot />
 									<div class="subpromo">
 										<div class="offers">
-											<a href="http://profitelgid.ee/est/telkide-laenutus/odav-telgi-rent.html"
+											<a href="/est/telkide-laenutus/odav-telgi-rent.html"
 												><img
-													src="http://profitelgid.ee/skin/frontend/default/hellowired/images/media/telgi-laenutus.jpg"
+													src="/skin/frontend/default/hellowired/images/media/telgi-laenutus.jpg"
 													alt="Telkide laenutus &amp; ent"
 												/></a
 											>
-											<a href="http://profitelgid.ee/est/telkide-laenutus/peoinventar-56.html"
+											<a href="/est/telkide-laenutus/peoinventar-56.html"
 												><img
-													src="http://profitelgid.ee/skin/frontend/default/hellowired/images/media/peoinventar-laenutus.jpg"
+													src="/skin/frontend/default/hellowired/images/media/peoinventar-laenutus.jpg"
 													alt="Peoinventari rent"
 												/></a
 											>
 										</div>
 										<div class="brands">
-											<a href="http://profitelgid.ee/est/facebook"
+											<a href="/est/facebook"
 												><img
-													src="http://profitelgid.ee/skin/frontend/default/hellowired/images/media/promo5.jpg"
+													src="/skin/frontend/default/hellowired/images/media/promo5.jpg"
 													alt="Telkide ja muu peoinventari m&uuml;&uuml;k ja laenutus 5% soodsam."
 												/></a
 											>
 										</div>
 									</div>
 									<div class="promo-bottom">
-										<a href="http://profitelgid.ee/est/kvaliteetsed-profitelgid"
+										<a href="/est/kvaliteetsed-profitelgid"
 											><img
-												src="http://profitelgid.ee/skin/frontend/default/hellowired/images/media/promo4.jpg"
+												src="/skin/frontend/default/hellowired/images/media/promo4.jpg"
 												alt="Puhtad ja kvaliteetsed rendi telgid"
 											/></a
 										>
@@ -55,29 +55,29 @@
 								<br />
 								<h2>Telkide, lavade, helitehnika ja muu peoinventari m&uuml;&uuml;k ja rent.</h2>
 								<p>
-									<a href="http://profitelgid.ee/est/telkide-myyk/profitelk-muuk.html"
+									<a href="/est/telkide-myyk/profitelk-muuk.html"
 										>Kvaliteetsed &uuml;litugeva raamiga profitelgid,</a
 									>
 									mida v&otilde;ib tänu paksule PVC kattele aastaringselt kasutada. Alates 2009 müüme
 									ja rendime ka (sealjuures parimate hindadega) erinevaid
-									<a href="http://profitelgid.ee/est/telkide-myyk/pop-up.html"
+									<a href="/est/telkide-myyk/pop-up.html"
 										>pop-up ehk easy-up kergtelke</a
 									>, soodsamaid
-									<a href="http://profitelgid.ee/est/telkide-myyk/koduaeda.html"
+									<a href="/est/telkide-myyk/koduaeda.html"
 										>kodukasutajale mõeldud telke</a
 									>
 									vahel harva telki vajavale inimesele,
-									<a href="http://profitelgid.ee/est/telkide-myyk/teisaldatav-garaaz-telk.html"
+									<a href="/est/telkide-myyk/teisaldatav-garaaz-telk.html"
 										>teisaldatavaid garaaž-telke</a
 									>,
-									<a href="http://profitelgid.ee/est/telkide-myyk/laotelgid.html"
+									<a href="/est/telkide-myyk/laotelgid.html"
 										>suuri (tulekindlaid) tööstuslikke halle</a
 									>,
-									<a href="http://profitelgid.ee/est/telkide-myyk/umartelgid.html"
+									<a href="/est/telkide-myyk/umartelgid.html"
 										>star- ja rotund telke</a
 									>
 									ning lisaks sellele
-									<a href="http://profitelgid.ee/est/telkide-myyk/peoinventar.html"
+									<a href="/est/telkide-myyk/peoinventar.html"
 										>kõikvõimalikku muud peoinventari</a
 									>.
 								</p>

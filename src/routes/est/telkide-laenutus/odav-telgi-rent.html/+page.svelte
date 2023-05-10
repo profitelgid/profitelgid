@@ -40,7 +40,7 @@
 						</p>
 							<p><strong>Star-telgid</strong>, mis on soodsaima ruutmeetri hinnaga telk üldse. Telgil on keskel üks pikk 5m post ning sellele 
 									toetub telgi ühes tükis kattematerjal. Mõõtudes 10x10m kuni 14x14m läbimõõduga.
-									<a class="group" rel="group" href="http://profitelgid.ee/est/teltta-kuva/vuokraus/telttojen-vuokraus8.jpg" 
+									<a class="group" rel="group" href="/est/teltta-kuva/vuokraus/telttojen-vuokraus8.jpg" 
 									   title="Telkide rent" >Vaata pilti>></a>
 						</p>
 						<p><strong>Suured profitelgid</strong>, mis on ka vastupidavama raami ja kattematerjaliga, ning sobilikud kasutamaks ka 
@@ -59,7 +59,7 @@
 						in:scale
 						class="mainImage"
 						style="height:350px"
-						src="http://profitelgid.ee/est/teltta-kuva/vuokraus/telttojen-vuokraus1.jpg"
+						src="/est/teltta-kuva/vuokraus/telttojen-vuokraus1.jpg"
 						alt="Tugevad profitelgid"
 						title="Tugevad profitelgid"
 					/>

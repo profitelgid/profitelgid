@@ -118,7 +118,7 @@
                 class="product-image"
             >
                 <img
-                    src="http://www.profitelgid.ee/media/catalog/product/cache/1/image/a9b604639cdb14eccfb2065d0758c77c/4/x/4x8m-easyup-telk_1.jpg"
+                    src="/media/catalog/product/cache/1/image/a9b604639cdb14eccfb2065d0758c77c/4/x/4x8m-easyup-telk_1.jpg"
                     width="170"
                     height="170"
                     alt="Profiseeria pop-up PRO"

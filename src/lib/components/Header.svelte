@@ -44,7 +44,7 @@
             </li> -->
             <li>
               <a href="/est/telkide-myyk/profitelk-muuk.html">
-                <span>Tugevad profitelgid</span>
+                <span>Tugevad PVC profitelgid</span>
               </a>
             </li>
             <li class="dropdown">
