@@ -14,10 +14,10 @@
   </h1>
   <div class="cms-links">
     <ul>
-      <li class="welcome">hulgi@profitelgid.ee</li>
+      <li class="welcome">edasimyyjad@pvcfactory.ee</li>
       <a
-        href="/est/abs-invest/sisene.html"
-        title="Püsiklinedi kontohaldus ja tellimine">Sisene>></a
+        href="sisene"
+        title="Püsiklinedi kontohaldus ja hulgi tellimine">Sisene>></a
       >
     </ul>
   </div>
@@ -30,32 +30,6 @@
           <span>Avaleht</span>
         </a>
       </li>	
-      <li class="dropdown">
-        <a href="/">
-          <span>Telkide &amp; peoinventari rent</span>
-          <img alt="clickable" src="/images/menu_bullet.png" style="margin-left: 5px;">
-          <div class="arrow"></div>
-        </a>
-        <ul>
-          <div class="dropdown-content">
-            <li>
-              <a href="/est/telkide-laenutus/odav-telgi-rent.html">
-                <span>Telkide laenutus</span>
-              </a>
-            </li>
-            <li>
-              <a href="/est/telkide-laenutus/peoinventar-56.html">
-                <span>Peoinventari rent</span>
-              </a>
-            </li>
-            <li>
-              <a href="/est/telkide-laenutus/heli-foto-video-teenused.html">
-                <span>Heli, foto, video</span>
-              </a>
-            </li>
-          </div>
-        </ul>
-      </li>
       <li class="dropdown">
         <a href="/">
           <span>Telkide &amp; peoinventari müük</span>
@@ -149,6 +123,11 @@
       <li>
         <a href="/est/vaba-aeg/hobispordi-kaubad.html">
           Hobispordi kaubad
+        </a>
+      </li>
+      <li>
+        <a href="/est/telkide-laenutus/odav-telgi-rent.html">
+          Telkide rent
         </a>
       </li>
       <li>
