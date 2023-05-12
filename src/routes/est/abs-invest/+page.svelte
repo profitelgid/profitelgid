@@ -1,15 +1,5 @@
 <script lang="ts">
 	import { scale } from 'svelte/transition';
-
-	let modal = false;
-	let image: string;
-	let imageDesc: string;
-	import Modal from '$lib/components/Modal.svelte';
-	function switchModal(img: string, desc: string) {
-		modal = !modal;
-		image = img;
-		imageDesc = desc;
-	}
 </script>
 
 
@@ -17,12 +7,6 @@
     <title>Kontakt telgiproffidega | PVCfactory.ee</title>
     <meta name="description" content="Küsimuste korral ja abi saamiseks e-poest ostmisel, kontakteeru telgiproffidega Harjumaal ja Tartumaal." />
 </svelte:head>
-
-{#if modal}
-	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
-		><img src="http://cms.crewnew.com/assets/1" alt="PVC Factory telkide müügi kontakt" /></Modal
-	>
-{/if}
 
 <div class="col-main span9">
 	<div id="messages_product_view" />
@@ -38,8 +22,8 @@
 
 				<div class="short-description">
 					<div class="std" in:scale>
-						<p>
-							<strong>Kontor:</strong> V&otilde;ru 4/6, Tartu 51010. Vahelaod asuvad Aakres ja
+						<p><br><br>
+							<strong>Kontor:</strong> V&otilde;ru 4/6, Tartu 51010.<br><br> Vahelaod asuvad Aakres ja
 							Leedus. Tootmine Poolas.<strong />.
 						</p>
 						<h2>Kontaktvorm</h2>
@@ -54,7 +38,7 @@
 									>KIIRESTI TELEFONI TEEL</span
 								>
 								&uuml;hendust saada siis: 515 9889 & 64 8644</strong
-							>
+							>. Vastasel juhul soovitame jätta enda esmaste soovide info ning Teiega võtab ühendust oma ala ekspert. Üldtelefonidel saate suhelda laotöötajaga, kes ei pruugi osata ekspertnõu anda.
 						</p>
 						<p>
 							<em>Baltic24 OÜ (Reg. nr: 14282580 / KMKR: EE102286997) - Eesti tarned</em><br />
@@ -74,7 +58,7 @@
 						in:scale
 						class="mainImage"
 						style="height:350px"
-						src="https://i.imgur.com/swkh286.png"
+						src="/images/pvc-laohallide-kontakt.png"
 						alt="Tugevad profitelgid"
 						title="Tugevad profitelgid"
 					/>
@@ -87,19 +71,8 @@
 </div>
 
 <style>
-	.productImage {
-		object-fit: cover;
-		width: 65px;
-		height: 65px;
-	}
 	.mainImage {
 		width: 250px;
-		padding: 4em;
-	}
-	.group {
-		padding: 0;
-		border: none;
-		background: none;
-		cursor: pointer;
+		padding-right: 4em;
 	}
 </style>
