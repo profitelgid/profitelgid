@@ -30,15 +30,15 @@
 											<a href="/est/telkide-myyk/laotelgid.html"
 												><img
 													src="/skin/frontend/default/hellowired/images/media/pvc-laohallid.png"
-													alt="Peoinventari rent"
+													alt="PVC laotelgid ja laohallid"
 												/></a
 											>
 										</div>
 										<div class="brands">
-											<a href="/est/facebook"
+											<a href="/est/pvc-materjal"
 												><img
-													src="/skin/frontend/default/hellowired/images/media/promo5.jpg"
-													alt="Telkide ja muu peoinventari m&uuml;&uuml;k ja laenutus 5% soodsam."
+													src="/skin/frontend/default/hellowired/images/media/pvc-toostuslik-materjal.png"
+													alt="PVC materjal on vastupidav, soodne ja kvaliteetne tööstuslikeks ehitisteks"
 												/></a
 											>
 										</div>
