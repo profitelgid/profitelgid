@@ -1,6 +1,6 @@
 # profi-telgid
 
-* Live site: https://pvctent.ee/
+* Live site: https://pvcfactory.ee
 * Deployment: https://profi-telgid.vercel.app/
 * API endpoint: https://apps.crewnew.com/v1/graphql
 
