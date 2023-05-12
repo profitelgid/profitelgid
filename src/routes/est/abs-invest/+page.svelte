@@ -37,7 +37,7 @@
 								>Kui &uuml;ritus on ukse ees ja soovite <span style="color:red"
 									>KIIRESTI TELEFONI TEEL</span
 								>
-								&uuml;hendust saada siis: 515 9889 & 64 8644</strong
+								&uuml;hendust saada siis: 515 9889 & 646 6474</strong
 							>. Vastasel juhul soovitame jätta enda esmaste soovide info ning Teiega võtab ühendust oma ala ekspert. Üldtelefonidel saate suhelda laotöötajaga, kes ei pruugi osata ekspertnõu anda.
 						</p>
 						<p>
