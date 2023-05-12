@@ -16,7 +16,7 @@
     <ul>
       <li class="welcome">edasimyyjad@pvcfactory.ee</li>
       <a
-        href="sisene"
+        href="/est/abs-invest/sisene.html"
         title="Püsiklinedi kontohaldus ja hulgi tellimine">Sisene>></a
       >
     </ul>
