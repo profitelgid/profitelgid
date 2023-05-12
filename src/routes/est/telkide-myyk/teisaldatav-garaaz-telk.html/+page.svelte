@@ -12,7 +12,21 @@
 		image = img;
 		imageDesc = desc;
 	}
+
+	let meta_description = data.cms.meta_description;
+	if (!data.cms.meta_description && data.cms.description_short)
+		meta_description = data.cms.description_short;
+	if (!data.cms.meta_description && !data.cms.description_short && data.cms.description)
+		meta_description = data.cms.description.slice(0, 155) + '…';
+	let title_tag = data.cms.title_tag;
+	if (!data.cms.title_tag && data.cms.title) title_tag = data.cms.title_tag;
+	if (!data.cms.title_tag && !data.cms.title) title_tag = data.cms.name;
 </script>
+
+<svelte:head>
+	<title>{data.cms.title_tag} | PVCfactory.ee</title>
+	<meta name="description" content={meta_description} />
+</svelte:head>
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
@@ -125,10 +139,7 @@
 									>
 
 									<h3 class="product-name">
-										<a
-											href="/est/telkide-myyk/teisaldatav-garaaz-telk.html"
-											title="Garaažtelgid"
-										>
+										<a href="/est/telkide-myyk/teisaldatav-garaaz-telk.html" title="Garaažtelgid">
 											Teisaldatavad garaažid aastaringseks kasutuseks</a
 										>
 									</h3>
@@ -173,9 +184,7 @@
 									>
 
 									<h3 class="product-name">
-										<a
-											href="/est/telkide-myyk/laotelgid.html"
-											title="Tulekindlad laotelgid"
+										<a href="/est/telkide-myyk/laotelgid.html" title="Tulekindlad laotelgid"
 											>Tulekindlad laotelgid aastaringseks kasutuseks</a
 										>
 									</h3>
@@ -196,9 +205,8 @@
 									>
 
 									<h3 class="product-name">
-										<a
-											href="/est/telkide-myyk/laotelgid.html"
-											title="PVC hallid ja kaarhallid">PVC hallid ja kaarhallid</a
+										<a href="/est/telkide-myyk/laotelgid.html" title="PVC hallid ja kaarhallid"
+											>PVC hallid ja kaarhallid</a
 										>
 									</h3>
 								</td>
