@@ -557,7 +557,7 @@ ul.disc { list-style:disc outside; padding-left:18px; }
 #leftnav li a{ padding:8px 5px 7px 10px; color:#797979; text-shadow: 0px 1px #fff; }
 #leftnav li.active { background-color: #e9e9e9;}
 #leftnav li.over a, #leftnav a:hover { color:#2e2e2e; }
-#leftnav li.parent a { background: url(../images/background/leftnav_arrow.html) 95% center no-repeat;}
+/**#leftnav li.parent a { background: url(../images/background/leftnav_arrow.html) 95% center no-repeat;}**/
 #leftnav li:hover, #leftnav li.over { background: #f2f1e9; }
 /************ 1ST LEVEL ************/
 #leftnav ul li span { line-height: 1.3em; }
