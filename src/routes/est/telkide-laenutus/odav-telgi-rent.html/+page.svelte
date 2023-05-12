@@ -1,28 +1,11 @@
 <script lang="ts">
 	import { scale } from 'svelte/transition';
-
-	let modal = false;
-	let image: string;
-	let imageDesc: string;
-	import Modal from '$lib/components/Modal.svelte';
-	function switchModal(img: string, desc: string) {
-		modal = !modal;
-		image = img;
-		imageDesc = desc;
-	}
 </script>
-
 
 <svelte:head>
     <title>Peotelkide ja popup telkide laenutus | PVCfactory.ee</title>
     <meta name="description" content="Soodne pop-up telkide laenutus, star-telgi rent ja suurte profitelkide laenutus Tartumaal ja üle Eesti." />
 </svelte:head>
-
-{#if modal}
-	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
-		><img src="http://cms.crewnew.com/assets/1" alt="Telgirent" /></Modal
-	>
-{/if}
 
 <div class="col-main span9">
 	<div id="messages_product_view" />
@@ -65,7 +48,7 @@
 						in:scale
 						class="mainImage"
 						style="height:350px"
-						src="/est/teltta-kuva/vuokraus/telttojen-vuokraus1.jpg"
+						src="/images/pvc-telgid.jpg"
 						alt="Tugevad profitelgid"
 						title="Tugevad profitelgid"
 					/>
