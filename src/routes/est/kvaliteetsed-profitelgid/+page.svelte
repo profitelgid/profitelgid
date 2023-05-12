@@ -2,10 +2,12 @@
 	import { scale } from 'svelte/transition';
 </script>
 
-
 <svelte:head>
-    <title>PVC materjali tutvustus | PVCfactory</title>
-    <meta name="description" content="Tutvu PVC materjaliga, mille märksõnadeks on vastupidavus, mitmekülgsus ja kvaliteet (tööstuslikeks) ehitisteks." />
+	<title>PVC materjali garantii | PVCfactory</title>
+	<meta
+		name="description"
+		content="Ainukesena Eestis pakume oma PVC telkide ja laohallide kattematerjalile lisagarantiid."
+	/>
 </svelte:head>
 
 <div class="col-main span9">
@@ -15,7 +17,7 @@
 		<div class="product-essential">
 			<div class="product-shop">
 				<div class="product-name">
-					<h1>PVC materjali tutvustus</h1>
+					<h1>Garantii, mis päriselt loeb</h1>
 					<p>&nbsp;</p>
 				</div>
 
@@ -23,14 +25,18 @@
 
 				<div class="short-description">
 					<div class="std" in:scale>
-						<h1>PVC materjal: vastupidavus, mitmekülgsus ja kvaliteet tööstuslikeks ehitisteks</h1>    </div><div class="std">
-							<p>&nbsp;</p>
-							<p><strong>Mis on PVC materjal?</strong></p>
-							<p>PVC on sünteetiline termoplastiline materjal, mis koosneb peamiselt kloriidist ja vinüülühenditest. See on valmistatud polümerisatsiooni protsessi abil, kus PVC graanulid kuumutatakse ja vormitakse erinevateks toodeteks. PVC on tuntud oma vastupidavuse, paindlikkuse ja kerguse poolest, muutes selle ideaalseks materjaliks erinevate tööstuslike ehitiste, laotelkide, aastaringselt kasutatavate peotelkide ja kõikvõimalike muude vastupidavate toodete jaoks, mida saab üldjuhul soodsama hinna eest soetada.</p>
-							<p><strong>Vastupidavus</strong></p>
-							<p>PVC materjal on äärmiselt vastupidav erinevatele ilmastikutingimustele, sealhulgas päikesevalgusele, sademetele, tuulele ja temperatuurimuutustele. Paksem PVC materjal säilitab oma omadused aastakpmneteks ilma märkimisväärse kulumise või värvimuutusteta. Tääkimata rebenemisest või aukude tekkimisest. PVC materjal ei roosteta ega mädane, tagades pikaajalise vastupidavuse ja lihtsa hooldamise.</p>
-							<p><strong>Kvaliteet</strong></p>
-							<p>Euroopa Liidus müüdav PVC materjal vastab rangetele kvaliteedistandarditele ja on testitud vastupidavuse, tulekindluse ja muude oluliste omaduste osas. See tagab, et PVCfactory toodetel on kõrge kvaliteet ja vastupidavus.</p>
+						<h1>Kas teadsid, et telkidele üldiselt ei anta garantiid?</h1>
+					</div>
+					<div class="std">
+						<p>&nbsp;</p>
+						<p><strong>Aga kõik on kohustatud andma garantii?</strong></p>
+						<p>
+							Jah, kõik on kohustatud andma garantii aga garantiitingimustes on ka kirjas, et kui halvad ilmastikuolud lõhuvad Teie telki, siis garantii ei kehti. Tegelikult ongi tugev tuul ainuke oht Teie telgile, kui välja jätta UV, mis kahjustab telki alles nii mitmete aastate jooksul, et see ei lähe enam garantii alla. Telk või PVC laohoone tuleb esmasel püstitusel üle vaadata, et ükski komponent poleks tehase praak, kuid peale seda pole enam mingit garantiid. Kui tunni aja pärast tuleb tugev tuuleiil ja telki kahjustab, siis see garantii tingimuste alla ei lähe.
+						</p>
+						<p><strong>PVCfactory garantii</strong></p>
+						<p>
+							PVCfactory annab PRO seeria telkide, laohallide ja muudele tööstuslike hoonete PVC kattematerjalile sõltuvalt materjali paksusest 1-2 aastat garantiid. Me teame, et meie PVC materjal on piisavalt tugev, et vastu pidada ka tugeivamatele tuultele. Kui tuleb keeristorm ja majade katused hakkavad lendama, siis võib loomulikult ka PVCfacory telk puruneda, kuid enne puruneb kanderaam, kui meie PRO seeria PVC. Seetõttu julgeme ka oma PVC materjalile anda garantii lisaks tavagarantiile, mida kõik annavad.
+						</p>
 					</div>
 				</div>
 
@@ -43,9 +49,9 @@
 						in:scale
 						class="mainImage"
 						style="height:350px"
-						src="/images/pvc-materjal.png"
-						alt="PVC - tugev ja kvaliteetne materjal"
-						title="PVC materjalist saab teha tööstuslikke telke ning laohalle"
+						src="/images/pvc-garantii.png"
+						alt="PVC - tugev ja kvaliteetne materjal, millele saab garantii"
+						title="PVC telkide materjali garantii"
 					/>
 				</p>
 			</div>
@@ -56,19 +62,8 @@
 </div>
 
 <style>
-	.productImage {
-		object-fit: cover;
-		width: 65px;
-		height: 65px;
-	}
 	.mainImage {
 		width: 250px;
 		padding: 4em;
-	}
-	.group {
-		padding: 0;
-		border: none;
-		background: none;
-		cursor: pointer;
 	}
 </style>
