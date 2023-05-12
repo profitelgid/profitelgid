@@ -1,6 +1,14 @@
 <script>
 	import { scale } from 'svelte/transition';
 </script>
+<svelte:head>
+	<title>Laotelgid & tulekindlad PVC telgid | PVCfactory.ee</title>
+	<meta
+		name="description"
+		content="Kergesti teisaldatavad PVC laod, PVC laotelgid ja töökojad. PVC on soodsaima ruutmeetri hinnaga võimalus luua kiiresti vastupidav tööstuslik laoruum või misiganes tootmis-, farmi- või muu hoone."
+	/>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+</svelte:head>
 <div class="col-main span6">
 	<div>
 		<h1 in:scale>

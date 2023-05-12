@@ -15,7 +15,19 @@
 		image = img;
 		imageDesc = desc;
 	}
+
+	let meta_description = items.meta_description;
+	if (!items.meta_description && items.description_short) meta_description = items.description_short;
+	if (!items.meta_description && !items.description_short && items.description) meta_description = items.description.slice(0, 155) + "…";
+	let title_tag = items.title_tag;
+	if (!items.title_tag && items.title) title_tag = items.title_tag;
+	if (!items.title_tag && !items.title) title_tag = items.name;
 </script>
+
+<svelte:head>
+	<title>{items.title_tag} | PVCfactory.ee</title>
+	<meta name="description" content={meta_description} />
+</svelte:head>
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
@@ -111,30 +123,30 @@
 					{#each items.products as product}
 						<li class="item">
 							{#if product.image}
-							<button
-								class="product-image"
-								on:click={() => switchModal(product.image, product.title)}
-							>
-								<img
-									src="http://cms.crewnew.com/assets/{product.image}"
-									class="product"
-									alt={product.title}
-								/>
-							</button>
-						{/if}
+								<button
+									class="product-image"
+									on:click={() => switchModal(product.image, product.title)}
+								>
+									<img
+										src="http://cms.crewnew.com/assets/{product.image}"
+										class="product"
+										alt={product.title}
+									/>
+								</button>
+							{/if}
 							<div class="product-shop">
 								<div class="f-fix">
 									<h2 class="product-name">
 										{#if product.image}
-										<button
-											class="product-url"
-											on:click={() => switchModal(product.image, product.title)}
-										>
+											<button
+												class="product-url"
+												on:click={() => switchModal(product.image, product.title)}
+											>
+												{product.title}
+											</button>
+										{:else}
 											{product.title}
-										</button>
-									{:else}
-										{product.title}
-									{/if}
+										{/if}
 									</h2>
 
 									<div class="price-box">
@@ -200,4 +212,3 @@
 		width: 100%;
 	}
 </style>
-

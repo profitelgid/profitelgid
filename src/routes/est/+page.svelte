@@ -1,10 +1,10 @@
 <svelte:head>
 	<title>Telkide ja muude PVC toodete müük ning tootmine | PVCfactory.ee</title>
-	<meta name="description" content="Suurim telkide ja PVC toodete e-kaubamaja Eestis müüb ja toodab parima kvaliteediga peotelke, teisaldatavaid garaaže, PVC ladusid, pop-up / easyup telke ja muid PVC tooteid." />
 	<meta
-	  name="robots"
-	  content="index, follow, max-snippet:-1, max-image-preview:large"
+		name="description"
+		content="Suurim telkide ja PVC toodete e-kaubamaja Eestis müüb ja toodab parima kvaliteediga peotelke, teisaldatavaid garaaže, PVC ladusid, pop-up / easyup telke ja muid PVC tooteid."
 	/>
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
 </svelte:head>
 
 <div class="promo">
