@@ -12,6 +12,12 @@
 	}
 </script>
 
+
+<svelte:head>
+    <title>Peotelkide ja popup telkide laenutus | PVCfactory.ee</title>
+    <meta name="description" content="Soodne pop-up telkide laenutus, star-telgi rent ja suurte profitelkide laenutus Tartumaal ja üle Eesti." />
+</svelte:head>
+
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
 		><img src="http://cms.crewnew.com/assets/1" alt="Telgirent" /></Modal

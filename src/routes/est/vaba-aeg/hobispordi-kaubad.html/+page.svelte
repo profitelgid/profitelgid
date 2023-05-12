@@ -1,7 +1,21 @@
 <script lang="ts">
 	export let data: any;
 	import { scale } from 'svelte/transition';
+
+	let meta_description = data.cms.meta_description;
+	if (!data.cms.meta_description && data.cms.description_short)
+		meta_description = data.cms.description_short;
+	if (!data.cms.meta_description && !data.cms.description_short && data.cms.description)
+		meta_description = data.cms.description.slice(0, 155) + '…';
+	let title_tag = data.cms.title_tag;
+	if (!data.cms.title_tag && data.cms.title) title_tag = data.cms.title_tag;
+	if (!data.cms.title_tag && !data.cms.title) title_tag = data.cms.name;
 </script>
+
+<svelte:head>
+	<title>{data.cms.title_tag} | PVCfactory.ee</title>
+	<meta name="description" content={meta_description} />
+</svelte:head>
 
 <div class="col-main span6" in:scale>
 	<div>
@@ -21,7 +35,11 @@
 	<div class="category-products">
 		<ol class="products-list" id="products-list">
 			<li class="item">
-				<a href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki" class="product-image">
+				<a
+					href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud"
+					title="Piljardilauad, Pinksilauad, Õhuhoki"
+					class="product-image"
+				>
 					<img
 						src="http://cms.crewnew.com/assets/8df700df-46e7-43df-b6c2-145bb874fd4b.jpg"
 						width="170"
@@ -32,7 +50,10 @@
 				<div class="product-shop">
 					<div class="f-fix">
 						<h2 class="product-name">
-							<a href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki">
+							<a
+								href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud"
+								title="Piljardilauad, Pinksilauad, Õhuhoki"
+							>
 								Piljardilauad, Pinksilauad, Õhuhoki</a
 							>
 						</h2>
@@ -45,8 +66,10 @@
 							</p>
 						</div>
 						<div class="desc std">
-							<a href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud" title="Piljardilauad, Pinksilauad, Õhuhoki" class="link-more"
-								>Vaata lähemalt >></a
+							<a
+								href="/est/vaba-aeg/hobispordi-kaubad/piljard-lauatennis-hokilaud"
+								title="Piljardilauad, Pinksilauad, Õhuhoki"
+								class="link-more">Vaata lähemalt >></a
 							>
 						</div>
 					</div>
@@ -73,7 +96,7 @@
 								href="/est/vaba-aeg/hobispordi-kaubad/basseinid-veehoidlad"
 								title="Basseinid ja PVC veehoidlad"
 							>
-							Basseinid / Veehoidlad</a
+								Basseinid / Veehoidlad</a
 							>
 						</h2>
 						<p>Basseinid koduaeda kui ka PVC veehoidlad kalakasvatustesse</p>
@@ -96,7 +119,7 @@
 			</li>
 			<li class="item">
 				<a
-					href=/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html
+					href="/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html"
 					title=" Lauajalgpalli lauad"
 					class="product-image"
 				>
@@ -111,10 +134,10 @@
 					<div class="f-fix">
 						<h2 class="product-name">
 							<a
-								href=/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html
+								href="/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html"
 								title=" Lauajalgpalli lauad"
 							>
-							Lauajalgpalli lauad</a
+								Lauajalgpalli lauad</a
 							>
 						</h2>
 						<p>Lauajalgpall harrastajatele soodsama hinnaga.</p>
@@ -127,7 +150,7 @@
 						</div>
 						<div class="desc std">
 							<a
-								href=/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html
+								href="/est/vaba-aeg/hobispordi-kaubad/lauajalgpall.html"
 								title=" Lauajalgpalli laud"
 								class="link-more">Vaata lähemalt >></a
 							>

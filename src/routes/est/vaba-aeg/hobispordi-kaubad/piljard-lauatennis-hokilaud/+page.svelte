@@ -15,7 +15,21 @@
 		image = img;
 		imageDesc = desc;
 	}
+
+	let meta_description = items.meta_description;
+	if (!items.meta_description && items.description_short)
+		meta_description = items.description_short;
+	if (!items.meta_description && !items.description_short && items.description)
+		meta_description = items.description.slice(0, 155) + '…';
+	let title_tag = items.title_tag;
+	if (!items.title_tag && items.title) title_tag = items.title_tag;
+	if (!items.title_tag && !items.title) title_tag = items.name;
 </script>
+
+<svelte:head>
+	<title>{items.title_tag} | PVCfactory.ee</title>
+	<meta name="description" content={meta_description} />
+</svelte:head>
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
@@ -123,7 +137,7 @@
 							<div class="product-shop">
 								<div class="f-fix">
 									<h2 class="product-name">
-									{#if product.image}
+										{#if product.image}
 											<button
 												class="product-url"
 												on:click={() => switchModal(product.image, product.title)}
@@ -199,4 +213,3 @@
 		width: 100%;
 	}
 </style>
-

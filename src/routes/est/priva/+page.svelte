@@ -12,6 +12,12 @@
 	}
 </script>
 
+
+<svelte:head>
+    <title>PVCfactory privaatsuspoliitika</title>
+    <meta name="description" content="Tutvu PVCfactory privaatsuspoliitika ning andmete käitlemise tingimustega." />
+</svelte:head>
+
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
 		><img src="http://cms.crewnew.com/assets/1" alt="PVC Factory telkide müügi kontakt" /></Modal

@@ -12,6 +12,12 @@
 	}
 </script>
 
+
+<svelte:head>
+    <title>Kontakt telgiproffidega | PVCfactory.ee</title>
+    <meta name="description" content="Küsimuste korral ja abi saamiseks e-poest ostmisel, kontakteeru telgiproffidega Harjumaal ja Tartumaal." />
+</svelte:head>
+
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
 		><img src="http://cms.crewnew.com/assets/1" alt="PVC Factory telkide müügi kontakt" /></Modal
