@@ -27,9 +27,9 @@
 													alt="Telkide laenutus &amp; ent"
 												/></a
 											>
-											<a href="/est/telkide-laenutus/peoinventar-56.html"
+											<a href="/est/telkide-myyk/laotelgid.html"
 												><img
-													src="/skin/frontend/default/hellowired/images/media/peoinventar-laenutus.jpg"
+													src="/skin/frontend/default/hellowired/images/media/pvc-laohallid.png"
 													alt="Peoinventari rent"
 												/></a
 											>
