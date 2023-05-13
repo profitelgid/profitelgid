@@ -152,7 +152,7 @@
 									<div class="price-box">
 										<p class="special-price">
 											<span class="price-label"> Hind:</span>
-											<span class="price" id="product-price-101"> {product.selling_price} </span>
+											<span class="price" id="product-price-101"> {product.selling_price}€ </span>
 										</p>
 									</div>
 									<div class="desc std">
