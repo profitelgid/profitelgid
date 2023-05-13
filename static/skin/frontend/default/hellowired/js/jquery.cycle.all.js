@@ -1,11 +1,11 @@
 /*!
  * jQuery Cycle Plugin (with Transition Definitions)
- * Examples and documentation at: http://jquery.malsup.com/cycle/
+ * Examples and documentation at: https://jquery.malsup.com/cycle/
  * Copyright (c) 2007-2010 M. Alsup
  * Version: 2.86 (05-APR-2010)
  * Dual licensed under the MIT and GPL licenses:
- * http://www.opensource.org/licenses/mit-license.php
- * http://www.gnu.org/licenses/gpl.html
+ * https://www.opensource.org/licenses/mit-license.php
+ * https://www.gnu.org/licenses/gpl.html
  * Requires: jQuery v1.2.6 or later
  */
 ;(function($) {
@@ -50,7 +50,7 @@ $.fn.cycle = function(options, arg2) {
 			});
 			return this;
 		}
-		// is your DOM ready?  http://docs.jquery.com/Tutorials:Introducing_$(document).ready()
+		// is your DOM ready?  https://docs.jquery.com/Tutorials:Introducing_$(document).ready()
 		log('terminating; zero elements found by selector' + ($.isReady ? '' : ' (DOM not ready)'));
 		return this;
 	}
@@ -273,7 +273,7 @@ function buildOptions($cont, $slides, els, options, o) {
 
 	// stretch container
 	var reshape = opts.containerResize && !$cont.innerHeight();
-	if (reshape) { // do this only if container has no size http://tinyurl.com/da2oa9
+	if (reshape) { // do this only if container has no size https://tinyurl.com/da2oa9
 		var maxw = 0, maxh = 0;
 		for(var j=0; j < els.length; j++) {
 			var $e = $(els[j]), e = $e[0], w = $e.outerWidth(), h = $e.outerHeight();
@@ -894,12 +894,12 @@ $.fn.cycle.defaults = {
 /*!
  * jQuery Cycle Plugin Transition Definitions
  * This script is a plugin for the jQuery Cycle Plugin
- * Examples and documentation at: http://malsup.com/jquery/cycle/
+ * Examples and documentation at: https://malsup.com/jquery/cycle/
  * Copyright (c) 2007-2008 M. Alsup
  * Version:	 2.72
  * Dual licensed under the MIT and GPL licenses:
- * http://www.opensource.org/licenses/mit-license.php
- * http://www.gnu.org/licenses/gpl.html
+ * https://www.opensource.org/licenses/mit-license.php
+ * https://www.gnu.org/licenses/gpl.html
  */
 (function($) {
 

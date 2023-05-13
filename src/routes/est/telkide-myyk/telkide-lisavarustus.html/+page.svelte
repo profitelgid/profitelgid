@@ -28,7 +28,7 @@
 
 {#if modal}
 	<Modal on:cancel={() => switchModal('')}
-		><img src="http://cms.crewnew.com/assets/{image}" alt={data.cms.title} /></Modal
+		><img src="https://cms.crewnew.com/assets/{image}" alt={data.cms.title} /></Modal
 	>
 {/if}
 
@@ -44,7 +44,7 @@
 					{#if product.image}
 						<button class="product-image" on:click={() => switchModal(product.image)}>
 							<img
-								src="http://cms.crewnew.com/assets/{product.image}"
+								src="https://cms.crewnew.com/assets/{product.image}"
 								class="product"
 								alt={data.cms.title}
 							/>

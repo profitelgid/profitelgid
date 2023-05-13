@@ -20,7 +20,7 @@
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
-		><img src="http://cms.crewnew.com/assets/1" alt="PVC Factory telkide müügi kontakt" /></Modal
+		><img src="https://cms.crewnew.com/assets/1" alt="PVC Factory telkide müügi kontakt" /></Modal
 	>
 {/if}
 
@@ -44,7 +44,7 @@
 							<p><strong>Andmete kaitse &amp; privaatsus</strong></p>
 							<p>Meil on karm poliitika, et me ei jaga kunagi mitte mingeid kliendi andmeid mitte &uuml;hegi teise ettev&otilde;ttega. Samuti ei saada me ka ise kunagi r&auml;mpsposti. Kui oled vabatahtlikult ise liitunud meie uudiskirjaga siis saadame maksimaalselt 3 kirja aastas parimate pakkumistega v&otilde;i loosime v&auml;lja lisavarustust. Kui Sa aga pole uudiskirjaga liitunud siis me ei saada Sulle &uuml;htegi kirja mitte kunagi!&nbsp;</p>
 							<p><strong>Turvaline online poodlemine</strong></p>
-							<p>Online tellimused toimuvad turvalises keskkonnas kasutades t&auml;nap&auml;eva tehnika viimast s&otilde;na, et kaitsta Sinu privaatsust. Kasutame turvalisusele suurt r&otilde;hku panevat servermajutuse teenusepakkujat ning meie e-pood on tellitud tipp programmeerijate poolt (<a href="http://e-stonia.ee" target="_blank">e-Stonia.ee</a>).</p>
+							<p>Online tellimused toimuvad turvalises keskkonnas kasutades t&auml;nap&auml;eva tehnika viimast s&otilde;na, et kaitsta Sinu privaatsust. Kasutame turvalisusele suurt r&otilde;hku panevat servermajutuse teenusepakkujat ning meie e-pood on tellitud tipp programmeerijate poolt (<a href="https://e-stonia.ee" target="_blank">e-Stonia.ee</a>).</p>
 					</div>
 				</div>
 

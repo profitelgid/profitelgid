@@ -27,7 +27,7 @@
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
-		><img src="http://cms.crewnew.com/assets/{image}" alt={imageDesc} /></Modal
+		><img src="https://cms.crewnew.com/assets/{image}" alt={imageDesc} /></Modal
 	>
 {/if}
 
@@ -78,7 +78,7 @@
 									<img
 										in:scale
 										class="productImage"
-										src="http://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
+										src="https://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
 										alt={image.directus_file.title}
 									/>
 								</button>

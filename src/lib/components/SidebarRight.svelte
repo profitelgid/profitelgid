@@ -7,7 +7,7 @@
 					alt="Liisi ja maksa telgi või peoinventari eest järelmaksuga"
 				/></a
 			><br /><br />
-			<a href="http://pvcfactory.ee/best"
+			<a href="https://pvcfactory.ee/best"
 				><img
 					src="/images/soodne.png"
 					width="195"

@@ -41,7 +41,7 @@
 					class="product-image"
 				>
 					<img
-						src="http://cms.crewnew.com/assets/8df700df-46e7-43df-b6c2-145bb874fd4b.jpg"
+						src="https://cms.crewnew.com/assets/8df700df-46e7-43df-b6c2-145bb874fd4b.jpg"
 						width="170"
 						height="170"
 						alt="Piljardilauad, Pinksilauad, Õhuhoki"
@@ -83,7 +83,7 @@
 					class="product-image"
 				>
 					<img
-						src="http://cms.crewnew.com/assets/71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png"
+						src="https://cms.crewnew.com/assets/71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png"
 						width="170"
 						height="170"
 						alt="Basseinid ja PVC veehoidlad"

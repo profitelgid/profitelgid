@@ -1,6 +1,6 @@
 /*
 * Really easy field validation with Prototype
-* http://tetlaw.id.au/view/javascript/really-easy-field-validation
+* https://tetlaw.id.au/view/javascript/really-easy-field-validation
 * Andrew Tetlaw
 * Version 1.5.4.1 (2007-01-05)
 *
@@ -544,11 +544,11 @@ Validation.addAllThese([
                 }
                 return (pass.value == conf.value);
             }],
-    ['validate-url', 'Please enter a valid URL. Protocol is required (http://, https:// or ftp://)', function (v) {
+    ['validate-url', 'Please enter a valid URL. Protocol is required (https://, https:// or ftp://)', function (v) {
                 v = (v || '').replace(/^\s+/, '').replace(/\s+$/, '');
                 return Validation.get('IsEmpty').test(v) || /^(http|https|ftp):\/\/(([A-Z0-9]([A-Z0-9_-]*[A-Z0-9]|))(\.[A-Z0-9]([A-Z0-9_-]*[A-Z0-9]|))*)(:(\d+))?(\/[A-Z0-9~](([A-Z0-9_~-]|\.)*[A-Z0-9~]|))*\/?(.*)?$/i.test(v)
             }],
-    ['validate-clean-url', 'Please enter a valid URL. For example http://www.example.com or www.example.com', function (v) {
+    ['validate-clean-url', 'Please enter a valid URL. For example https://www.example.com or www.example.com', function (v) {
                 return Validation.get('IsEmpty').test(v) || /^(http|https|ftp):\/\/(([A-Z0-9][A-Z0-9_-]*)(\.[A-Z0-9][A-Z0-9_-]*)+.(com|org|net|dk|at|us|tv|info|uk|co.uk|biz|se)$)(:(\d+))?\/?/i.test(v) || /^(www)((\.[A-Z0-9][A-Z0-9_-]*)+.(com|org|net|dk|at|us|tv|info|uk|co.uk|biz|se)$)(:(\d+))?\/?/i.test(v)
             }],
     ['validate-identifier', 'Please enter a valid URL Key. For example "example-page", "example-page.html" or "anotherlevel/example-page".', function (v) {

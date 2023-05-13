@@ -7,7 +7,7 @@
       class="logo"
     >
       <img
-        src="http://pvcfactory.ee/skin/frontend/default/hellowired/images/logo.gif"
+        src="https://pvcfactory.ee/skin/frontend/default/hellowired/images/logo.gif"
         alt="PVC telkide, PVC hallide ja PVC laohallide müük."
       /></a
     >

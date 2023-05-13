@@ -1,7 +1,7 @@
 // Universal transparent-PNG enabler for MSIE/Win 5.5+
-// http://dsandler.org
-// From original code: http://www.youngpup.net/?request=/snippets/sleight.xml
-// and background-image code: http://www.allinthehead.com/retro/69
+// https://dsandler.org
+// From original code: https://www.youngpup.net/?request=/snippets/sleight.xml
+// and background-image code: https://www.allinthehead.com/retro/69
 // also:
 //  * use sizingMethod=crop to avoid scaling PNGs (who would do such a thing?)
 //  * only do this once, to make it compatible with CSS rollovers
