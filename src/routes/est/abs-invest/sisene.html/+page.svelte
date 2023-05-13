@@ -48,7 +48,7 @@
 							</form>
 						</div>
 						<p>
-							<br /><br /><a href="/api/docmentation.md">Edasimüüjate API dokumentatsioon>></a>
+							<br /><br /><a href="/api/documentation.md">Edasimüüjate API dokumentatsioon>></a><br><br>
 							<em
 								>Soovid hakata edasimüüjaks? Kirjuta <a href="mailto:edasimyyjad@pvcfactory.ee"
 									>edasimyyjad@pvcfactory.ee</a
