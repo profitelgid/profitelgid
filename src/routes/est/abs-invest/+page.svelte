@@ -23,7 +23,7 @@
 				<div class="short-description">
 					<div class="std" in:scale>
 						<p><br><br>
-							<strong>Kontor:</strong> V&otilde;ru 4/6, Tartu 51010.<br><br> Vahelaod asuvad Aakres ja
+							<strong>Kontor:</strong> Vanemuise 19, Tartu 51003.<br><br> Vahelaod asuvad Aakres ja
 							Leedus. Tootmine Poolas.<strong />.
 						</p>
 						<h2>Kontaktvorm</h2>
