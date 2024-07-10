@@ -2,10 +2,12 @@
 	import { scale } from 'svelte/transition';
 </script>
 
-
 <svelte:head>
-    <title>Kontakt telgiproffidega | PVCfactory.ee</title>
-    <meta name="description" content="Küsimuste korral ja abi saamiseks e-poest ostmisel, kontakteeru telgiproffidega Harjumaal ja Tartumaal." />
+	<title>Kontakt telgiproffidega | PVCfactory.ee</title>
+	<meta
+		name="description"
+		content="Küsimuste korral ja abi saamiseks e-poest ostmisel, kontakteeru telgiproffidega Harjumaal ja Tartumaal."
+	/>
 </svelte:head>
 
 <div class="col-main span9">
@@ -22,9 +24,10 @@
 
 				<div class="short-description">
 					<div class="std" in:scale>
-						<p><br><br>
-							<strong>Kontor:</strong> Vanemuise 19, Tartu 51003.<br><br> Vahelaod asuvad Aakres ja
-							Leedus. Tootmine Poolas.<strong />.
+						<p>
+							<br /><br />
+							<strong>Kontor:</strong> Vanemuise 19, Tartu 51003.<br /><br /> Vahelaod asuvad Aakres
+							ja Leedus. Tootmine Poolas.<strong />.
 						</p>
 						<h2>Kontaktvorm</h2>
 						<p>
@@ -38,12 +41,14 @@
 									>KIIRESTI TELEFONI TEEL</span
 								>
 								&uuml;hendust saada siis: 52 888 46</strong
-							>. Vastasel juhul soovitame jätta enda esmaste soovide info ning Teiega võtab ühendust oma ala ekspert. Üldtelefonidel saate suhelda laotöötajaga, kes ei pruugi osata ekspertnõu anda.
+							>. Vastasel juhul soovitame jätta enda esmaste soovide info ning Teiega võtab ühendust
+							oma ala ekspert. Üldtelefonidel saate suhelda laotöötajaga, kes ei pruugi osata
+							ekspertnõu anda.
 						</p>
 						<p>
-							<em>Baltic24 OÜ (Reg. nr: 14282580 / KMKR: EE102286997) - Eesti tarned</em><br />
+							<!--<em>Baltic24 OÜ (Reg. nr: 14282580 / KMKR: EE102286997) - Eesti tarned</em><br />-->
 							<em
-								>Innovate Invest OÜ (Reg. nr: 14504365 / KMKR: EE102077931) - Otsetarned Saksamaalt</em
+								>Innovate Invest OÜ (Reg. nr: 14504365 / KMKR: EE102077931)<!-- - Otsetarned Saksamaalt--></em
 							><br />
 						</p>
 					</div>
