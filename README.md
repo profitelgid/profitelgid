@@ -3,6 +3,7 @@
 * Live site: https://pvcfactory.ee
 * Deployment: https://profi-telgid.vercel.app/
 * API endpoint: https://apps.admin.servicehost.io/v1/graphql
+* Github u: info@pvcfactory.ee / A!A!
 
 ## Creating a project
 
