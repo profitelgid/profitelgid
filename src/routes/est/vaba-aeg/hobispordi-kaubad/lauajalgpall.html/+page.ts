@@ -1,6 +1,6 @@
 export const load = ({ fetch, params }) => {
     const fetchItem = async (slug) => {
-        const res = await fetch('https://apps.crewnew.com/v1/graphql', {
+        const res = await fetch('https://apps.admin.servicehost.io/v1/graphql', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'

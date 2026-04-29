@@ -27,7 +27,7 @@
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
-		><img src="https://cms.crewnew.com/assets/{image}" alt={imageDesc} /></Modal
+		><img src="https://cms.admin.servicehost.io/assets/{image}" alt={imageDesc} /></Modal
 	>
 {/if}
 
@@ -58,7 +58,7 @@
 						in:scale
 						class="mainImage"
 						style="height:350px"
-						src="https://cms.crewnew.com/assets/{data.cms.image}"
+						src="https://cms.admin.servicehost.io/assets/{data.cms.image}"
 						alt="Tugevad profitelgid"
 						title="Tugevad profitelgid"
 					/>
@@ -78,7 +78,7 @@
 									<img
 										in:scale
 										class="productImage"
-										src="https://cms.crewnew.com/assets/{image.directus_file.filename_disk}"
+										src="https://cms.admin.servicehost.io/assets/{image.directus_file.filename_disk}"
 										alt={image.directus_file.title}
 									/>
 								</button>

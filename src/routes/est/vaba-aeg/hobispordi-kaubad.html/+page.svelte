@@ -22,7 +22,7 @@
 		<h1>
 			<img
 				class="cat_image"
-				src="https://cms.crewnew.com/assets/{data.cms.image}"
+				src="https://cms.admin.servicehost.io/assets/{data.cms.image}"
 				alt="Pop-up telgid"
 				title="Pop-up kergtelgid"
 			/>
@@ -41,7 +41,7 @@
 					class="product-image"
 				>
 					<img
-						src="https://cms.crewnew.com/assets/8df700df-46e7-43df-b6c2-145bb874fd4b.jpg"
+						src="https://cms.admin.servicehost.io/assets/8df700df-46e7-43df-b6c2-145bb874fd4b.jpg"
 						width="170"
 						height="170"
 						alt="Piljardilauad, Pinksilauad, Õhuhoki"
@@ -83,7 +83,7 @@
 					class="product-image"
 				>
 					<img
-						src="https://cms.crewnew.com/assets/71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png"
+						src="https://cms.admin.servicehost.io/assets/71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png"
 						width="170"
 						height="170"
 						alt="Basseinid ja PVC veehoidlad"
@@ -124,7 +124,7 @@
 					class="product-image"
 				>
 					<img
-						src="https://cms.crewnew.com/assets/b05159a2-c3a0-46a5-b406-d21741d26d95.jpg"
+						src="https://cms.admin.servicehost.io/assets/b05159a2-c3a0-46a5-b406-d21741d26d95.jpg"
 						width="170"
 						height="170"
 						alt=" Lauajalgpalli lauad"

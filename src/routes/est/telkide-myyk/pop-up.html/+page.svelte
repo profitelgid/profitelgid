@@ -22,7 +22,7 @@
 		<h1>
 			<img
 				class="cat_image"
-				src="https://cms.crewnew.com/assets/{data.cms.image}"
+				src="https://cms.admin.servicehost.io/assets/{data.cms.image}"
 				alt="Pop-up telgid"
 				title="Pop-up kergtelgid"
 			/>

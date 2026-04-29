@@ -10,7 +10,7 @@
                 class="product-image"
             >
                 <img
-                    src="https://cms.crewnew.com/assets/deb43c91-cb9f-44f2-a7cf-c1f418f85950"
+                    src="https://cms.admin.servicehost.io/assets/deb43c91-cb9f-44f2-a7cf-c1f418f85950"
                     width="170"
                     height="170"
                     alt="PopUp"
@@ -64,7 +64,7 @@
                 class="product-image"
             >
                 <img
-                    src="https://cms.crewnew.com/assets/236e358d-575c-4040-bec2-0236e6377663"
+                    src="https://cms.admin.servicehost.io/assets/236e358d-575c-4040-bec2-0236e6377663"
                     width="170"
                     height="170"
                     alt="Classic Alu Easyup laadatelk"

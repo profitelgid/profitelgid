@@ -31,7 +31,7 @@
 						class="product-image"
 					>
 						<img
-							src="https://cms.crewnew.com/assets/{product.image}"
+							src="https://cms.admin.servicehost.io/assets/{product.image}"
 							class="product"
 							alt="Peoinventari müük"
 						/></a

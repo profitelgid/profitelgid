@@ -2,7 +2,7 @@
 
 ## Authentication & endpoint
 
-GraphQL Endpoint: https://apps.crewnew.com/v1/graphql
+GraphQL Endpoint: https://apps.admin.servicehost.io/v1/graphql
 
 No authentication needed for everything that is publicly seen in the website. Request limitation is 10 requests per month. For higher rate limits and reseller pricing please do contact development@pvcfactory.ee
 

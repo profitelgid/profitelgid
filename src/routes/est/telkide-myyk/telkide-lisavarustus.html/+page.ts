@@ -1,7 +1,7 @@
 /** @type {import('./$types').PageLoad} */
 
 export async function load() {
-  const data = await fetch('https://apps.crewnew.com/v1/graphql', {
+  const data = await fetch('https://apps.admin.servicehost.io/v1/graphql', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json'
