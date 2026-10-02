@@ -5,9 +5,16 @@
 				"source": "github",
 				"repo": "kasparpalgi/klarity-claude-kit"
 			}
+		},
+		"agricidaniel-claude-seo": {
+			"source": {
+				"source": "github",
+				"repo": "AgriciDaniel/claude-seo"
+			}
 		}
 	},
 	"enabledPlugins": {
-		"dev-kit@klarity": true
+		"dev-kit@klarity": true,
+		"claude-seo@agricidaniel-claude-seo": true
 	}
 }
