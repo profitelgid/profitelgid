@@ -15,3 +15,4 @@ https://manuals.plus/shelter/304020dp-double-truss-storage-shelter-manual - get 
 - Follow-up: model renamed to PVC304020DP3 throughout (title, cover, parts list, file name), manuals.plus source note removed, PVCfactory.ee added on the cover and the last page.
 
 _GitHub issue #4 — end the commit subject with `(#4)`._
+- Follow-up 2: product sheet now uses PVC304020DP3 only; manuals.plus source link removed from it.
