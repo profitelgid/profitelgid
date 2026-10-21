@@ -15,3 +15,5 @@ use the chrome browser
 - `doc/providers/inamiot/9x12m-GS304020/paigaldus/` – 17 assembly-instruction figures from inamiot.pl; the iNamiot watermark in 02 was replaced with PVCfactory.
 - Found the factory manual (model 304020DP) on manuals.plus and two supplier YouTube videos.
 - Open questions for the supplier: snow load 0.23 vs 0.28 kPa (drawing vs spec), purlin bolt M10×75 vs M8×65 (parts list vs text).
+
+_GitHub issue #3 — end the commit subject with `(#3)`._
