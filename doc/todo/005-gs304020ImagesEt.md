@@ -18,3 +18,5 @@ Checked all 12 photos and 17 assembly figures in `doc/providers/inamiot/9x12m-GS
 - `paigaldus/17-uste-paigaldus.png` – "Seo terastrossid", "Seo terastross alumise toru külge".
 
 The other figures are English-only labels/part numbers or contain no text; left as is. Done with a Pillow script (Liberation Serif, Noto Sans, Anton, Poppins Light); originals remain in git history.
+
+_GitHub issue #5 — end the commit subject with `(#5)`._
