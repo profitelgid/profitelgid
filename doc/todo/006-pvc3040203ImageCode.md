@@ -14,3 +14,5 @@ Checked all 12 photos and 17 assembly figures in `doc/providers/inamiot/9x12m-GS
 - `10-joonis-perspektiiv-mootmed.jpg` – MUDEL cell of the dimensions table.
 
 `paigaldus/01-osade-nimekiri.png` was left as is: its 303020…308020 columns are the factory size series (quantities per tent length), not this product's number. No other image carries a model code.
+
+_GitHub issue #6 — end the commit subject with `(#6)`._
