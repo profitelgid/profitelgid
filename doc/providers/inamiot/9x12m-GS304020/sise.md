@@ -11,3 +11,10 @@ Märkused:
 | Transport | 3 419,40 zł koos KM-ga, veoautoga; PL 1–2 tööpäeva, EL 1–5 päeva |
 | Laoseis | 3 tk; laost otsas olles tarne ~4–5 kuud |
 | Varuosad | saadaval 5 aastat ostust |
+
+## Videod ja lisamaterjal
+
+- Hankija paigaldusvideo (sama seeria hall): https://www.youtube.com/watch?v=h_OFFdm0VoI – „Instrukcja Montażu Hali Namiotowej“
+- Eestikeelne paigaldusjuhend, mudel PVC304020DP3 (PDF, joonistega): [paigaldusjuhend-PVC304020DP3-et.pdf](9x12m-GS304020/paigaldusjuhend-PVC304020DP3-et.pdf)
+- Hankija paigaldusjuhend veebis (poola k): https://inamiot.pl/instrukcja-montazu-hali-namiotowej
+- Sarnane 30′ × 40′ viilkatusega laohall, kokkupanek (teine tootja, mitte identne raam): https://www.youtube.com/watch?v=MbZsmB06kTQ
