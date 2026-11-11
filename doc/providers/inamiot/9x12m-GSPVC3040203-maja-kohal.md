@@ -20,7 +20,7 @@ vertikaalselt ~37 cm, sest katus on kaldu. Telgi sisemine vaba profiil (alus maa
 | Laius | 9,15 m | ~8,5 m (all põranda juures ~8,6 m) |
 | Külgsein (kuni kaare alguseni) | 3,80 m | ~3,5 m |
 | Hari | 6,10 m | ~5,7 m |
-| Katus 3,75 m kaugusel keskjoonest (Teie räästa kohal) | ~4,2 m | ~3,8 m |
+| Katus 3,75 m kaugusel keskjoonest (räästa kohal) | ~4,2 m | ~3,8 m |
 | Põrandapind | ~111,6 m² | ~104 m² |
 
 Fermide vahel (kaared on iga 3,05 m järel) on ruumi rohkem, aga maja katus jääb kõigi kaarte
