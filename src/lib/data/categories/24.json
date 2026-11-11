@@ -1,0 +1,74 @@
+{
+	"products": [
+		{
+			"title": "1x2m akvaarium, kalakasvatuse bassein, 1m kõrgus",
+			"selling_price": 175,
+			"colors": [
+				" sinine"
+			],
+			"image": "71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png"
+		},
+		{
+			"title": "1x3m akvaarium, kalakasvatuse bassein, 1m kõrgus",
+			"selling_price": 205,
+			"colors": [
+				" sinine"
+			],
+			"image": "71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png"
+		},
+		{
+			"title": "2x2m akvaarium, kalakasvatuse bassein, 1m kõrgus",
+			"selling_price": 210,
+			"colors": [
+				" sinine"
+			],
+			"image": "71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png"
+		},
+		{
+			"title": "2x3m akvaarium, kalakasvatuse bassein, 1m kõrgus",
+			"selling_price": 270,
+			"colors": [
+				" sinine"
+			],
+			"image": "71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png"
+		}
+	],
+	"products_category": {
+		"name": "Hobispordi kaubad",
+		"products_categories": [
+			{
+				"name": " Lauajalgpalli lauad",
+				"slug": null
+			},
+			{
+				"name": "Piljardilauad, Pinksilauad, Õhuhoki",
+				"slug": "piljard-lauatennis-hokilaud"
+			},
+			{
+				"name": "Basseinid / Veehoidlad",
+				"slug": "basseinid-veehoidlad"
+			}
+		]
+	},
+	"name": "Basseinid / Veehoidlad",
+	"title": "Basseinid / PVC Veehoidlad",
+	"coating_material": null,
+	"description": "<p>Pakume r&auml;ptsept&ouml;&ouml;na v&auml;ga erinevates m&otilde;&otilde;tudes PVC basseine kui ka veehoidlaid. Palume, oma t&auml;psemate soovidega &uuml;hendust v&otilde;tta.</p>\n<p>Allpool toodud vaid m&otilde;ned n&auml;idistooted.</p>",
+	"description_short": "Basseinid koduaeda kui ka PVC veehoidlad kalakasvatustesse",
+	"image": "71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png",
+	"title_tag": "PVC basseinid ja PVC veehoidlad kalakasvatustesse",
+	"title_og": null,
+	"parent_id": 2,
+	"meta_description": "PVC veehoidla on soodsaim viis luua tööstuslik veehoidla või bassein kalakavsatuseks või muul tööstuslikul eesmärgil. PVC factory pakub laia valikut PVC veehoidlaid.",
+	"keywords": null,
+	"image_og": null,
+	"description_og": null,
+	"products_categories_files": [
+		{
+			"directus_file": {
+				"filename_disk": "71267a0e-1211-4dc1-9ce7-3d3d01430aa6.png",
+				"title": "Bassein Kalafarm"
+			}
+		}
+	]
+}

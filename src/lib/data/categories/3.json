@@ -1,0 +1,57 @@
+{
+	"products": [
+		{
+			"title": "Lauajalgpalli laud",
+			"selling_price": 90.85,
+			"colors": [
+				" pruun"
+			],
+			"image": "b05159a2-c3a0-46a5-b406-d21741d26d95.jpg"
+		},
+		{
+			"title": "Ülesklapitav lauajalgpalli laud",
+			"selling_price": 165,
+			"colors": [
+				" must"
+			],
+			"image": "ee007659-1140-4f45-ad7f-34f812c7b7cc.png"
+		},
+		{
+			"title": "10 in 1 lauajalgpalli laud, piljardi laud, pinksilaud, õhuhoki laud, bowling jpm.",
+			"selling_price": 250,
+			"colors": null,
+			"image": "7347c589-95ca-48ca-a419-11a60c47eeb6.jpg"
+		}
+	],
+	"products_category": {
+		"name": "Hobispordi kaubad",
+		"products_categories": [
+			{
+				"name": " Lauajalgpalli lauad",
+				"slug": null
+			},
+			{
+				"name": "Piljardilauad, Pinksilauad, Õhuhoki",
+				"slug": "piljard-lauatennis-hokilaud"
+			},
+			{
+				"name": "Basseinid / Veehoidlad",
+				"slug": "basseinid-veehoidlad"
+			}
+		]
+	},
+	"name": " Lauajalgpalli lauad",
+	"title": "Lauajalgpalli lauad",
+	"coating_material": null,
+	"description": null,
+	"description_short": "Lauajalgpall harrastajatele soodsama hinnaga.",
+	"image": "b05159a2-c3a0-46a5-b406-d21741d26d95.jpg",
+	"title_tag": "Soodsad lauajalgpalli lauad",
+	"title_og": null,
+	"parent_id": 2,
+	"meta_description": "Vastupidavad ja kvaliteetsed lauajalgpalli lauad soodsa hinnaga. PVC tehase toodetud lauajalgpalli laud on parim kingitus.",
+	"keywords": null,
+	"image_og": null,
+	"description_og": null,
+	"products_categories_files": []
+}

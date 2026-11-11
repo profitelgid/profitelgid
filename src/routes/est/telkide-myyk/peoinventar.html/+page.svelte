@@ -31,7 +31,7 @@
 						class="product-image"
 					>
 						<img
-							src="https://cms.admin.servicehost.io/assets/{product.image}"
+							src="/cms/{product.image}"
 							class="product"
 							alt="Peoinventari müük"
 						/></a

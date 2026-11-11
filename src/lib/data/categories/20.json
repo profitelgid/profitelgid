@@ -1,0 +1,63 @@
+{
+	"products": [
+		{
+			"title": "LED valguskett (20 pirni)",
+			"selling_price": 35,
+			"description": "<p><span>Ideaalne peo- ja &otilde;lletelgi valgustus. Soe valge valgus. Sobib ka aiavalgustuseks, &uuml;ritustele, laadatelgile jne. Loob m&otilde;nusa atmosf&auml;&auml;ri. Max. 2W voolutarbega. Diameeter ca. </span><span>4cm ja pirnide vahe 30cm. Keti pikkus ca. 10m ning koos voolu juhtmega 16m. IP44 v&auml;listingimustes kasutamise klass. GS turvalisuse testid l&auml;bitud. Tellides v&auml;hemalt 2tk v&otilde;i telgiga koos ostes hind &euro;35, muidu &euro;40.</span></p>",
+			"colors": [
+				" valge"
+			],
+			"image": "0af3fa4e-5b37-41a8-8a3c-f32c46244588.png"
+		},
+		{
+			"title": "LED valguskett (40 pirni)",
+			"selling_price": 45,
+			"description": "<p>Ideaalne peo- ja &otilde;lletelgi valgustus. Soe valge valgus. Sobib ka aiavalgustuseks, &uuml;ritustele, laadatelgile jne. Loob m&otilde;nusa atmosf&auml;&auml;ri. Max. 2W voolutarbega. Diameeter ca. 4cm ja pirnide vahe 30cm. Keti kogupikkus ca. 22m. Voolu kaabel 10m. IP44 v&auml;listingimustes kasutamise klass. GS turvalisuse testid l&auml;bitud. Tellides v&auml;hemalt 2tk v&otilde;i telgiga koos ostes hind &euro;45, muidu &euro;50.</p>",
+			"colors": [
+				" valge"
+			],
+			"image": "8daa907a-1ce6-4df1-8393-371b0ec9e326.png"
+		},
+		{
+			"title": "Kokkupandav kerge laud (müügilett, peolaud või õllelaud)",
+			"selling_price": 54,
+			"description": "<p>Ideaalne laud koduaia peoks v&otilde;i firma&uuml;rituseks. Kohustuslik valik laatade k&uuml;lastajatele leti lauaks. Ilmsatikukindel pol&uuml;et&uuml;leenkattega terasest tugev raam, mille kandv&otilde;ime on 190kg. Kompaktne ning k&otilde;igest 17kg ning seega &uuml;limugav kaasas kanda. Tugev plastpind garanteerib aastatepikkuse kasutuse ilma kaubanduslikku v&auml;limust kaotamata. M&otilde;&otilde;dud: 180x75cm. Hind koos telgiga ostes &euro;42. Eraldi ostes &euro;59.</p>",
+			"colors": [
+				" valge"
+			],
+			"image": "1a0251f4-072a-4a2f-aca7-cbb6d7536e4c.jpg"
+		},
+		{
+			"title": "1x2m lavamoodul",
+			"selling_price": 200,
+			"description": "<p>Materjal: alumiinium ja veekindel vineer (ei ole libe). Kandev&otilde;ime 750kg/m2. Hind ostes 4tk v&otilde;i telgiga koos &euro;200. Muidu &euro;240.</p>",
+			"colors": [],
+			"image": "dd57101a-0306-4c8e-96be-efe4fa3bf679.png"
+		}
+	],
+	"products_category": {
+		"name": "EST",
+		"products_categories": [
+			{
+				"name": "Telgid & PVC Hallid",
+				"slug": null
+			},
+			{
+				"name": "Hobispordi kaubad",
+				"slug": null
+			},
+			{
+				"name": "Peoinventar",
+				"slug": "peoinventar"
+			}
+		]
+	},
+	"title": "Peoinventar ja laadakaubad",
+	"title_tag": "Peoinventar, valgustus & lavamoodulid",
+	"title_og": null,
+	"meta_description": "Kokkupandavad lauad / müügiletid, valgustus telki või PVC halli ning lavamoodulid. Müük suurimas telkide ning PVC toodete e-kaubamajas Eestis.",
+	"keywords": null,
+	"image_og": null,
+	"description_og": null,
+	"products_categories_files": []
+}

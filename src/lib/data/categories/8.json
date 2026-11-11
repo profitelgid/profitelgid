@@ -1,0 +1,141 @@
+{
+	"products": [
+		{
+			"title": "3.6x3.1m Popup Hex Home",
+			"selling_price": 268.49,
+			"colors": [
+				"hall"
+			],
+			"image": "2aa00341-e3f2-4c60-8cc1-2a813e7a4e20.png"
+		},
+		{
+			"title": "Star-telk 12m",
+			"selling_price": 287.99,
+			"colors": [
+				"valge"
+			],
+			"image": "1d4d3a37-f84d-4a1d-9418-73f5f4d9248c.png"
+		},
+		{
+			"title": "Star-telk 14m",
+			"selling_price": 430.49,
+			"colors": [
+				"valge"
+			],
+			"image": "1d4d3a37-f84d-4a1d-9418-73f5f4d9248c.png"
+		},
+		{
+			"title": "Star-telk 14m Premium",
+			"selling_price": 449.25,
+			"colors": [
+				" kirsipunane"
+			],
+			"image": "28afc28d-7d40-4f33-8584-5f3a477f7800.png"
+		},
+		{
+			"title": "Star-telk 14m Premium",
+			"selling_price": 560,
+			"colors": [
+				" valge"
+			],
+			"image": "36e3602f-2e9e-48d0-8a32-1cccf7eb6995.jpg"
+		},
+		{
+			"title": "6x8m Double Star kahe tipuga PRO+",
+			"selling_price": 1972.5,
+			"colors": [
+				" valge"
+			],
+			"image": "00c7f083-67ff-4bce-9f57-316ff1364d57.jpg"
+		},
+		{
+			"title": "8x12m Double Star kahe tipuga täht telk PRO+",
+			"selling_price": 2478,
+			"colors": [
+				" valge",
+				" must"
+			],
+			"image": "4a8f2eed-173b-490a-b319-96b681376325.png"
+		}
+	],
+	"products_category": {
+		"name": "Telgid & PVC Hallid",
+		"products_categories": [
+			{
+				"name": "Laotelgid & tulekindlad telgid",
+				"slug": "laotelgid"
+			},
+			{
+				"name": "PVC hallid & kaarhallid",
+				"slug": "pvc-hallid-kaarhallid"
+			},
+			{
+				"name": "EasyFlex Premium moodultelgid",
+				"slug": "moodul-pro"
+			},
+			{
+				"name": "Tugevad profitelgid",
+				"slug": "profitelk-muuk"
+			},
+			{
+				"name": "Popup kergtelgid",
+				"slug": "pop-up"
+			},
+			{
+				"name": "Star Telgid",
+				"slug": "umartelgid"
+			},
+			{
+				"name": "Kuppeltelgid",
+				"slug": null
+			},
+			{
+				"name": "Täispuhutavad telgid",
+				"slug": null
+			},
+			{
+				"name": "Telkide lisavarustus",
+				"slug": "telkide-lisavarustus"
+			}
+		]
+	},
+	"name": "Star Telgid",
+	"title": "Star telgid ja ümartelgid",
+	"coating_material": "Polüester või PVC",
+	"description": "<p>&Uuml;martelgid, rotund t&uuml;&uuml;pi telgid ja &uuml;he kui ka kahe tipuga double-star telgid. Kvaliteetseimad telgid profitelkidest parima hinnaga!</p>\n<p>&Uuml;he tipuga star-telgid on soodsaima ruutmeetri hinnaga telgid &uuml;ldse. Telgil on keskel &uuml;ks pikk 5m post ning sellele toetub telgi &uuml;hes t&uuml;kis kattematerjal. M&otilde;&otilde;tudes 10x10m kuni 14x14m l&auml;bim&otilde;&otilde;duga.</p>\n<p>Kahe tipuga star telgid on m&otilde;&otilde;tudes 8x12m, 10x14m, 12x17m, 14x19m, 16x21m ja sarnased m&otilde;&otilde;dud. Siin kategoorias pole k&otilde;iki telke &uuml;leval ning soovitame &uuml;hendust v&otilde;tta ning teada anda, mis m&otilde;&otilde;tudes minimaalselt/maksimaalselt on soov telk osta.</p>\n<p>PRO+ seeria telgid on &uuml;litugeva PVC kattematerjaliga ning Premium/PRO/PRO+ on&nbsp;</p>",
+	"description_short": "Star-telgid ja Kahe tipuga double-star-telgid ehk täht-telgid ning ümartelgid",
+	"image": "b60165f8-5973-45fc-afba-47c8ccb3424f.png",
+	"title_tag": "Star-telgid, ümartelgid ja kahe tipuga Star telgid",
+	"title_og": null,
+	"parent_id": 4,
+	"meta_description": "Suurimast PVC telkide tootja e-poest leiad laias ümartelgid, rotund tüüpi telgid ja ühe kui ka kahe tipuga double-star telgid. Kvaliteetseimad telgid alati parima hinnaga.",
+	"keywords": null,
+	"image_og": null,
+	"description_og": null,
+	"products_categories_files": [
+		{
+			"directus_file": {
+				"filename_disk": "4a8f2eed-173b-490a-b319-96b681376325.png",
+				"title": "Kahe tipuga täht-telk \"Monster\""
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "00c7f083-67ff-4bce-9f57-316ff1364d57.jpg",
+				"title": "Kahe tipuga double-star"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "28afc28d-7d40-4f33-8584-5f3a477f7800.png",
+				"title": "Star telk 14m Premium"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "76b14d88-9f57-4496-be54-e487c0c6a028.png",
+				"title": "Double-star 6x12m valge telk"
+			}
+		}
+	]
+}

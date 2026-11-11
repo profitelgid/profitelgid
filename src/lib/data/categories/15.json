@@ -1,0 +1,213 @@
+{
+	"products": [
+		{
+			"title": "2x2m Popup Profi",
+			"selling_price": 380,
+			"colors": [
+				" valge",
+				" sinine",
+				" hall",
+				" punane",
+				" kirsipunane",
+				" beež",
+				" must"
+			],
+			"image": "18abd492-143b-4716-8f82-68b46d9ed3fc.png"
+		},
+		{
+			"title": "3x3m Popup Profi",
+			"selling_price": 440,
+			"colors": [
+				"roheline"
+			],
+			"image": "ded52d3a-ad1b-4a6d-8ea6-82b5311508f6.png"
+		},
+		{
+			"title": "3x3m Popup Profi",
+			"selling_price": 470,
+			"colors": [
+				" valge",
+				" roheline",
+				" sinine",
+				" hall",
+				" punane",
+				" kirsipunane",
+				" tumehall",
+				" beež",
+				" must",
+				" oranž",
+				"kollane"
+			],
+			"image": null
+		},
+		{
+			"title": "3x3m Popup Profi 50mm",
+			"selling_price": 580,
+			"colors": [
+				"valge",
+				"roheline",
+				"hall",
+				"punane",
+				"tumehall",
+				"must",
+				"oranž",
+				"pruun"
+			],
+			"image": "0ab86c2c-9eec-411d-b916-d8c041f652db.png"
+		},
+		{
+			"title": "3x3m Popup Profi M-seeria",
+			"selling_price": 595,
+			"colors": [
+				" valge",
+				" roheline",
+				" sinine",
+				" punane",
+				" tumehall",
+				" beež",
+				" must"
+			],
+			"image": null
+		},
+		{
+			"title": "3x4.5m Popup Profi",
+			"selling_price": 670,
+			"colors": [
+				" roheline"
+			],
+			"image": "a9e06d05-5212-4fc8-84df-86602c7bfc3c.png"
+		},
+		{
+			"title": "3x6m Popup Profi",
+			"selling_price": 725,
+			"colors": [
+				"valge",
+				"sinine",
+				"hall",
+				"punane",
+				"beež",
+				"must",
+				"oranž"
+			],
+			"image": "562b4614-0ece-46c6-ac7f-426640a81841.png"
+		},
+		{
+			"title": "4x6m Popup Profi",
+			"selling_price": 920,
+			"colors": [
+				"valge",
+				"sinine",
+				"hall",
+				"punane",
+				"beež",
+				"must",
+				"oranž"
+			],
+			"image": "301507d7-fa01-4e61-9ee9-91d3ff55964f.jpg"
+		},
+		{
+			"title": "3x3m Popup Profi HEX45 Premium",
+			"selling_price": 990,
+			"colors": [
+				" roheline",
+				" sinine",
+				" punane"
+			],
+			"image": "02c510dd-5d74-4926-9918-d4c6fb9e789e.png"
+		},
+		{
+			"title": "4x8m Popup Profi",
+			"selling_price": 1155,
+			"colors": [
+				"valge",
+				"sinine",
+				"hall",
+				"punane",
+				"beež",
+				"must",
+				"oranž"
+			],
+			"image": "2eb4a9b6-c305-4d11-8178-760789d93e64.png"
+		}
+	],
+	"products_category": {
+		"name": "Popup kergtelgid",
+		"products_categories": [
+			{
+				"name": "Popup Profi",
+				"slug": "kuuskant-hex-profi-popup"
+			},
+			{
+				"name": "Popup Classic Alu (kergtelgid)",
+				"slug": "soodsad-easyup"
+			},
+			{
+				"name": "Popup Home (soodsaim)",
+				"slug": "popup-koduaeda"
+			}
+		]
+	},
+	"name": "Popup Profi",
+	"title": "40-50mm raamiga PRO seeria tugevaimad pop-up telgid",
+	"coating_material": "Polüester/PVC 650D 100% vee-, UV- ja tulekindel",
+	"description": "<p>Tegemist on raskeima ja vastupidavaima raamiga pop-up telgiga. Loomulikult muiudgi pol&uuml;ester/PVC ei ole v&otilde;rreldav PVC telkide vastupidavusega aga pop-up telgi mugavus, et katust ei peaks maha v&otilde;tma kokku panemisel, v&auml;listab tugevaima ka &uuml;le 10a vastu pidava PVC katte kasutamise. Aga PRO ja Classic seeria telkide kattematerjal on siiski pop-up telkide kohta vastupidav. Telgi k&uuml;ljek&otilde;rgus reguleeritav 2,0-2,1-2,2m. Tipu k&otilde;rgus: 3,25-3,45m.</p>\n<p>Telgi raam on &uuml;hes t&uuml;kis ning ka katust ei pea maha v&otilde;tma ja eraldi paigaldama - selle saab raami k&uuml;lge j&auml;tta. Telgi paigaldus on kiire ja lihtne, kuid suuremate m&otilde;&otilde;tude puhul ning eriti 50mm raamiga telkide puhul tuleb arvestada, et telk on &uuml;sna raske sest materjal on tugev ja paks!&nbsp;<a href=\"https://www.youtube.com/watch?v=pm5EFYahKrk\" target=\"_blank\" rel=\"noopener\">Vaata meie partner GalaTent videot telgi paigaldusest&gt;&gt;</a></p>\n<p>Antud telkidest saab ehitada ka suuremaid telke &uuml;hendades telke spetsiaalse kergesti paigaldatava renniga. N&auml;iteks kolmest 4x6m telgist saab m&otilde;ne minutiga 6x12m telk, mis on vihmakindel, kus keskel pole &uuml;htegi jalga ja seega on see tehniliselt &uuml;ks telk!</p>",
+	"description_short": "Raskekaalulisemad profitelgid ööseks välja jätmiseks",
+	"image": "2eb4a9b6-c305-4d11-8178-760789d93e64.png",
+	"title_tag": "Kvaliteetseimad PRO raamiga popup telgid",
+	"title_og": null,
+	"parent_id": 7,
+	"meta_description": "Kvaliteetseimad popup ehk easyup kergesti paigaldatavad polüester/PVC telgid. Lai valik telke suurimas telgipoes Eestis. PRO seeria pop-up telgid on raskekaalulisemad telgid ka ööseks välja jätmiseks.",
+	"keywords": null,
+	"image_og": null,
+	"description_og": null,
+	"products_categories_files": [
+		{
+			"directus_file": {
+				"filename_disk": "0d502be9-b757-40da-8cc3-9ffe4bbf2059.png",
+				"title": "3x3m Popup Profi"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "c8af0370-2e1d-4829-8393-5046b7b725fb.png",
+				"title": "3x6m Pro Popup Telk Koduaias.png"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "659a9c64-6549-4218-bcc1-5ce0dcb47a31.jpg",
+				"title": "Nurgast Easyup 1.jpg"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "50ea1b41-c16b-432a-8093-93abc8b3c6df.jpg",
+				"title": "Popup Tipp 1.jpg"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "32b4fa3a-063e-4e57-abce-83bade30c55b.jpg",
+				"title": "Kotis Telk 1.jpg"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "f2aef414-f168-4e7e-a16d-069baf6dbad4.jpg",
+				"title": "Telgi Raam 1.jpg"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "55cd003d-be21-4789-a80b-caf8b40ee6b3.jpg",
+				"title": "Easyup Lahti 1.jpg"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "34ec01d8-eaff-402b-bb35-0651ab9b4702.jpg",
+				"title": "Soodne Telk 1.jpg"
+			}
+		}
+	]
+}

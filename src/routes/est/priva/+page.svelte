@@ -20,7 +20,7 @@
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
-		><img src="https://cms.admin.servicehost.io/assets/1" alt="PVC Factory telkide müügi kontakt" /></Modal
+		><img src="/images/pvc-laohallide-kontakt.png" alt="PVC Factory telkide müügi kontakt" /></Modal
 	>
 {/if}
 

@@ -1,0 +1,89 @@
+{
+	"products": [
+		{
+			"title": "2x2m Home (pole popup)",
+			"selling_price": 139.48,
+			"colors": [
+				" valge",
+				" roheline",
+				" sinine",
+				" tumehall"
+			],
+			"image": "eb5bddec-1045-4fb8-a161-eebe70cd2b05.png"
+		},
+		{
+			"title": "3x3m Popup Home + 4 jalaraskust",
+			"selling_price": 195,
+			"colors": [
+				"sinine"
+			],
+			"image": "b0704f0a-4bb9-4eb5-8827-ebaadee17f16.png"
+		},
+		{
+			"title": "3x4.5m Popup Home",
+			"selling_price": 293.99,
+			"colors": [
+				"hall"
+			],
+			"image": "ef01491e-b73e-48ac-8797-98583459171c.png"
+		},
+		{
+			"title": "3x4.5m Popup Home",
+			"selling_price": 295.84,
+			"colors": null,
+			"image": null
+		},
+		{
+			"title": "3x6m Popup Home",
+			"selling_price": 320.99,
+			"colors": [
+				"hall"
+			],
+			"image": "ee9ce388-7407-4aa5-a7db-0a53b1f5f9da.png"
+		}
+	],
+	"products_category": {
+		"name": "Popup kergtelgid",
+		"products_categories": [
+			{
+				"name": "Popup Profi",
+				"slug": "kuuskant-hex-profi-popup"
+			},
+			{
+				"name": "Popup Classic Alu (kergtelgid)",
+				"slug": "soodsad-easyup"
+			},
+			{
+				"name": "Popup Home (soodsaim)",
+				"slug": "popup-koduaeda"
+			}
+		]
+	},
+	"name": "Popup Home (soodsaim)",
+	"title": "Pop-up Home soodsad, kerged ja väiksed popup telgid",
+	"coating_material": "Polüester (190g/m2) veekindel",
+	"description": "<p>Soodsaim, kergeim ja piseimaks kokku k&auml;iv popup telgi lahendus, mis ei v&otilde;ta autos &uuml;ldse ruumi ja v&otilde;ib kasv&otilde;i kogu aeg pagasiruumis olla juhuks, kui seda peaks vaja minema. Ideaalne soodne lahendus, mis m&otilde;ne hetkega autost v&otilde;tta ja lahti t&otilde;mmata, kui peaks vihmasabin &otilde;ues viibimist segama. Telk ei pea tugevale tuulele vastu ja seega kui soovida, et see aastaid vastu peaks siis tuleks telki mitte tugeva tuulega kasutada v&otilde;i see v&auml;ga korralikult neljast k&uuml;ljest n&ouml;&ouml;ridega maa k&uuml;lge kinnitada, et tuul seda l&otilde;hkuda ei saaks. Suurep&auml;rane alternatiiv ka telgi rentimisele!</p>\n<p>Telk on valmistatud 30mm pulberv&auml;rvitud terasraamist ning kattematerjaliks on veekindel 190g/m2 pol&uuml;esterkangas.</p>\n<p>Antud telgi raam on k&otilde;ik &uuml;hes t&uuml;kis ning ka katust ei pea maha v&otilde;tma ja eraldi paigaldama - selle saab raamile peale j&auml;tta. Antud telgi t&otilde;mbab ilma eelneva kogemuseta kaks 13 aastast alla minutiga p&uuml;sti! Testitud!</p>",
+	"description_short": "Soodne valik väheseks kodukasutuseks",
+	"image": "deb43c91-cb9f-44f2-a7cf-c1f418f85950.jpg",
+	"title_tag": "Kerged & odavad popup ehk easyup tüüpi telgid",
+	"title_og": null,
+	"parent_id": 7,
+	"meta_description": "Soodsad ning kergekaalulised ülilihtsasti paigaldatavad popup tüüpi telgid. Mugavad kaasas kanda ja paigaldus võtab paar minutit aega. Hea rendi alternatiiv.",
+	"keywords": null,
+	"image_og": null,
+	"description_og": null,
+	"products_categories_files": [
+		{
+			"directus_file": {
+				"filename_disk": "bbe27809-f94e-43e9-b227-69cb1457c4cc.png",
+				"title": "PopUp Home Telk Soodne"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "74b92f72-e744-45a4-a529-d89d3762da4d.png",
+				"title": "PopUp Telk Home Koduaeda"
+			}
+		}
+	]
+}

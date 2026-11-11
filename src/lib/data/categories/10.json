@@ -1,0 +1,97 @@
+{
+	"products": [
+		{
+			"title": "PVC materjal 520g/m2",
+			"selling_price": 2.82,
+			"description": "<p>Vee ja UV kindel. Sama materjal nagu rekkadel. Peab aastak&uuml;mneid vastu. L&otilde;igatakse tehases soovitud m&otilde;&otilde;tu. Ideaalne v&otilde;imalus &uuml;lisoodsalt aastak&uuml;mneid vastu pidav katus ehitada. Sobib ka ise telgi ehitamiseks v&otilde;i telgi parandamiseks. Samast materjalist on ka meie profiseeria PVC telgid.</p>\n<p>T&ouml;&ouml;tleme &auml;&auml;red ja paigaldame kinnituskohad. Vaata teist pilti.</p>",
+			"colors": [
+				" valge"
+			],
+			"image": "63c0a52e-b26e-4089-a3ee-b50bb71440d2.png"
+		},
+		{
+			"title": "Jalaraskused. Liivakott 15kg",
+			"selling_price": 12,
+			"description": "<p>Pol&uuml;ester ~650D. Al. 4tk koos telgiga ostes hind &euro;12. &Uuml;hekaupa koos telgiga &euro;14. Hind ilma telgita ostes &euro;16.</p>",
+			"colors": [
+				" must"
+			],
+			"image": "d3fb7101-c8c1-44ff-8d2b-8826da6bdc9e.png"
+		},
+		{
+			"title": "Jalaraskused. Metall 14kg",
+			"selling_price": 40,
+			"description": "<p>Al. 4tk koos telgiga ostes hind &euro;40. &Uuml;hekaupa koos telgiga &euro;45. Hind ilma telgita ostes &euro;50.</p>",
+			"colors": [
+				" must"
+			],
+			"image": "378560bc-7a94-47b0-a343-fa697b617948.png"
+		},
+		{
+			"title": "Digitrükk. Tekst.",
+			"selling_price": 50,
+			"description": null,
+			"colors": null,
+			"image": null
+		},
+		{
+			"title": "3x3m Popup Müügilett",
+			"selling_price": null,
+			"description": "<p>Kattematerjal on tugev PVC 380g/m2</p>",
+			"colors": [
+				" valge",
+				" must"
+			],
+			"image": "c83e54f5-4193-4a43-b017-cc6a1c65481b.png"
+		}
+	],
+	"products_category": {
+		"name": "Telgid & PVC Hallid",
+		"products_categories": [
+			{
+				"name": "Laotelgid & tulekindlad telgid",
+				"slug": "laotelgid"
+			},
+			{
+				"name": "PVC hallid & kaarhallid",
+				"slug": "pvc-hallid-kaarhallid"
+			},
+			{
+				"name": "EasyFlex Premium moodultelgid",
+				"slug": "moodul-pro"
+			},
+			{
+				"name": "Tugevad profitelgid",
+				"slug": "profitelk-muuk"
+			},
+			{
+				"name": "Popup kergtelgid",
+				"slug": "pop-up"
+			},
+			{
+				"name": "Star Telgid",
+				"slug": "umartelgid"
+			},
+			{
+				"name": "Kuppeltelgid",
+				"slug": null
+			},
+			{
+				"name": "Täispuhutavad telgid",
+				"slug": null
+			},
+			{
+				"name": "Telkide lisavarustus",
+				"slug": "telkide-lisavarustus"
+			}
+		]
+	},
+	"title": "Lisavarustus peo- ja laotelkidele",
+	"title_tag": null,
+	"title_og": null,
+	"meta_description": "PVC materjali müük ruutmeetri kaupa, PVC telkide ning ladude kinnitusvahendid, jalaraskused, trükiteenus ja palju muud Eesti suurimast telgipoest.",
+	"keywords": null,
+	"image_og": null,
+	"description_og": null,
+	"products_categories_files": []
+}

@@ -4,7 +4,7 @@
 	import SidebarRight from '$lib/components/SidebarRight.svelte';
 
 	export let data: any;
-	const items = data.item.data.products_categories_by_pk;
+	const items = data.item;
 
 	let modal = false;
 	let image: string;
@@ -33,7 +33,7 @@
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
-		><img src="https://cms.admin.servicehost.io/assets/{image}" alt={imageDesc} /></Modal
+		><img src="/cms/{image}" alt={imageDesc} /></Modal
 	>
 {/if}
 
@@ -65,7 +65,7 @@
 						<p class="product-image">
 							<img
 								class="mainImage"
-								src="https://cms.admin.servicehost.io/assets/{items.image}"
+								src="/cms/{items.image}"
 								alt="Tugevad profitelgid"
 								title="Tugevad profitelgid"
 							/>
@@ -84,7 +84,7 @@
 										<img
 											in:scale
 											class="productImage"
-											src="https://cms.admin.servicehost.io/assets/{image.directus_file.filename_disk}"
+											src="/cms/{image.directus_file.filename_disk}"
 											alt={image.directus_file.title}
 										/>
 									</button>
@@ -128,7 +128,7 @@
 									on:click={() => switchModal(product.image, product.title)}
 								>
 									<img
-										src="https://cms.admin.servicehost.io/assets/{product.image}"
+										src="/cms/{product.image}"
 										class="product"
 										alt={product.title}
 									/>

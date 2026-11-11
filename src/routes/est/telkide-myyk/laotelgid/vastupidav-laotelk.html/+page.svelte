@@ -28,7 +28,7 @@
 
 {#if modal}
 	<Modal title={imageDesc} on:cancel={() => switchModal('', '')}
-		><img src="https://cms.admin.servicehost.io/assets/{image}" alt={imageDesc} /></Modal
+		><img src="/cms/{image}" alt={imageDesc} /></Modal
 	>
 {/if}
 
@@ -59,7 +59,7 @@
 						in:scale
 						class="mainImage"
 						style="height:350px"
-						src="https://cms.admin.servicehost.io/assets/{data.cms.image}"
+						src="/cms/{data.cms.image}"
 						alt="Tugevad profitelgid"
 						title="Tugevad profitelgid"
 					/>
@@ -79,7 +79,7 @@
 									<img
 										in:scale
 										class="productImage"
-										src="https://cms.admin.servicehost.io/assets/{image.directus_file.filename_disk}"
+										src="/cms/{image.directus_file.filename_disk}"
 										alt={image.directus_file.title}
 									/>
 								</button>

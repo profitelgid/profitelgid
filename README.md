@@ -2,7 +2,7 @@
 
 * Live site: https://pvcfactory.ee
 * Deployment: https://profi-telgid.vercel.app/
-* API endpoint: https://apps.admin.servicehost.io/v1/graphql
+* Content: `src/lib/data/categories/*.json` (snapshot of the former Hasura API), images in `static/cms/`
 * Github u: info@pvcfactory.ee (ksaks krd A!)
 
 ## Creating a project

@@ -1,0 +1,367 @@
+[
+	{
+		"directus_files_id": "e3779a1c-ac0b-4805-b854-bae493e2a2ad",
+		"id": 1,
+		"products_categories_id": 25
+	},
+	{
+		"directus_files_id": "e55756f4-02f2-402a-92f2-ea41bc18e60c",
+		"id": 2,
+		"products_categories_id": 25
+	},
+	{
+		"directus_files_id": "e93773b4-b36b-4fdb-a079-d52a1623406b",
+		"id": 3,
+		"products_categories_id": 25
+	},
+	{
+		"directus_files_id": "ab36efb1-8484-4f5b-b97f-d2f496ed4651",
+		"id": 4,
+		"products_categories_id": 25
+	},
+	{
+		"directus_files_id": null,
+		"id": 5,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": null,
+		"id": 6,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": null,
+		"id": 7,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": "e67b6fe2-0906-4e36-b652-a84515c15b7c",
+		"id": 8,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": "a31206e7-2c47-4b82-b5f7-6bc474e50014",
+		"id": 9,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": "ebb73338-a3f3-49e6-84d1-0acca6c20d64",
+		"id": 10,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "03950d77-1262-4eb7-8138-8bd975529c07",
+		"id": 11,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "a387cb8a-1c3e-4aca-acb6-2e9964b82465",
+		"id": 12,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "7ed29a48-c9ac-4fb2-9c9e-1d8b859f405b",
+		"id": 13,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "4cb876d3-459b-406f-8db6-b8f66adf6fc4",
+		"id": 14,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "e67b6fe2-0906-4e36-b652-a84515c15b7c",
+		"id": 15,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": null,
+		"id": 16,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": null,
+		"id": 17,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": "b6a7811c-c924-40d7-be24-55a97a49eea3",
+		"id": 18,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "e3f6b178-817b-4395-afdf-a8415422f610",
+		"id": 19,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "ec464a39-2fab-4466-9c55-164cf80925c9",
+		"id": 20,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "b77fda9a-6bc9-4736-8ca1-a3013292cbd2",
+		"id": 21,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "8d85222d-7703-47de-a412-4e2a8615c767",
+		"id": 22,
+		"products_categories_id": 18
+	},
+	{
+		"directus_files_id": "38185e74-42be-453c-84d1-6541f7d283a9",
+		"id": 23,
+		"products_categories_id": 18
+	},
+	{
+		"directus_files_id": null,
+		"id": 24,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": "54ab004a-957c-45d5-8069-2d434f898481",
+		"id": 25,
+		"products_categories_id": 18
+	},
+	{
+		"directus_files_id": "fd1d9d68-7cc6-4fb2-b4b2-5ec1ad4126b6",
+		"id": 26,
+		"products_categories_id": 18
+	},
+	{
+		"directus_files_id": "ae418075-bb65-48ef-b128-8503e644310f",
+		"id": 27,
+		"products_categories_id": 25
+	},
+	{
+		"directus_files_id": "0fe83b50-1ba8-4198-bab7-e15fc13d1d80",
+		"id": 28,
+		"products_categories_id": 25
+	},
+	{
+		"directus_files_id": "a36be347-d704-41ac-9fa4-01b166778e2c",
+		"id": 29,
+		"products_categories_id": 25
+	},
+	{
+		"directus_files_id": "a36be347-d704-41ac-9fa4-01b166778e2c",
+		"id": 30,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "ae418075-bb65-48ef-b128-8503e644310f",
+		"id": 31,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "0fe83b50-1ba8-4198-bab7-e15fc13d1d80",
+		"id": 32,
+		"products_categories_id": 16
+	},
+	{
+		"directus_files_id": "38a3bf3f-3c1b-479e-b4e6-89379e79bada",
+		"id": 33,
+		"products_categories_id": 26
+	},
+	{
+		"directus_files_id": "b1087f30-d4de-49d0-bd9d-52911226ef75",
+		"id": 34,
+		"products_categories_id": 26
+	},
+	{
+		"directus_files_id": "84b22826-5044-473a-8d11-b0152a6932cc",
+		"id": 35,
+		"products_categories_id": 26
+	},
+	{
+		"directus_files_id": "6a67b6f1-31ab-40a9-8296-27a4d0b45ea3",
+		"id": 36,
+		"products_categories_id": 26
+	},
+	{
+		"directus_files_id": "065166de-b080-4161-8d1d-a9ed191648f8",
+		"id": 37,
+		"products_categories_id": 26
+	},
+	{
+		"directus_files_id": "92f4f613-b83f-4101-a279-cde017cffcd5",
+		"id": 38,
+		"products_categories_id": 26
+	},
+	{
+		"directus_files_id": "854a6c3e-c720-4503-a5c6-776f3734c869",
+		"id": 39,
+		"products_categories_id": 26
+	},
+	{
+		"directus_files_id": "2b5d5c92-9ced-4a5a-a9fc-efa7496629f7",
+		"id": 40,
+		"products_categories_id": 26
+	},
+	{
+		"directus_files_id": "deb43c91-cb9f-44f2-a7cf-c1f418f85950",
+		"id": 41,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": "bbe27809-f94e-43e9-b227-69cb1457c4cc",
+		"id": 42,
+		"products_categories_id": 12
+	},
+	{
+		"directus_files_id": "74b92f72-e744-45a4-a529-d89d3762da4d",
+		"id": 43,
+		"products_categories_id": 12
+	},
+	{
+		"directus_files_id": "2eb4a9b6-c305-4d11-8178-760789d93e64",
+		"id": 44,
+		"products_categories_id": null
+	},
+	{
+		"directus_files_id": "0d502be9-b757-40da-8cc3-9ffe4bbf2059",
+		"id": 45,
+		"products_categories_id": 15
+	},
+	{
+		"directus_files_id": "c8af0370-2e1d-4829-8393-5046b7b725fb",
+		"id": 46,
+		"products_categories_id": 15
+	},
+	{
+		"directus_files_id": "659a9c64-6549-4218-bcc1-5ce0dcb47a31",
+		"id": 47,
+		"products_categories_id": 15
+	},
+	{
+		"directus_files_id": "50ea1b41-c16b-432a-8093-93abc8b3c6df",
+		"id": 48,
+		"products_categories_id": 15
+	},
+	{
+		"directus_files_id": "32b4fa3a-063e-4e57-abce-83bade30c55b",
+		"id": 49,
+		"products_categories_id": 15
+	},
+	{
+		"directus_files_id": "f2aef414-f168-4e7e-a16d-069baf6dbad4",
+		"id": 50,
+		"products_categories_id": 15
+	},
+	{
+		"directus_files_id": "55cd003d-be21-4789-a80b-caf8b40ee6b3",
+		"id": 51,
+		"products_categories_id": 15
+	},
+	{
+		"directus_files_id": "34ec01d8-eaff-402b-bb35-0651ab9b4702",
+		"id": 52,
+		"products_categories_id": 15
+	},
+	{
+		"directus_files_id": "4a8f2eed-173b-490a-b319-96b681376325",
+		"id": 53,
+		"products_categories_id": 8
+	},
+	{
+		"directus_files_id": "00c7f083-67ff-4bce-9f57-316ff1364d57",
+		"id": 54,
+		"products_categories_id": 8
+	},
+	{
+		"directus_files_id": "28afc28d-7d40-4f33-8584-5f3a477f7800",
+		"id": 55,
+		"products_categories_id": 8
+	},
+	{
+		"directus_files_id": "76b14d88-9f57-4496-be54-e487c0c6a028",
+		"id": 56,
+		"products_categories_id": 8
+	},
+	{
+		"directus_files_id": "4daaa676-5c3d-47e5-9d33-81dc5fa4e2d4",
+		"id": 57,
+		"products_categories_id": 13
+	},
+	{
+		"directus_files_id": "bb43bcc3-5313-4cb9-8b2f-9f44969e3d20",
+		"id": 58,
+		"products_categories_id": 13
+	},
+	{
+		"directus_files_id": "db35b36a-25f6-4173-bf9f-c9e1b851feb2",
+		"id": 59,
+		"products_categories_id": 13
+	},
+	{
+		"directus_files_id": "4c552d0f-dc6d-4738-ac99-e94ea8fa3f4c",
+		"id": 60,
+		"products_categories_id": 13
+	},
+	{
+		"directus_files_id": "1011ddef-d1bb-4c62-ad36-bedf47f0e604",
+		"id": 61,
+		"products_categories_id": 17
+	},
+	{
+		"directus_files_id": "01159d53-79e7-4cbc-b935-afd3a64e5acd",
+		"id": 62,
+		"products_categories_id": 17
+	},
+	{
+		"directus_files_id": "0a834bf9-4c17-4179-a5b5-73713d625e99",
+		"id": 63,
+		"products_categories_id": 17
+	},
+	{
+		"directus_files_id": "2a98ba5f-13b9-42a6-9619-605c6b24f5f2",
+		"id": 64,
+		"products_categories_id": 17
+	},
+	{
+		"directus_files_id": "3f801c30-ed61-4607-a0a5-094d2b7d5235",
+		"id": 65,
+		"products_categories_id": 17
+	},
+	{
+		"directus_files_id": "4093dcb7-5126-46a9-8314-c8838b021f78",
+		"id": 66,
+		"products_categories_id": 17
+	},
+	{
+		"directus_files_id": "929224e4-52b1-49f7-9920-8c2f583b63f0",
+		"id": 67,
+		"products_categories_id": 17
+	},
+	{
+		"directus_files_id": "47e07a1a-7e0e-4708-ab30-c8c33d49e3c1",
+		"id": 68,
+		"products_categories_id": 17
+	},
+	{
+		"directus_files_id": "539885a3-4c7a-423f-94c6-bf54fad34e1b",
+		"id": 69,
+		"products_categories_id": 21
+	},
+	{
+		"directus_files_id": "cdfc2fc3-322c-4057-8578-3df1900366b1",
+		"id": 70,
+		"products_categories_id": 21
+	},
+	{
+		"directus_files_id": "a1fa7f1d-00d6-41df-9d60-924665246682",
+		"id": 71,
+		"products_categories_id": 21
+	},
+	{
+		"directus_files_id": "8996abca-0d54-4db8-83ef-117113234ef0",
+		"id": 72,
+		"products_categories_id": 21
+	},
+	{
+		"directus_files_id": "71267a0e-1211-4dc1-9ce7-3d3d01430aa6",
+		"id": 73,
+		"products_categories_id": 24
+	}
+]

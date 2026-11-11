@@ -1,34 +1,3 @@
-/** @type {import('./$types').PageLoad} */
+import category from '$lib/data/categories/2.json';
 
-export async function load() {
-  const data = await fetch('https://apps.admin.servicehost.io/v1/graphql', {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json'
-    },
-    body: JSON.stringify({
-      query: `
-      query GetCategory {
-        products_categories_by_pk(id: 2) {
-          name
-          title
-          image
-          description
-          title_tag
-          meta_description
-          keywords
-          title_og
-          description_og
-          image_og
-        }
-      }
-          `
-    }
-    )
-  });
-  const json = await data.json();
-
-  return {
-    cms: json.data.products_categories_by_pk
-  };
-}
+export const load = () => ({ cms: category });

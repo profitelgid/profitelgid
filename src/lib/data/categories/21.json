@@ -1,0 +1,74 @@
+{
+	"products": [
+		{
+			"title": "Piljardilaud, pinksilaud, hokilaud 3-in-1",
+			"selling_price": 129,
+			"colors": [
+				" pruun"
+			],
+			"image": "8df700df-46e7-43df-b6c2-145bb874fd4b.jpg"
+		},
+		{
+			"title": "Korvpalli korv PRO",
+			"selling_price": 215,
+			"colors": null,
+			"image": "8996abca-0d54-4db8-83ef-117113234ef0.png"
+		}
+	],
+	"products_category": {
+		"name": "Hobispordi kaubad",
+		"products_categories": [
+			{
+				"name": " Lauajalgpalli lauad",
+				"slug": null
+			},
+			{
+				"name": "Piljardilauad, Pinksilauad, Õhuhoki",
+				"slug": "piljard-lauatennis-hokilaud"
+			},
+			{
+				"name": "Basseinid / Veehoidlad",
+				"slug": "basseinid-veehoidlad"
+			}
+		]
+	},
+	"name": "Piljardilauad, Pinksilauad, Õhuhoki",
+	"title": "Piljardilauad, pinksilauad ja õhuhoki lauad",
+	"coating_material": null,
+	"description": "<p>Antud piljardi-, pinksi- ja hokilauad pole m&otilde;eldud professionaalseks kasutamiseks, kuid on loodud vastupidavatest materjaldisest, et kesta aastaid ettev&otilde;tte v&otilde;i misiganes asutuse puhkeruumis. Samuti on need ideaalne kingitus nooremale p&otilde;lvkonnale.</p>",
+	"description_short": "Hobispordi lauad, mis on ideaalsed ettevõtte vaba aja ruumi või noortekeskusesse",
+	"image": "8df700df-46e7-43df-b6c2-145bb874fd4b.jpg",
+	"title_tag": "Soodsad piljardilauad otse PVC tehasest",
+	"title_og": null,
+	"parent_id": 2,
+	"meta_description": "PVC tehase hobispordi kaupade alt leiad kvaliteetsed aga samas soodsad piljardilauad, mis on ideaalsed noortekeskusesse, firma puhkeruumi või kingituseks oma noorele sõbrale.",
+	"keywords": null,
+	"image_og": "8df700df-46e7-43df-b6c2-145bb874fd4b.jpg",
+	"description_og": null,
+	"products_categories_files": [
+		{
+			"directus_file": {
+				"filename_disk": "539885a3-4c7a-423f-94c6-bf54fad34e1b.png",
+				"title": "262b Dcf.png"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "cdfc2fc3-322c-4057-8578-3df1900366b1.png",
+				"title": "1 Hnjq5f.png"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "a1fa7f1d-00d6-41df-9d60-924665246682.png",
+				"title": "Uz P V5bu.png"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "8996abca-0d54-4db8-83ef-117113234ef0.png",
+				"title": "Korvpalli korv"
+			}
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"products": [
+		{
+			"title": "2x2m Classic Popup",
+			"selling_price": 225,
+			"colors": [
+				" valge",
+				" roheline",
+				" sinine",
+				" hall",
+				" beež"
+			],
+			"image": "f1619f88-c138-49fc-96c1-9e6fd32b8d7c.png"
+		},
+		{
+			"title": "2.5x2.5m Popup Classic Alu",
+			"selling_price": 292,
+			"colors": [
+				" tumehall",
+				" must"
+			],
+			"image": "00290532-3ab3-4e3a-af6c-6fab14f8e5df.png"
+		},
+		{
+			"title": "3x3m Popup Classic Alu",
+			"selling_price": 335,
+			"colors": [
+				"valge",
+				"punane",
+				"beež"
+			],
+			"image": "202ca34b-560e-48c3-a247-22c49fd261b8.jpg"
+		},
+		{
+			"title": "3x6m Popup Classic Alu",
+			"selling_price": 484,
+			"colors": [
+				" valge",
+				" roheline",
+				" sinine",
+				" punane",
+				" beež",
+				" must",
+				" oranž"
+			],
+			"image": "f3c41bdb-b4db-4626-bfbb-4cb27546f63d.png"
+		}
+	],
+	"products_category": {
+		"name": "Popup kergtelgid",
+		"products_categories": [
+			{
+				"name": "Popup Profi",
+				"slug": "kuuskant-hex-profi-popup"
+			},
+			{
+				"name": "Popup Classic Alu (kergtelgid)",
+				"slug": "soodsad-easyup"
+			},
+			{
+				"name": "Popup Home (soodsaim)",
+				"slug": "popup-koduaeda"
+			}
+		]
+	},
+	"name": "Popup Classic Alu (kergtelgid)",
+	"title": "Pop-up Classic kergtelgid",
+	"coating_material": "Polüester/PVC (300D) 100% veekindel",
+	"description": "<p>&Uuml;lipopulaarne nende seas, kes soovivad, et telk mahuks mugavalt s&otilde;iduautosse, oleks kerge ja &uuml;lilihtne paigaldada ilma end f&uuml;&uuml;siliselt pingutamata. Antud pop-up telk on k&otilde;ige ostetum kodukasutajate poolt, kuna hind on soodsaim ja koduaias on enamasti piisavalt v&otilde;imalusi telgi korralikult kinnitamiseks, nii et tuul telki l&otilde;huma ei p&auml;&auml;se. Tugeva tormi korral aga ei taha keegi nagunii aias istuda ja telgi saab paari minutiga kokku panna ja tuppa p&otilde;geneda!</p>\n<p>Telgi k&uuml;ljek&otilde;rgus reguleeritav 2,0-2,1-2,2m. Tipu k&otilde;rgus: 3,25-3,45m. Telgi raam on 30x1mm k&uuml;llaltki tugeva profiiliga ning kattematerjal on 300D pol&uuml;ester/PVC. Pol&uuml;esterkangas on impregneeritud PVC kihiga, et tagada 100% vihmakindlus. Samast materjalist on toodetud k&otilde;ik pop-up telgid.</p>\n<p>Antud telgi raam on k&otilde;ik &uuml;hes t&uuml;kis ning ka katust ei pea maha v&otilde;tma ja eraldi paigaldama - selle saab raamile peale j&auml;tta. Antud telgi t&otilde;mbab ilma eelneva kogemuseta kaks 13 aastast alla minutiga p&uuml;sti! Testitud!</p>",
+	"description_short": "Kerge ja soodne laadatelk",
+	"image": "236e358d-575c-4040-bec2-0236e6377663.jpeg",
+	"title_tag": "Kerged & vastupidavad popup ehk easyup tüüpi telgid",
+	"title_og": null,
+	"parent_id": 7,
+	"meta_description": "Soodsad, kergekaalulised ja vastupidavad popup ehk easyup tüüpi telgid. Mugavad kaasas kanda ja paigaldus võtab paar minutit aega. Parim kvaliteedi ja hinna suhe.",
+	"keywords": null,
+	"image_og": null,
+	"description_og": null,
+	"products_categories_files": [
+		{
+			"directus_file": {
+				"filename_disk": "4daaa676-5c3d-47e5-9d33-81dc5fa4e2d4.jpg",
+				"title": "Kerge aga kvaliteetsem easyup laadatelk"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "bb43bcc3-5313-4cb9-8b2f-9f44969e3d20.jpg",
+				"title": "Kvaliteetne alumiiniumraam (Classic Alu)"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "db35b36a-25f6-4173-bf9f-c9e1b851feb2.jpg",
+				"title": "Lihtsasti kokku/lahti käiv easyup telk Classic"
+			}
+		},
+		{
+			"directus_file": {
+				"filename_disk": "4c552d0f-dc6d-4738-ac99-e94ea8fa3f4c.jpg",
+				"title": "Popup Classic Alu krõpsuga ühendus"
+			}
+		}
+	]
+}

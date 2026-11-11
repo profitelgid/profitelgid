@@ -46,7 +46,7 @@
 					class="product-image"
 				>
 					<img
-						src="https://cms.admin.servicehost.io/assets/a31206e7-2c47-4b82-b5f7-6bc474e50014"
+						src="/cms/a31206e7-2c47-4b82-b5f7-6bc474e50014.jpg"
 						width="170"
 						height="170"
 						alt="A-tüüpi soodne laotelk"
